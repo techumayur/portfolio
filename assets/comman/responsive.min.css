@@ -1,0 +1,62 @@
+      /* TABLE OF CONTENTS */
+      /* ------------------
+1. General
+2. Header
+3. Home 
+4. About Me
+5. Portfolio
+6. Portfolio Inner
+7. Resume
+8. Contact Me
+9. Blog
+10. Blog Inner
+11. Tech
+12. Tech Inner
+13. Tips and Tricks 
+14. Tips and Tricks Inner
+15. Tutorials 
+16. Tutorials Inner
+17. Source Code
+18. Source Code Inner
+-------------------- */
+
+
+      @media (max-width: 1199.5px) {
+
+            /* 2. Header CSS Start Here */
+            .header-wrapper .nav-link {
+                  padding: 0 0.6rem !important;
+                  font-size: 0.9rem;
+            }
+
+            /* 2. Header CSS End Here */
+      }
+
+      @media (max-width:991px) {
+
+            /* 2. Header CSS Start Here */
+            .header-scrolled {
+                  height: auto;
+            }
+
+            .header-wrapper .navbar-collapse {
+                  margin-top: -0.125rem;
+            }
+
+            .header-wrapper .menu-navbar-nav {
+                  text-align: center;
+                  background-color: var(--bg-white);
+                  padding-bottom: 0.9375rem;
+            }
+
+            .header-wrapper .nav-link {
+                  margin-top: 1rem;
+                  font-size: 1.2rem;
+            }
+
+            li.hireme-btn {
+                  margin-top: 3rem;
+            }
+
+            /* 2. Header CSS End Here */
+      }
