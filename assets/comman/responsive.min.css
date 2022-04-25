@@ -30,6 +30,22 @@
             }
 
             /* 2. Header CSS End Here */
+
+            /* 3. Home CSS Start Here */
+
+            /* 3.1 Home Banner Section CSS Start Here */
+            .home-banner-items {
+                  margin: 0 auto 2rem;
+            }
+
+            /* 3.1 Home Banner Section CSS End Here */
+
+            .home-counter {
+                  padding-top: 3.8rem;
+            }
+
+
+            /* 3. Home CSS End Here */
       }
 
       @media (max-width:991px) {
@@ -59,4 +75,76 @@
             }
 
             /* 2. Header CSS End Here */
+
+            /* 19. Footer CSS Start Here */
+            .social-icon a {
+                  padding: 0.2rem 0.4rem;
+            }
+
+            .quick-links {
+                  padding-left: 1.5rem;
+            }
+
+            /* 19. Footer CSS End Here */
+
+      }
+
+
+      @media (max-width:768px) {
+
+            /* 1. General CSS Start here */
+            /* Custom Font Size */
+            p {
+                  font-size: 1.5rem;
+                  line-height: 1.6;
+            }
+
+            a {
+                  font-size: 1.2rem;
+            }
+
+            /* 1. General CSS Start here */
+
+            /* 3. Home CSS Start Here */
+
+            /* 3.1 Home Banner Section CSS Start Here */
+            .home-banner {
+                  padding-bottom: 0;
+            }
+
+            /* 3.1 Home Banner Section CSS End Here */
+
+            /* 3.2 About Me Section CSS Start Here  */
+            .home-about-me {
+                  padding-top: 0;
+            }
+
+            /* 3.2 About Me Section CSS End Here  */
+
+            /* 3.3 Counter Section CSS Start Here  */
+
+            .home-counter-content {
+                  margin: 0.5rem 0;
+            }
+
+            .home-counter .title {
+                  margin-bottom: 3rem;
+            }
+
+            /* 3.3 Counter Section CSS End Here  */
+
+            /* 3. Home CSS End Here */
+
+
+
+            /* 19. Footer CSS Start Here */
+            footer a {
+                  margin: 1rem 1rem 0 0;
+            }
+
+            .social-icon ul {
+                  justify-content: center;
+            }
+
+            /* 19. Footer CSS End Here */
       }
