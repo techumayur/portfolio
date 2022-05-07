@@ -1452,6 +1452,165 @@
 
       /* 6. Portfolio Inner CSS Start Here */
 
+      .portfolio-inner h1 {
+            color: var(--primary-text);
+      }
+
+      .portfolio-inner-content {
+            position: relative;
+      }
+
+      .portfolio-inner-content .portfolio-images img {
+            width: 30rem;
+      }
+
+      .portfolio-inner-content .portfolio-image-desktop {
+            width: 27.5rem;
+            top: 5.5rem;
+      }
+
+      .portfolio-inner-content .portfolio-image-desktop img {
+            height: 16.9rem;
+      }
+
+      .portfolio-inner-content .portfolio-image-laptop {
+            top: 1.0rem;
+            width: 23.3rem;
+      }
+
+      .portfolio-inner-content .portfolio-laptop-screen {
+            top: 14.5rem;
+            right: 4rem;
+      }
+
+      .portfolio-inner-content .portfolio-image-laptop img {
+            height: 14.6rem;
+      }
+
+      .portfolio-inner-content .portfolio-ipad-screen img {
+            width: 16rem;
+      }
+
+      .portfolio-inner-content .portfolio-image-ipad {
+            top: 0.7rem;
+            width: 14.2rem;
+            left: -0.7rem;
+      }
+
+      .portfolio-inner-content .portfolio-image-ipad img {
+            height: 18.8rem;
+      }
+
+      .portfolio-inner-content .portfolio-ipad-screen {
+            top: 10rem;
+            left: 13rem;
+      }
+
+      .portfolio-inner-content .portfolio-mobile-screen img {
+            width: 6.8rem;
+            object-fit: cover;
+            min-width: 100%;
+            min-height: 100%;
+            flex-shrink: 0;
+      }
+
+      .portfolio-inner-content .portfolio-image-mobile {
+            width: 5.7rem;
+            top: 0.5em;
+            left: -0.1rem;
+      }
+
+      .portfolio-inner-content .portfolio-image-mobile img {
+            height: 12.6rem;
+      }
+
+      .portfolio-inner-content .portfolio-mobile-screen {
+            top: 20rem;
+            left: 10rem;
+      }
+
+      .portfolio-inner-wrapper {
+            margin: 8rem 0 1rem;
+      }
+
+      .portfolio-inner-wrapper p {
+            margin: 2rem 0 3rem;
+      }
+
+      .portfolio-inner-tag {
+            margin-top: 1rem;
+      }
+
+      .portfolio-inner-author img {
+            border-radius: 100%;
+            width: 1.9rem;
+            margin-right: 0.4rem;
+      }
+
+      .portfolio-inner-author li {
+            font-size: 1.2rem;
+            font-weight: 500;
+            display: inline-block;
+            margin: 0 2rem 0 0;
+      }
+
+      .portfolio-inner-author i {
+            color: var(--primary-text);
+            margin-right: 0.4rem;
+            font-size: 1.7rem;
+      }
+
+      .portfolio-inner-author {
+            margin: 2rem 0;
+      }
+
+      .portfolio-inner-tag li {
+            display: inline-block;
+            margin: 0.9rem 0.9rem 0;
+            color: var(--primary-text);
+            font-weight: 600;
+      }
+
+      .portfolio-inner-tag a {
+            color: var(--primary-text);
+            font-weight: 500;
+      }
+
+      .portfolio-inner-tag ul {
+            width: 30rem;
+      }
+
+      .portfolio-inner-social-share,
+      .portfolio-inner-tag {
+            display: flex;
+      }
+
+      .portfolio-inner-social-share li {
+            margin: 1rem 0.5rem;
+            display: inline-block;
+      }
+
+      .portfolio-inner-social-share i {
+            color: var(--primary-text);
+            font-size: 1.9rem;
+      }
+
+      .portfolio-inner-tag span,
+      .portfolio-inner-social-share span {
+            font-size: 1.5rem;
+            font-weight: 600;
+            color: var(--primary-color);
+            margin: 0.8rem;
+      }
+
+      .portfolio-inner-tag span {
+            margin: 0.4rem 0.9rem 0 0;
+      }
+
+      .portfolio-inner-social-share {
+            justify-content: end;
+      }
+
       /* 6. Portfolio Inner CSS End Here */
 
       /* 7. Resume CSS Start Here */
