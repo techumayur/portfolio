@@ -3,7 +3,7 @@
           <div class="row pb-5">
                <div class="col-md-4 col-lg-3 text-center">
                     <a href="index.php">
-                         <img src="assets/images/logo.png" class="img-fluid" alt="Footer Logo" title="Footer Logo">
+                         <img src="assets/images/common/logo.png" class="img-fluid" alt="Footer Logo" title="Footer Logo">
                     </a>
                     <div class="social-icon">
                          <ul class="list-unstyled d-flex ">
@@ -117,7 +117,7 @@
                </div>
           </div>
           <div class="row row-cols-1 pt-5 copy-right">
-               <ul class="list-unstyled d-flex justify-content-between">
+               <ul class="list-unstyled d-md-flex justify-content-between">
                     <li>
                          <a href="javascript:void(0)">
                               © <?php echo date("Y"); ?>. All rights reserved by Techu Mayur

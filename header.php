@@ -18,7 +18,7 @@
      <meta property="og:description" content="">
      <meta property="og:image" content="image.png">
      <!-- Fav Icon Link Here -->
-     <link rel="icon" type="image/png" href="assets/images/favicon.png" />
+     <link rel="icon" type="image/png" href="assets/images/common/favicon.png" />
      <!-- DNS Prefetch -->
      <link rel="preconnect" href="https://www.gstatic.com" crossorigin>
      <link rel="dns-prefetch" href="https://www.gstatic.com" crossorigin>
@@ -34,8 +34,8 @@
      <header class="header-wrapper">
           <nav class="navbar navbar-expand-lg fixed-top">
                <div class="container">
-                    <a class="navbar-brand" href="#">
-                         <img src="assets/images/logo.png" class="img-fluid" alt="Logo">
+                    <a class="navbar-brand" href="index.php">
+                         <img src="assets/images/common/logo.png" class="img-fluid" alt="Logo">
                     </a>
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                          <i class="fas fa-stream navbar-toggler-icon"></i>
@@ -43,13 +43,13 @@
                     <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
                          <ul class="navbar-nav menu-navbar-nav">
                               <li class="nav-item">
-                                   <a class="nav-link active" aria-current="page" href="#">Home</a>
+                                   <a class="nav-link active" aria-current="page" href="index.php">Home</a>
                               </li>
                               <li class="nav-item">
-                                   <a class="nav-link" href="#">About Me</a>
+                                   <a class="nav-link" href="about-me.php">About Me</a>
                               </li>
                               <li class="nav-item dropdown">
-                                   <a class="nav-link dropdown-toggle" href="#" id="portfoliodropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                   <a class="nav-link dropdown-toggle" href="portfolio.php" id="portfoliodropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                                         Portfolio</a>
                                    <ul class="dropdown-menu" aria-labelledby="portfoliodropdown">
                                         <li>
@@ -68,26 +68,26 @@
                                    </ul>
                               </li>
                               <li class="nav-item">
-                                   <a class="nav-link" href="#">Resume</a>
+                                   <a class="nav-link" href="resume.php">Resume</a>
                               </li>
                               <li class="nav-item">
-                                   <a class="nav-link" href="#">Contact Me</a>
+                                   <a class="nav-link" href="contact-me">Contact Me</a>
                               </li>
                               <li class="nav-item">
-                                   <a class="nav-link" href="#">Blog</a>
+                                   <a class="nav-link" href="blog.php">Blog</a>
                               </li>
                               <li class="nav-item dropdown">
-                                   <a class="nav-link dropdown-toggle" href="#" id="techdropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                   <a class="nav-link dropdown-toggle" href="tech.php" id="techdropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                                         Tech</a>
                                    <ul class="dropdown-menu" aria-labelledby="techdropdown">
-                                        <li><a class="dropdown-item" href="#">Tips and tricks</a></li>
-                                        <li><a class="dropdown-item" href="#">Tutorials</a></li>
-                                        <li><a class="dropdown-item" href="#">Source Code</a></li>
+                                        <li><a class="dropdown-item" href="tips-tricks.php">Tips and tricks</a></li>
+                                        <li><a class="dropdown-item" href="tutorials.php">Tutorials</a></li>
+                                        <li><a class="dropdown-item" href="source-code.php">Source Code</a></li>
                                    </ul>
                               </li>
                               <!-- Hire Me Button -->
                               <li class="hireme-btn">
-                                   <a href="#" class="main-btn">
+                                   <a href="#" class="main-btn" data-bs-toggle="modal" data-bs-target="#contact-form-popup">
                                         Hire Me
                                    </a>
                               </li>

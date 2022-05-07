@@ -26,7 +26,7 @@
             /* 2. Header CSS Start Here */
             .header-wrapper .nav-link {
                   padding: 0 0.6rem !important;
-                  font-size: 0.9rem;
+                  font-size: 0.8rem;
             }
 
             /* 2. Header CSS End Here */
@@ -39,11 +39,27 @@
             }
 
             /* 3.1 Home Banner Section CSS End Here */
+            section,
+            .portfolio,
+            .home-banner {
+                  overflow: hidden;
+            }
 
             .home-counter {
                   padding-top: 3.8rem;
             }
 
+            .portfolio-ipad-screen {
+                  left: 8rem;
+            }
+
+            .portfolio-mobile-screen {
+                  left: 7rem;
+            }
+
+            .portfolio-laptop-screen {
+                  right: 6rem;
+            }
 
             /* 3. Home CSS End Here */
       }
@@ -76,6 +92,26 @@
 
             /* 2. Header CSS End Here */
 
+            .portfolio-mobile-screen {
+                  left: 3rem;
+            }
+
+            .portfolio-ipad-screen {
+                  left: 4rem;
+            }
+
+            .portfolio-laptop-screen {
+                  right: 2rem;
+            }
+
+            .home-counter-content {
+                  margin: 1rem 0;
+            }
+
+            .backto-top {
+                  display: none !important;
+            }
+
             /* 19. Footer CSS Start Here */
             .social-icon a {
                   padding: 0.2rem 0.4rem;
@@ -94,6 +130,11 @@
 
             /* 1. General CSS Start here */
             /* Custom Font Size */
+            h1,
+            .home-banner h1 span {
+                  font-size: 2.5rem;
+            }
+
             p {
                   font-size: 1.5rem;
                   line-height: 1.6;
@@ -112,10 +153,14 @@
                   padding-bottom: 0;
             }
 
+            .home-banner-slider .slick-dots {
+                  bottom: -4rem;
+            }
+
             /* 3.1 Home Banner Section CSS End Here */
 
             /* 3.2 About Me Section CSS Start Here  */
-            .home-about-me {
+            .about-me {
                   padding-top: 0;
             }
 
@@ -133,13 +178,29 @@
 
             /* 3.3 Counter Section CSS End Here  */
 
+            .portfolio-ipad-screen {
+                  left: 10rem;
+            }
+
+            .portfolio-mobile-screen {
+                  left: 9rem;
+            }
+
+            .portfolio-laptop-screen {
+                  position: absolute;
+                  top: 6.9rem;
+                  right: 6.6rem;
+            }
+
             /* 3. Home CSS End Here */
 
 
 
             /* 19. Footer CSS Start Here */
             footer a {
-                  margin: 1rem 1rem 0 0;
+                  margin: 0;
+                  font-size: 0.9rem;
+                  padding: 0;
             }
 
             .social-icon ul {
@@ -147,4 +208,20 @@
             }
 
             /* 19. Footer CSS End Here */
+      }
+
+
+      @media (max-width:490px) {
+            .portfolio-ipad-screen {
+                  left: 7rem;
+            }
+
+            .portfolio-mobile-screen {
+                  left: 6rem;
+            }
+
+            .portfolio-laptop-screen {
+                  right: 5.6rem;
+                  top: 7.5rem;
+            }
       }
