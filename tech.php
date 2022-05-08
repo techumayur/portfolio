@@ -7,8 +7,7 @@ include('header.php');
 <!-- 1. Banner Section End Here -->
 
 <?php
+include('contact-form.php');
 include('footer.php');
-?>
-<?php
 include('files-link.php');
 ?>

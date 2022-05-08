@@ -1618,10 +1618,210 @@
       /* 7. Resume CSS End Here */
 
       /* 8. Contact Me CSS Start Here */
+      .contact-me {
+            padding: 5rem 0;
+      }
+
+      .contact-me-heading {
+            margin: 0 0 5rem;
+            text-align: center;
+      }
+
+      .contact-me-heading h2 {
+            line-height: 1.0;
+      }
+
+      .contact-me iframe {
+            border-radius: 20px;
+            margin: 8rem 0 3rem;
+      }
+
+      .contact-me-form {
+
+            border: 1px solid var(--primary-text);
+            padding: 3rem;
+            position: relative;
+            background: var(--bg-white);
+            border-radius: 1rem;
+            box-shadow: 0 0 12px 0 rgba(0, 0, 0, 0.2);
+      }
+
+      .contact-me-form span {
+            background: var(--primary-color);
+            color: var(--text-white);
+            border-color: var(--primary-text);
+      }
+
+      .contact-me-form .form-control {
+            border: 1px solid var(--primary-text);
+      }
+
+      .contact-me-form .form-group {
+            margin-bottom: 1.5rem;
+      }
+
+      .contact-me-form textarea {
+            height: 05rem;
+            border-top-right-radius: 0.3rem !important;
+            border-bottom-right-radius: 0.3rem !important;
+      }
+
+      .contact-me button {
+            border: 0;
+            padding: 0.7rem 3rem;
+            margin-top: 1rem;
+      }
+
+      .contact-me-info {
+            margin: 2rem 0;
+      }
+
+      .contact-me-info li {
+            margin: 3.2rem 0;
+      }
+
+      .contact-me-info a {
+            color: var(--primary-color);
+            font-weight: 600;
+            font-size: 1.2rem;
+            margin-left: 1rem;
+      }
+
+      .contact-me-info i {
+            background-color: var(--primary-color);
+            padding: 1rem;
+            border-radius: 100%;
+            color: var(--text-white);
+      }
+
+      .contact-me-info i.fas.fa-mobile-android {
+            padding: 1rem 1.2rem;
+      }
+
+      .contact-me-form:before {
+            content: "";
+            background-color: var(--primary-color);
+            width: 34rem;
+            height: 30rem;
+            position: absolute;
+            top: -3rem;
+            right: -7.7rem;
+            z-index: -1;
+      }
+
+      .social-buzz {
+            padding: 5rem 0;
+            text-align: center;
+      }
+
+      .social-buzz .social-icon ul {
+            justify-content: center;
+      }
+
+      .social-buzz .social-icon li {
+            margin: 1.2rem 0.2rem;
+      }
+
+      .social-buzz .social-icon i {
+            font-size: 1.3rem;
+            color: var(--text-white);
+      }
+
+      .social-buzz .social-icon a {
+            background: var(--primary-color);
+            padding: 1.0rem 1.0rem 0.8rem;
+      }
+
+      .social-post {
+            margin: 2rem 0;
+      }
+
+      .social-post .card {
+            border: 0;
+      }
+
+      .social-post iframe {
+            width: 100%;
+            border-radius: 1rem;
+            border: 1px solid #ccc;
+            height: 20rem;
+      }
 
       /* 8. Contact Me CSS End Here */
 
       /* 9. Blog CSS Start Here */
+      .blog {
+            padding: 5rem 0;
+      }
+
+      .blog .search {
+            position: relative;
+            box-shadow: 0 0 40px rgba(51, 51, 51, .1);
+      }
+
+      .blog .form-select,
+      .blog .search input {
+            text-indent: 30px;
+            border: 2px solid var(--primary-color);
+            width: 25rem;
+            height: 3rem;
+      }
+
+      .blog .search .fa-search {
+            position: absolute;
+            top: 1rem;
+            left: 1rem;
+            color: var(--primary-color);
+      }
+
+      .blog .search button {
+            position: absolute;
+            top: 0;
+            right: -2.7rem;
+            padding: 0.7rem 2rem;
+            border: 0;
+            border-radius: 0;
+      }
+
+      .blog .form-select:focus,
+      .blog .search button:focus input {
+            outline: 0;
+            box-shadow: none;
+      }
+
+      .blog .input-group span {
+            background: var(--primary-color);
+            color: var(--text-white);
+            position: absolute;
+            z-index: 999;
+            height: 3rem;
+            border-radius: 0;
+            border: 0;
+      }
+
+      .blog .form-select {
+            text-indent: 50px;
+      }
+
+      .blog-wrapper {
+            padding: 0 0 5rem;
+            text-align: center;
+      }
+
+      .blog-pagination ul {
+            justify-content: center;
+      }
+
+      .blog-pagination .page-link:hover,
+      .blog-pagination .page-item.active .page-link {
+            background-color: var(--primary-color);
+            border-color: var(--primary-text);
+            color: var(--text-white);
+      }
+
+      .blog-pagination .page-link {
+            color: var(--text-black);
+      }
 
       /* 9. Blog CSS End Here */
 

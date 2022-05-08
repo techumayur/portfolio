@@ -319,8 +319,7 @@ include('header.php');
 
 
 <?php
+include('contact-form.php');
 include('footer.php');
-?>
-<?php
 include('files-link.php');
 ?>

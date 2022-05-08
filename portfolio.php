@@ -2823,8 +2823,7 @@ include('header.php');
 <!-- 4.Clients Section End Here -->
 
 <?php
+include('contact-form.php');
 include('footer.php');
-?>
-<?php
 include('files-link.php');
 ?>

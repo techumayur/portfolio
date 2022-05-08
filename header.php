@@ -29,7 +29,6 @@
 </head>
 
 <body>
-
      <!-- 1. Header Start Here -->
      <header class="header-wrapper">
           <nav class="navbar navbar-expand-lg fixed-top">
@@ -71,7 +70,7 @@
                                    <a class="nav-link" href="resume.php">Resume</a>
                               </li>
                               <li class="nav-item">
-                                   <a class="nav-link" href="contact-me">Contact Me</a>
+                                   <a class="nav-link" href="contact-me.php">Contact Me</a>
                               </li>
                               <li class="nav-item">
                                    <a class="nav-link" href="blog.php">Blog</a>

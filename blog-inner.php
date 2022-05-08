@@ -29,8 +29,7 @@ include('header.php');
 <!-- 3.CTA Section End Here -->
 
 <?php
+include('contact-form.php');
 include('footer.php');
-?>
-<?php
 include('files-link.php');
 ?>
