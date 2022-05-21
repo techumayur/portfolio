@@ -65,27 +65,39 @@ include('header.php');
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
                                                        <div class="portfolio-image-desktop">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" class="img-fluid" alt="Desktop" />
+                                                            <picture>
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                                 <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" class="img-fluid" alt="Desktop">
+                                                            </picture>
                                                        </div>
-                                                       <img src="assets/images/portfolio/desktop.png" class="img-fluid" alt="Desktop" />
+                                                       <picture>
+                                                            <source srcset="assets/images/portfolio/desktop.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                            <source srcset="assets/images/portfolio/desktop.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                            <img loading="lazy" src="assets/images/portfolio/desktop.png" class="img-fluid" alt="Desktop">
+                                                       </picture>
                                                   </div>
                                                   <div class="portfolio-screens portfolio-laptop-screen">
                                                        <div class="portfolio-image-laptop">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-laptop.png" class="img-fluid" alt="Desktop" />
+                                                            <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-laptop.png" class="img-fluid" alt="Desktop" />
                                                        </div>
-                                                       <img src="assets/images/portfolio/laptop.png" class="img-fluid" alt="Laptop" />
+                                                       <img loading="lazy" src="assets/images/portfolio/laptop.png" class="img-fluid" alt="Laptop" />
                                                   </div>
                                                   <div class="portfolio-screens portfolio-ipad-screen">
                                                        <div class="portfolio-image-ipad">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" class="img-fluid" alt="Desktop" />
+                                                            <picture>
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                                 <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" class="img-fluid" alt="Desktop">
+                                                            </picture>
                                                        </div>
-                                                       <img src="assets/images/portfolio/ipad.png" class="img-fluid" alt="Ipad" />
+                                                       <img loading="lazy" src="assets/images/portfolio/ipad.png" class="img-fluid" alt="Ipad" />
                                                   </div>
                                                   <div class="portfolio-screens portfolio-mobile-screen">
                                                        <div class="portfolio-image-mobile">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-mobile.png" class="img-fluid" alt="Desktop" />
+                                                            <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-mobile.png" class="img-fluid" alt="Desktop" />
                                                        </div>
-                                                       <img src="assets/images/portfolio/mobile.png" class="img-fluid" alt="mobile" />
+                                                       <img loading="lazy" src="assets/images/portfolio/mobile.png" class="img-fluid" alt="mobile" />
                                                   </div>
 
                                              </div>
@@ -113,7 +125,11 @@ include('header.php');
                                                             <div class="row">
                                                                  <div class="col-3">
                                                                       <div class="home-blog-author">
-                                                                           <img src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                           <picture>
+                                                                                <source srcset="assets/images/blog/avatar.webp" type="image/webp" class="img-fluid" alt="Avatar">
+                                                                                <source srcset="assets/images/blog/avatar.png" type="image/png" class="img-fluid" alt="Avatar">
+                                                                                <img loading="lazy" src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                           </picture>
                                                                       </div>
                                                                  </div>
                                                                  <div class="col-9 align-self-center ps-0">
@@ -125,7 +141,7 @@ include('header.php');
                                                        </div>
 
                                                        <div class="col-4 text-center align-self-center">
-                                                            <a href="#" class="home-blog-btn">
+                                                            <a href="portfolio-inner.php" class="home-blog-btn">
                                                                  <i class="fas fa-plus-circle"></i>
                                                             </a>
                                                        </div>
@@ -138,27 +154,39 @@ include('header.php');
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
                                                        <div class="portfolio-image-desktop">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" class="img-fluid" alt="Desktop" />
+                                                            <picture>
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                                 <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" class="img-fluid" alt="Desktop">
+                                                            </picture>
                                                        </div>
-                                                       <img src="assets/images/portfolio/desktop.png" class="img-fluid" alt="Desktop" />
+                                                       <picture>
+                                                            <source srcset="assets/images/portfolio/desktop.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                            <source srcset="assets/images/portfolio/desktop.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                            <img loading="lazy" src="assets/images/portfolio/desktop.png" class="img-fluid" alt="Desktop">
+                                                       </picture>
                                                   </div>
                                                   <div class="portfolio-screens portfolio-laptop-screen">
                                                        <div class="portfolio-image-laptop">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-laptop.png" class="img-fluid" alt="Desktop" />
+                                                            <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-laptop.png" class="img-fluid" alt="Desktop" />
                                                        </div>
-                                                       <img src="assets/images/portfolio/laptop.png" class="img-fluid" alt="Laptop" />
+                                                       <img loading="lazy" src="assets/images/portfolio/laptop.png" class="img-fluid" alt="Laptop" />
                                                   </div>
                                                   <div class="portfolio-screens portfolio-ipad-screen">
                                                        <div class="portfolio-image-ipad">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" class="img-fluid" alt="Desktop" />
+                                                            <picture>
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                                 <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" class="img-fluid" alt="Desktop">
+                                                            </picture>
                                                        </div>
-                                                       <img src="assets/images/portfolio/ipad.png" class="img-fluid" alt="Ipad" />
+                                                       <img loading="lazy" src="assets/images/portfolio/ipad.png" class="img-fluid" alt="Ipad" />
                                                   </div>
                                                   <div class="portfolio-screens portfolio-mobile-screen">
                                                        <div class="portfolio-image-mobile">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-mobile.png" class="img-fluid" alt="Desktop" />
+                                                            <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-mobile.png" class="img-fluid" alt="Desktop" />
                                                        </div>
-                                                       <img src="assets/images/portfolio/mobile.png" class="img-fluid" alt="mobile" />
+                                                       <img loading="lazy" src="assets/images/portfolio/mobile.png" class="img-fluid" alt="mobile" />
                                                   </div>
 
                                              </div>
@@ -186,7 +214,11 @@ include('header.php');
                                                             <div class="row">
                                                                  <div class="col-3">
                                                                       <div class="home-blog-author">
-                                                                           <img src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                           <picture>
+                                                                                <source srcset="assets/images/blog/avatar.webp" type="image/webp" class="img-fluid" alt="Avatar">
+                                                                                <source srcset="assets/images/blog/avatar.png" type="image/png" class="img-fluid" alt="Avatar">
+                                                                                <img loading="lazy" src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                           </picture>
                                                                       </div>
                                                                  </div>
                                                                  <div class="col-9 align-self-center ps-0">
@@ -198,7 +230,7 @@ include('header.php');
                                                        </div>
 
                                                        <div class="col-4 text-center align-self-center">
-                                                            <a href="#" class="home-blog-btn">
+                                                            <a href="portfolio-inner.php" class="home-blog-btn">
                                                                  <i class="fas fa-plus-circle"></i>
                                                             </a>
                                                        </div>
@@ -211,27 +243,39 @@ include('header.php');
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
                                                        <div class="portfolio-image-desktop">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" class="img-fluid" alt="Desktop" />
+                                                            <picture>
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                                 <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" class="img-fluid" alt="Desktop">
+                                                            </picture>
                                                        </div>
-                                                       <img src="assets/images/portfolio/desktop.png" class="img-fluid" alt="Desktop" />
+                                                       <picture>
+                                                            <source srcset="assets/images/portfolio/desktop.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                            <source srcset="assets/images/portfolio/desktop.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                            <img loading="lazy" src="assets/images/portfolio/desktop.png" class="img-fluid" alt="Desktop">
+                                                       </picture>
                                                   </div>
                                                   <div class="portfolio-screens portfolio-laptop-screen">
                                                        <div class="portfolio-image-laptop">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-laptop.png" class="img-fluid" alt="Desktop" />
+                                                            <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-laptop.png" class="img-fluid" alt="Desktop" />
                                                        </div>
-                                                       <img src="assets/images/portfolio/laptop.png" class="img-fluid" alt="Laptop" />
+                                                       <img loading="lazy" src="assets/images/portfolio/laptop.png" class="img-fluid" alt="Laptop" />
                                                   </div>
                                                   <div class="portfolio-screens portfolio-ipad-screen">
                                                        <div class="portfolio-image-ipad">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" class="img-fluid" alt="Desktop" />
+                                                            <picture>
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                                 <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" class="img-fluid" alt="Desktop">
+                                                            </picture>
                                                        </div>
-                                                       <img src="assets/images/portfolio/ipad.png" class="img-fluid" alt="Ipad" />
+                                                       <img loading="lazy" src="assets/images/portfolio/ipad.png" class="img-fluid" alt="Ipad" />
                                                   </div>
                                                   <div class="portfolio-screens portfolio-mobile-screen">
                                                        <div class="portfolio-image-mobile">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-mobile.png" class="img-fluid" alt="Desktop" />
+                                                            <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-mobile.png" class="img-fluid" alt="Desktop" />
                                                        </div>
-                                                       <img src="assets/images/portfolio/mobile.png" class="img-fluid" alt="mobile" />
+                                                       <img loading="lazy" src="assets/images/portfolio/mobile.png" class="img-fluid" alt="mobile" />
                                                   </div>
 
                                              </div>
@@ -259,7 +303,11 @@ include('header.php');
                                                             <div class="row">
                                                                  <div class="col-3">
                                                                       <div class="home-blog-author">
-                                                                           <img src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                           <picture>
+                                                                                <source srcset="assets/images/blog/avatar.webp" type="image/webp" class="img-fluid" alt="Avatar">
+                                                                                <source srcset="assets/images/blog/avatar.png" type="image/png" class="img-fluid" alt="Avatar">
+                                                                                <img loading="lazy" src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                           </picture>
                                                                       </div>
                                                                  </div>
                                                                  <div class="col-9 align-self-center ps-0">
@@ -271,7 +319,7 @@ include('header.php');
                                                        </div>
 
                                                        <div class="col-4 text-center align-self-center">
-                                                            <a href="#" class="home-blog-btn">
+                                                            <a href="portfolio-inner.php" class="home-blog-btn">
                                                                  <i class="fas fa-plus-circle"></i>
                                                             </a>
                                                        </div>
@@ -284,27 +332,39 @@ include('header.php');
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
                                                        <div class="portfolio-image-desktop">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" class="img-fluid" alt="Desktop" />
+                                                            <picture>
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                                 <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" class="img-fluid" alt="Desktop">
+                                                            </picture>
                                                        </div>
-                                                       <img src="assets/images/portfolio/desktop.png" class="img-fluid" alt="Desktop" />
+                                                       <picture>
+                                                            <source srcset="assets/images/portfolio/desktop.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                            <source srcset="assets/images/portfolio/desktop.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                            <img loading="lazy" src="assets/images/portfolio/desktop.png" class="img-fluid" alt="Desktop">
+                                                       </picture>
                                                   </div>
                                                   <div class="portfolio-screens portfolio-laptop-screen">
                                                        <div class="portfolio-image-laptop">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-laptop.png" class="img-fluid" alt="Desktop" />
+                                                            <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-laptop.png" class="img-fluid" alt="Desktop" />
                                                        </div>
-                                                       <img src="assets/images/portfolio/laptop.png" class="img-fluid" alt="Laptop" />
+                                                       <img loading="lazy" src="assets/images/portfolio/laptop.png" class="img-fluid" alt="Laptop" />
                                                   </div>
                                                   <div class="portfolio-screens portfolio-ipad-screen">
                                                        <div class="portfolio-image-ipad">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" class="img-fluid" alt="Desktop" />
+                                                            <picture>
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                                 <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" class="img-fluid" alt="Desktop">
+                                                            </picture>
                                                        </div>
-                                                       <img src="assets/images/portfolio/ipad.png" class="img-fluid" alt="Ipad" />
+                                                       <img loading="lazy" src="assets/images/portfolio/ipad.png" class="img-fluid" alt="Ipad" />
                                                   </div>
                                                   <div class="portfolio-screens portfolio-mobile-screen">
                                                        <div class="portfolio-image-mobile">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-mobile.png" class="img-fluid" alt="Desktop" />
+                                                            <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-mobile.png" class="img-fluid" alt="Desktop" />
                                                        </div>
-                                                       <img src="assets/images/portfolio/mobile.png" class="img-fluid" alt="mobile" />
+                                                       <img loading="lazy" src="assets/images/portfolio/mobile.png" class="img-fluid" alt="mobile" />
                                                   </div>
 
                                              </div>
@@ -332,7 +392,11 @@ include('header.php');
                                                             <div class="row">
                                                                  <div class="col-3">
                                                                       <div class="home-blog-author">
-                                                                           <img src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                           <picture>
+                                                                                <source srcset="assets/images/blog/avatar.webp" type="image/webp" class="img-fluid" alt="Avatar">
+                                                                                <source srcset="assets/images/blog/avatar.png" type="image/png" class="img-fluid" alt="Avatar">
+                                                                                <img loading="lazy" src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                           </picture>
                                                                       </div>
                                                                  </div>
                                                                  <div class="col-9 align-self-center ps-0">
@@ -344,7 +408,7 @@ include('header.php');
                                                        </div>
 
                                                        <div class="col-4 text-center align-self-center">
-                                                            <a href="#" class="home-blog-btn">
+                                                            <a href="portfolio-inner.php" class="home-blog-btn">
                                                                  <i class="fas fa-plus-circle"></i>
                                                             </a>
                                                        </div>
@@ -357,27 +421,39 @@ include('header.php');
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
                                                        <div class="portfolio-image-desktop">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" class="img-fluid" alt="Desktop" />
+                                                            <picture>
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                                 <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" class="img-fluid" alt="Desktop">
+                                                            </picture>
                                                        </div>
-                                                       <img src="assets/images/portfolio/desktop.png" class="img-fluid" alt="Desktop" />
+                                                       <picture>
+                                                            <source srcset="assets/images/portfolio/desktop.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                            <source srcset="assets/images/portfolio/desktop.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                            <img loading="lazy" src="assets/images/portfolio/desktop.png" class="img-fluid" alt="Desktop">
+                                                       </picture>
                                                   </div>
                                                   <div class="portfolio-screens portfolio-laptop-screen">
                                                        <div class="portfolio-image-laptop">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-laptop.png" class="img-fluid" alt="Desktop" />
+                                                            <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-laptop.png" class="img-fluid" alt="Desktop" />
                                                        </div>
-                                                       <img src="assets/images/portfolio/laptop.png" class="img-fluid" alt="Laptop" />
+                                                       <img loading="lazy" src="assets/images/portfolio/laptop.png" class="img-fluid" alt="Laptop" />
                                                   </div>
                                                   <div class="portfolio-screens portfolio-ipad-screen">
                                                        <div class="portfolio-image-ipad">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" class="img-fluid" alt="Desktop" />
+                                                            <picture>
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                                 <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" class="img-fluid" alt="Desktop">
+                                                            </picture>
                                                        </div>
-                                                       <img src="assets/images/portfolio/ipad.png" class="img-fluid" alt="Ipad" />
+                                                       <img loading="lazy" src="assets/images/portfolio/ipad.png" class="img-fluid" alt="Ipad" />
                                                   </div>
                                                   <div class="portfolio-screens portfolio-mobile-screen">
                                                        <div class="portfolio-image-mobile">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-mobile.png" class="img-fluid" alt="Desktop" />
+                                                            <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-mobile.png" class="img-fluid" alt="Desktop" />
                                                        </div>
-                                                       <img src="assets/images/portfolio/mobile.png" class="img-fluid" alt="mobile" />
+                                                       <img loading="lazy" src="assets/images/portfolio/mobile.png" class="img-fluid" alt="mobile" />
                                                   </div>
 
                                              </div>
@@ -405,7 +481,11 @@ include('header.php');
                                                             <div class="row">
                                                                  <div class="col-3">
                                                                       <div class="home-blog-author">
-                                                                           <img src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                           <picture>
+                                                                                <source srcset="assets/images/blog/avatar.webp" type="image/webp" class="img-fluid" alt="Avatar">
+                                                                                <source srcset="assets/images/blog/avatar.png" type="image/png" class="img-fluid" alt="Avatar">
+                                                                                <img loading="lazy" src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                           </picture>
                                                                       </div>
                                                                  </div>
                                                                  <div class="col-9 align-self-center ps-0">
@@ -417,7 +497,7 @@ include('header.php');
                                                        </div>
 
                                                        <div class="col-4 text-center align-self-center">
-                                                            <a href="#" class="home-blog-btn">
+                                                            <a href="portfolio-inner.php" class="home-blog-btn">
                                                                  <i class="fas fa-plus-circle"></i>
                                                             </a>
                                                        </div>
@@ -430,27 +510,39 @@ include('header.php');
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
                                                        <div class="portfolio-image-desktop">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" class="img-fluid" alt="Desktop" />
+                                                            <picture>
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                                 <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" class="img-fluid" alt="Desktop">
+                                                            </picture>
                                                        </div>
-                                                       <img src="assets/images/portfolio/desktop.png" class="img-fluid" alt="Desktop" />
+                                                       <picture>
+                                                            <source srcset="assets/images/portfolio/desktop.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                            <source srcset="assets/images/portfolio/desktop.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                            <img loading="lazy" src="assets/images/portfolio/desktop.png" class="img-fluid" alt="Desktop">
+                                                       </picture>
                                                   </div>
                                                   <div class="portfolio-screens portfolio-laptop-screen">
                                                        <div class="portfolio-image-laptop">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-laptop.png" class="img-fluid" alt="Desktop" />
+                                                            <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-laptop.png" class="img-fluid" alt="Desktop" />
                                                        </div>
-                                                       <img src="assets/images/portfolio/laptop.png" class="img-fluid" alt="Laptop" />
+                                                       <img loading="lazy" src="assets/images/portfolio/laptop.png" class="img-fluid" alt="Laptop" />
                                                   </div>
                                                   <div class="portfolio-screens portfolio-ipad-screen">
                                                        <div class="portfolio-image-ipad">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" class="img-fluid" alt="Desktop" />
+                                                            <picture>
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                                 <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" class="img-fluid" alt="Desktop">
+                                                            </picture>
                                                        </div>
-                                                       <img src="assets/images/portfolio/ipad.png" class="img-fluid" alt="Ipad" />
+                                                       <img loading="lazy" src="assets/images/portfolio/ipad.png" class="img-fluid" alt="Ipad" />
                                                   </div>
                                                   <div class="portfolio-screens portfolio-mobile-screen">
                                                        <div class="portfolio-image-mobile">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-mobile.png" class="img-fluid" alt="Desktop" />
+                                                            <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-mobile.png" class="img-fluid" alt="Desktop" />
                                                        </div>
-                                                       <img src="assets/images/portfolio/mobile.png" class="img-fluid" alt="mobile" />
+                                                       <img loading="lazy" src="assets/images/portfolio/mobile.png" class="img-fluid" alt="mobile" />
                                                   </div>
 
                                              </div>
@@ -478,7 +570,11 @@ include('header.php');
                                                             <div class="row">
                                                                  <div class="col-3">
                                                                       <div class="home-blog-author">
-                                                                           <img src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                           <picture>
+                                                                                <source srcset="assets/images/blog/avatar.webp" type="image/webp" class="img-fluid" alt="Avatar">
+                                                                                <source srcset="assets/images/blog/avatar.png" type="image/png" class="img-fluid" alt="Avatar">
+                                                                                <img loading="lazy" src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                           </picture>
                                                                       </div>
                                                                  </div>
                                                                  <div class="col-9 align-self-center ps-0">
@@ -490,7 +586,7 @@ include('header.php');
                                                        </div>
 
                                                        <div class="col-4 text-center align-self-center">
-                                                            <a href="#" class="home-blog-btn">
+                                                            <a href="portfolio-inner.php" class="home-blog-btn">
                                                                  <i class="fas fa-plus-circle"></i>
                                                             </a>
                                                        </div>
@@ -507,27 +603,39 @@ include('header.php');
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
                                                        <div class="portfolio-image-desktop">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" class="img-fluid" alt="Desktop" />
+                                                            <picture>
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                                 <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" class="img-fluid" alt="Desktop">
+                                                            </picture>
                                                        </div>
-                                                       <img src="assets/images/portfolio/desktop.png" class="img-fluid" alt="Desktop" />
+                                                       <picture>
+                                                            <source srcset="assets/images/portfolio/desktop.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                            <source srcset="assets/images/portfolio/desktop.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                            <img loading="lazy" src="assets/images/portfolio/desktop.png" class="img-fluid" alt="Desktop">
+                                                       </picture>
                                                   </div>
                                                   <div class="portfolio-screens portfolio-laptop-screen">
                                                        <div class="portfolio-image-laptop">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-laptop.png" class="img-fluid" alt="Desktop" />
+                                                            <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-laptop.png" class="img-fluid" alt="Desktop" />
                                                        </div>
-                                                       <img src="assets/images/portfolio/laptop.png" class="img-fluid" alt="Laptop" />
+                                                       <img loading="lazy" src="assets/images/portfolio/laptop.png" class="img-fluid" alt="Laptop" />
                                                   </div>
                                                   <div class="portfolio-screens portfolio-ipad-screen">
                                                        <div class="portfolio-image-ipad">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" class="img-fluid" alt="Desktop" />
+                                                            <picture>
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                                 <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" class="img-fluid" alt="Desktop">
+                                                            </picture>
                                                        </div>
-                                                       <img src="assets/images/portfolio/ipad.png" class="img-fluid" alt="Ipad" />
+                                                       <img loading="lazy" src="assets/images/portfolio/ipad.png" class="img-fluid" alt="Ipad" />
                                                   </div>
                                                   <div class="portfolio-screens portfolio-mobile-screen">
                                                        <div class="portfolio-image-mobile">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-mobile.png" class="img-fluid" alt="Desktop" />
+                                                            <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-mobile.png" class="img-fluid" alt="Desktop" />
                                                        </div>
-                                                       <img src="assets/images/portfolio/mobile.png" class="img-fluid" alt="mobile" />
+                                                       <img loading="lazy" src="assets/images/portfolio/mobile.png" class="img-fluid" alt="mobile" />
                                                   </div>
 
                                              </div>
@@ -555,7 +663,11 @@ include('header.php');
                                                             <div class="row">
                                                                  <div class="col-3">
                                                                       <div class="home-blog-author">
-                                                                           <img src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                           <picture>
+                                                                                <source srcset="assets/images/blog/avatar.webp" type="image/webp" class="img-fluid" alt="Avatar">
+                                                                                <source srcset="assets/images/blog/avatar.png" type="image/png" class="img-fluid" alt="Avatar">
+                                                                                <img loading="lazy" src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                           </picture>
                                                                       </div>
                                                                  </div>
                                                                  <div class="col-9 align-self-center ps-0">
@@ -567,7 +679,7 @@ include('header.php');
                                                        </div>
 
                                                        <div class="col-4 text-center align-self-center">
-                                                            <a href="#" class="home-blog-btn">
+                                                            <a href="portfolio-inner.php" class="home-blog-btn">
                                                                  <i class="fas fa-plus-circle"></i>
                                                             </a>
                                                        </div>
@@ -580,27 +692,39 @@ include('header.php');
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
                                                        <div class="portfolio-image-desktop">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" class="img-fluid" alt="Desktop" />
+                                                            <picture>
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                                 <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" class="img-fluid" alt="Desktop">
+                                                            </picture>
                                                        </div>
-                                                       <img src="assets/images/portfolio/desktop.png" class="img-fluid" alt="Desktop" />
+                                                       <picture>
+                                                            <source srcset="assets/images/portfolio/desktop.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                            <source srcset="assets/images/portfolio/desktop.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                            <img loading="lazy" src="assets/images/portfolio/desktop.png" class="img-fluid" alt="Desktop">
+                                                       </picture>
                                                   </div>
                                                   <div class="portfolio-screens portfolio-laptop-screen">
                                                        <div class="portfolio-image-laptop">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-laptop.png" class="img-fluid" alt="Desktop" />
+                                                            <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-laptop.png" class="img-fluid" alt="Desktop" />
                                                        </div>
-                                                       <img src="assets/images/portfolio/laptop.png" class="img-fluid" alt="Laptop" />
+                                                       <img loading="lazy" src="assets/images/portfolio/laptop.png" class="img-fluid" alt="Laptop" />
                                                   </div>
                                                   <div class="portfolio-screens portfolio-ipad-screen">
                                                        <div class="portfolio-image-ipad">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" class="img-fluid" alt="Desktop" />
+                                                            <picture>
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                                 <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" class="img-fluid" alt="Desktop">
+                                                            </picture>
                                                        </div>
-                                                       <img src="assets/images/portfolio/ipad.png" class="img-fluid" alt="Ipad" />
+                                                       <img loading="lazy" src="assets/images/portfolio/ipad.png" class="img-fluid" alt="Ipad" />
                                                   </div>
                                                   <div class="portfolio-screens portfolio-mobile-screen">
                                                        <div class="portfolio-image-mobile">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-mobile.png" class="img-fluid" alt="Desktop" />
+                                                            <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-mobile.png" class="img-fluid" alt="Desktop" />
                                                        </div>
-                                                       <img src="assets/images/portfolio/mobile.png" class="img-fluid" alt="mobile" />
+                                                       <img loading="lazy" src="assets/images/portfolio/mobile.png" class="img-fluid" alt="mobile" />
                                                   </div>
 
                                              </div>
@@ -628,7 +752,11 @@ include('header.php');
                                                             <div class="row">
                                                                  <div class="col-3">
                                                                       <div class="home-blog-author">
-                                                                           <img src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                           <picture>
+                                                                                <source srcset="assets/images/blog/avatar.webp" type="image/webp" class="img-fluid" alt="Avatar">
+                                                                                <source srcset="assets/images/blog/avatar.png" type="image/png" class="img-fluid" alt="Avatar">
+                                                                                <img loading="lazy" src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                           </picture>
                                                                       </div>
                                                                  </div>
                                                                  <div class="col-9 align-self-center ps-0">
@@ -640,7 +768,7 @@ include('header.php');
                                                        </div>
 
                                                        <div class="col-4 text-center align-self-center">
-                                                            <a href="#" class="home-blog-btn">
+                                                            <a href="portfolio-inner.php" class="home-blog-btn">
                                                                  <i class="fas fa-plus-circle"></i>
                                                             </a>
                                                        </div>
@@ -653,27 +781,39 @@ include('header.php');
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
                                                        <div class="portfolio-image-desktop">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" class="img-fluid" alt="Desktop" />
+                                                            <picture>
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                                 <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" class="img-fluid" alt="Desktop">
+                                                            </picture>
                                                        </div>
-                                                       <img src="assets/images/portfolio/desktop.png" class="img-fluid" alt="Desktop" />
+                                                       <picture>
+                                                            <source srcset="assets/images/portfolio/desktop.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                            <source srcset="assets/images/portfolio/desktop.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                            <img loading="lazy" src="assets/images/portfolio/desktop.png" class="img-fluid" alt="Desktop">
+                                                       </picture>
                                                   </div>
                                                   <div class="portfolio-screens portfolio-laptop-screen">
                                                        <div class="portfolio-image-laptop">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-laptop.png" class="img-fluid" alt="Desktop" />
+                                                            <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-laptop.png" class="img-fluid" alt="Desktop" />
                                                        </div>
-                                                       <img src="assets/images/portfolio/laptop.png" class="img-fluid" alt="Laptop" />
+                                                       <img loading="lazy" src="assets/images/portfolio/laptop.png" class="img-fluid" alt="Laptop" />
                                                   </div>
                                                   <div class="portfolio-screens portfolio-ipad-screen">
                                                        <div class="portfolio-image-ipad">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" class="img-fluid" alt="Desktop" />
+                                                            <picture>
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                                 <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" class="img-fluid" alt="Desktop">
+                                                            </picture>
                                                        </div>
-                                                       <img src="assets/images/portfolio/ipad.png" class="img-fluid" alt="Ipad" />
+                                                       <img loading="lazy" src="assets/images/portfolio/ipad.png" class="img-fluid" alt="Ipad" />
                                                   </div>
                                                   <div class="portfolio-screens portfolio-mobile-screen">
                                                        <div class="portfolio-image-mobile">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-mobile.png" class="img-fluid" alt="Desktop" />
+                                                            <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-mobile.png" class="img-fluid" alt="Desktop" />
                                                        </div>
-                                                       <img src="assets/images/portfolio/mobile.png" class="img-fluid" alt="mobile" />
+                                                       <img loading="lazy" src="assets/images/portfolio/mobile.png" class="img-fluid" alt="mobile" />
                                                   </div>
 
                                              </div>
@@ -701,7 +841,11 @@ include('header.php');
                                                             <div class="row">
                                                                  <div class="col-3">
                                                                       <div class="home-blog-author">
-                                                                           <img src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                           <picture>
+                                                                                <source srcset="assets/images/blog/avatar.webp" type="image/webp" class="img-fluid" alt="Avatar">
+                                                                                <source srcset="assets/images/blog/avatar.png" type="image/png" class="img-fluid" alt="Avatar">
+                                                                                <img loading="lazy" src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                           </picture>
                                                                       </div>
                                                                  </div>
                                                                  <div class="col-9 align-self-center ps-0">
@@ -713,7 +857,7 @@ include('header.php');
                                                        </div>
 
                                                        <div class="col-4 text-center align-self-center">
-                                                            <a href="#" class="home-blog-btn">
+                                                            <a href="portfolio-inner.php" class="home-blog-btn">
                                                                  <i class="fas fa-plus-circle"></i>
                                                             </a>
                                                        </div>
@@ -726,27 +870,39 @@ include('header.php');
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
                                                        <div class="portfolio-image-desktop">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" class="img-fluid" alt="Desktop" />
+                                                            <picture>
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                                 <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" class="img-fluid" alt="Desktop">
+                                                            </picture>
                                                        </div>
-                                                       <img src="assets/images/portfolio/desktop.png" class="img-fluid" alt="Desktop" />
+                                                       <picture>
+                                                            <source srcset="assets/images/portfolio/desktop.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                            <source srcset="assets/images/portfolio/desktop.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                            <img loading="lazy" src="assets/images/portfolio/desktop.png" class="img-fluid" alt="Desktop">
+                                                       </picture>
                                                   </div>
                                                   <div class="portfolio-screens portfolio-laptop-screen">
                                                        <div class="portfolio-image-laptop">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-laptop.png" class="img-fluid" alt="Desktop" />
+                                                            <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-laptop.png" class="img-fluid" alt="Desktop" />
                                                        </div>
-                                                       <img src="assets/images/portfolio/laptop.png" class="img-fluid" alt="Laptop" />
+                                                       <img loading="lazy" src="assets/images/portfolio/laptop.png" class="img-fluid" alt="Laptop" />
                                                   </div>
                                                   <div class="portfolio-screens portfolio-ipad-screen">
                                                        <div class="portfolio-image-ipad">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" class="img-fluid" alt="Desktop" />
+                                                            <picture>
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                                 <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" class="img-fluid" alt="Desktop">
+                                                            </picture>
                                                        </div>
-                                                       <img src="assets/images/portfolio/ipad.png" class="img-fluid" alt="Ipad" />
+                                                       <img loading="lazy" src="assets/images/portfolio/ipad.png" class="img-fluid" alt="Ipad" />
                                                   </div>
                                                   <div class="portfolio-screens portfolio-mobile-screen">
                                                        <div class="portfolio-image-mobile">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-mobile.png" class="img-fluid" alt="Desktop" />
+                                                            <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-mobile.png" class="img-fluid" alt="Desktop" />
                                                        </div>
-                                                       <img src="assets/images/portfolio/mobile.png" class="img-fluid" alt="mobile" />
+                                                       <img loading="lazy" src="assets/images/portfolio/mobile.png" class="img-fluid" alt="mobile" />
                                                   </div>
 
                                              </div>
@@ -774,7 +930,11 @@ include('header.php');
                                                             <div class="row">
                                                                  <div class="col-3">
                                                                       <div class="home-blog-author">
-                                                                           <img src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                           <picture>
+                                                                                <source srcset="assets/images/blog/avatar.webp" type="image/webp" class="img-fluid" alt="Avatar">
+                                                                                <source srcset="assets/images/blog/avatar.png" type="image/png" class="img-fluid" alt="Avatar">
+                                                                                <img loading="lazy" src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                           </picture>
                                                                       </div>
                                                                  </div>
                                                                  <div class="col-9 align-self-center ps-0">
@@ -786,7 +946,7 @@ include('header.php');
                                                        </div>
 
                                                        <div class="col-4 text-center align-self-center">
-                                                            <a href="#" class="home-blog-btn">
+                                                            <a href="portfolio-inner.php" class="home-blog-btn">
                                                                  <i class="fas fa-plus-circle"></i>
                                                             </a>
                                                        </div>
@@ -799,27 +959,39 @@ include('header.php');
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
                                                        <div class="portfolio-image-desktop">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" class="img-fluid" alt="Desktop" />
+                                                            <picture>
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                                 <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" class="img-fluid" alt="Desktop">
+                                                            </picture>
                                                        </div>
-                                                       <img src="assets/images/portfolio/desktop.png" class="img-fluid" alt="Desktop" />
+                                                       <picture>
+                                                            <source srcset="assets/images/portfolio/desktop.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                            <source srcset="assets/images/portfolio/desktop.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                            <img loading="lazy" src="assets/images/portfolio/desktop.png" class="img-fluid" alt="Desktop">
+                                                       </picture>
                                                   </div>
                                                   <div class="portfolio-screens portfolio-laptop-screen">
                                                        <div class="portfolio-image-laptop">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-laptop.png" class="img-fluid" alt="Desktop" />
+                                                            <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-laptop.png" class="img-fluid" alt="Desktop" />
                                                        </div>
-                                                       <img src="assets/images/portfolio/laptop.png" class="img-fluid" alt="Laptop" />
+                                                       <img loading="lazy" src="assets/images/portfolio/laptop.png" class="img-fluid" alt="Laptop" />
                                                   </div>
                                                   <div class="portfolio-screens portfolio-ipad-screen">
                                                        <div class="portfolio-image-ipad">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" class="img-fluid" alt="Desktop" />
+                                                            <picture>
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                                 <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" class="img-fluid" alt="Desktop">
+                                                            </picture>
                                                        </div>
-                                                       <img src="assets/images/portfolio/ipad.png" class="img-fluid" alt="Ipad" />
+                                                       <img loading="lazy" src="assets/images/portfolio/ipad.png" class="img-fluid" alt="Ipad" />
                                                   </div>
                                                   <div class="portfolio-screens portfolio-mobile-screen">
                                                        <div class="portfolio-image-mobile">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-mobile.png" class="img-fluid" alt="Desktop" />
+                                                            <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-mobile.png" class="img-fluid" alt="Desktop" />
                                                        </div>
-                                                       <img src="assets/images/portfolio/mobile.png" class="img-fluid" alt="mobile" />
+                                                       <img loading="lazy" src="assets/images/portfolio/mobile.png" class="img-fluid" alt="mobile" />
                                                   </div>
 
                                              </div>
@@ -847,7 +1019,11 @@ include('header.php');
                                                             <div class="row">
                                                                  <div class="col-3">
                                                                       <div class="home-blog-author">
-                                                                           <img src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                           <picture>
+                                                                                <source srcset="assets/images/blog/avatar.webp" type="image/webp" class="img-fluid" alt="Avatar">
+                                                                                <source srcset="assets/images/blog/avatar.png" type="image/png" class="img-fluid" alt="Avatar">
+                                                                                <img loading="lazy" src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                           </picture>
                                                                       </div>
                                                                  </div>
                                                                  <div class="col-9 align-self-center ps-0">
@@ -859,7 +1035,7 @@ include('header.php');
                                                        </div>
 
                                                        <div class="col-4 text-center align-self-center">
-                                                            <a href="#" class="home-blog-btn">
+                                                            <a href="portfolio-inner.php" class="home-blog-btn">
                                                                  <i class="fas fa-plus-circle"></i>
                                                             </a>
                                                        </div>
@@ -872,27 +1048,39 @@ include('header.php');
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
                                                        <div class="portfolio-image-desktop">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" class="img-fluid" alt="Desktop" />
+                                                            <picture>
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                                 <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" class="img-fluid" alt="Desktop">
+                                                            </picture>
                                                        </div>
-                                                       <img src="assets/images/portfolio/desktop.png" class="img-fluid" alt="Desktop" />
+                                                       <picture>
+                                                            <source srcset="assets/images/portfolio/desktop.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                            <source srcset="assets/images/portfolio/desktop.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                            <img loading="lazy" src="assets/images/portfolio/desktop.png" class="img-fluid" alt="Desktop">
+                                                       </picture>
                                                   </div>
                                                   <div class="portfolio-screens portfolio-laptop-screen">
                                                        <div class="portfolio-image-laptop">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-laptop.png" class="img-fluid" alt="Desktop" />
+                                                            <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-laptop.png" class="img-fluid" alt="Desktop" />
                                                        </div>
-                                                       <img src="assets/images/portfolio/laptop.png" class="img-fluid" alt="Laptop" />
+                                                       <img loading="lazy" src="assets/images/portfolio/laptop.png" class="img-fluid" alt="Laptop" />
                                                   </div>
                                                   <div class="portfolio-screens portfolio-ipad-screen">
                                                        <div class="portfolio-image-ipad">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" class="img-fluid" alt="Desktop" />
+                                                            <picture>
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                                 <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" class="img-fluid" alt="Desktop">
+                                                            </picture>
                                                        </div>
-                                                       <img src="assets/images/portfolio/ipad.png" class="img-fluid" alt="Ipad" />
+                                                       <img loading="lazy" src="assets/images/portfolio/ipad.png" class="img-fluid" alt="Ipad" />
                                                   </div>
                                                   <div class="portfolio-screens portfolio-mobile-screen">
                                                        <div class="portfolio-image-mobile">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-mobile.png" class="img-fluid" alt="Desktop" />
+                                                            <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-mobile.png" class="img-fluid" alt="Desktop" />
                                                        </div>
-                                                       <img src="assets/images/portfolio/mobile.png" class="img-fluid" alt="mobile" />
+                                                       <img loading="lazy" src="assets/images/portfolio/mobile.png" class="img-fluid" alt="mobile" />
                                                   </div>
 
                                              </div>
@@ -920,7 +1108,11 @@ include('header.php');
                                                             <div class="row">
                                                                  <div class="col-3">
                                                                       <div class="home-blog-author">
-                                                                           <img src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                           <picture>
+                                                                                <source srcset="assets/images/blog/avatar.webp" type="image/webp" class="img-fluid" alt="Avatar">
+                                                                                <source srcset="assets/images/blog/avatar.png" type="image/png" class="img-fluid" alt="Avatar">
+                                                                                <img loading="lazy" src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                           </picture>
                                                                       </div>
                                                                  </div>
                                                                  <div class="col-9 align-self-center ps-0">
@@ -932,7 +1124,7 @@ include('header.php');
                                                        </div>
 
                                                        <div class="col-4 text-center align-self-center">
-                                                            <a href="#" class="home-blog-btn">
+                                                            <a href="portfolio-inner.php" class="home-blog-btn">
                                                                  <i class="fas fa-plus-circle"></i>
                                                             </a>
                                                        </div>
@@ -949,27 +1141,39 @@ include('header.php');
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
                                                        <div class="portfolio-image-desktop">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" class="img-fluid" alt="Desktop" />
+                                                            <picture>
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                                 <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" class="img-fluid" alt="Desktop">
+                                                            </picture>
                                                        </div>
-                                                       <img src="assets/images/portfolio/desktop.png" class="img-fluid" alt="Desktop" />
+                                                       <picture>
+                                                            <source srcset="assets/images/portfolio/desktop.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                            <source srcset="assets/images/portfolio/desktop.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                            <img loading="lazy" src="assets/images/portfolio/desktop.png" class="img-fluid" alt="Desktop">
+                                                       </picture>
                                                   </div>
                                                   <div class="portfolio-screens portfolio-laptop-screen">
                                                        <div class="portfolio-image-laptop">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-laptop.png" class="img-fluid" alt="Desktop" />
+                                                            <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-laptop.png" class="img-fluid" alt="Desktop" />
                                                        </div>
-                                                       <img src="assets/images/portfolio/laptop.png" class="img-fluid" alt="Laptop" />
+                                                       <img loading="lazy" src="assets/images/portfolio/laptop.png" class="img-fluid" alt="Laptop" />
                                                   </div>
                                                   <div class="portfolio-screens portfolio-ipad-screen">
                                                        <div class="portfolio-image-ipad">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" class="img-fluid" alt="Desktop" />
+                                                            <picture>
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                                 <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" class="img-fluid" alt="Desktop">
+                                                            </picture>
                                                        </div>
-                                                       <img src="assets/images/portfolio/ipad.png" class="img-fluid" alt="Ipad" />
+                                                       <img loading="lazy" src="assets/images/portfolio/ipad.png" class="img-fluid" alt="Ipad" />
                                                   </div>
                                                   <div class="portfolio-screens portfolio-mobile-screen">
                                                        <div class="portfolio-image-mobile">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-mobile.png" class="img-fluid" alt="Desktop" />
+                                                            <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-mobile.png" class="img-fluid" alt="Desktop" />
                                                        </div>
-                                                       <img src="assets/images/portfolio/mobile.png" class="img-fluid" alt="mobile" />
+                                                       <img loading="lazy" src="assets/images/portfolio/mobile.png" class="img-fluid" alt="mobile" />
                                                   </div>
 
                                              </div>
@@ -997,7 +1201,11 @@ include('header.php');
                                                             <div class="row">
                                                                  <div class="col-3">
                                                                       <div class="home-blog-author">
-                                                                           <img src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                           <picture>
+                                                                                <source srcset="assets/images/blog/avatar.webp" type="image/webp" class="img-fluid" alt="Avatar">
+                                                                                <source srcset="assets/images/blog/avatar.png" type="image/png" class="img-fluid" alt="Avatar">
+                                                                                <img loading="lazy" src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                           </picture>
                                                                       </div>
                                                                  </div>
                                                                  <div class="col-9 align-self-center ps-0">
@@ -1009,7 +1217,7 @@ include('header.php');
                                                        </div>
 
                                                        <div class="col-4 text-center align-self-center">
-                                                            <a href="#" class="home-blog-btn">
+                                                            <a href="portfolio-inner.php" class="home-blog-btn">
                                                                  <i class="fas fa-plus-circle"></i>
                                                             </a>
                                                        </div>
@@ -1022,27 +1230,39 @@ include('header.php');
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
                                                        <div class="portfolio-image-desktop">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" class="img-fluid" alt="Desktop" />
+                                                            <picture>
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                                 <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" class="img-fluid" alt="Desktop">
+                                                            </picture>
                                                        </div>
-                                                       <img src="assets/images/portfolio/desktop.png" class="img-fluid" alt="Desktop" />
+                                                       <picture>
+                                                            <source srcset="assets/images/portfolio/desktop.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                            <source srcset="assets/images/portfolio/desktop.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                            <img loading="lazy" src="assets/images/portfolio/desktop.png" class="img-fluid" alt="Desktop">
+                                                       </picture>
                                                   </div>
                                                   <div class="portfolio-screens portfolio-laptop-screen">
                                                        <div class="portfolio-image-laptop">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-laptop.png" class="img-fluid" alt="Desktop" />
+                                                            <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-laptop.png" class="img-fluid" alt="Desktop" />
                                                        </div>
-                                                       <img src="assets/images/portfolio/laptop.png" class="img-fluid" alt="Laptop" />
+                                                       <img loading="lazy" src="assets/images/portfolio/laptop.png" class="img-fluid" alt="Laptop" />
                                                   </div>
                                                   <div class="portfolio-screens portfolio-ipad-screen">
                                                        <div class="portfolio-image-ipad">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" class="img-fluid" alt="Desktop" />
+                                                            <picture>
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                                 <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" class="img-fluid" alt="Desktop">
+                                                            </picture>
                                                        </div>
-                                                       <img src="assets/images/portfolio/ipad.png" class="img-fluid" alt="Ipad" />
+                                                       <img loading="lazy" src="assets/images/portfolio/ipad.png" class="img-fluid" alt="Ipad" />
                                                   </div>
                                                   <div class="portfolio-screens portfolio-mobile-screen">
                                                        <div class="portfolio-image-mobile">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-mobile.png" class="img-fluid" alt="Desktop" />
+                                                            <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-mobile.png" class="img-fluid" alt="Desktop" />
                                                        </div>
-                                                       <img src="assets/images/portfolio/mobile.png" class="img-fluid" alt="mobile" />
+                                                       <img loading="lazy" src="assets/images/portfolio/mobile.png" class="img-fluid" alt="mobile" />
                                                   </div>
 
                                              </div>
@@ -1070,7 +1290,11 @@ include('header.php');
                                                             <div class="row">
                                                                  <div class="col-3">
                                                                       <div class="home-blog-author">
-                                                                           <img src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                           <picture>
+                                                                                <source srcset="assets/images/blog/avatar.webp" type="image/webp" class="img-fluid" alt="Avatar">
+                                                                                <source srcset="assets/images/blog/avatar.png" type="image/png" class="img-fluid" alt="Avatar">
+                                                                                <img loading="lazy" src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                           </picture>
                                                                       </div>
                                                                  </div>
                                                                  <div class="col-9 align-self-center ps-0">
@@ -1082,7 +1306,7 @@ include('header.php');
                                                        </div>
 
                                                        <div class="col-4 text-center align-self-center">
-                                                            <a href="#" class="home-blog-btn">
+                                                            <a href="portfolio-inner.php" class="home-blog-btn">
                                                                  <i class="fas fa-plus-circle"></i>
                                                             </a>
                                                        </div>
@@ -1095,27 +1319,39 @@ include('header.php');
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
                                                        <div class="portfolio-image-desktop">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" class="img-fluid" alt="Desktop" />
+                                                            <picture>
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                                 <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" class="img-fluid" alt="Desktop">
+                                                            </picture>
                                                        </div>
-                                                       <img src="assets/images/portfolio/desktop.png" class="img-fluid" alt="Desktop" />
+                                                       <picture>
+                                                            <source srcset="assets/images/portfolio/desktop.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                            <source srcset="assets/images/portfolio/desktop.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                            <img loading="lazy" src="assets/images/portfolio/desktop.png" class="img-fluid" alt="Desktop">
+                                                       </picture>
                                                   </div>
                                                   <div class="portfolio-screens portfolio-laptop-screen">
                                                        <div class="portfolio-image-laptop">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-laptop.png" class="img-fluid" alt="Desktop" />
+                                                            <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-laptop.png" class="img-fluid" alt="Desktop" />
                                                        </div>
-                                                       <img src="assets/images/portfolio/laptop.png" class="img-fluid" alt="Laptop" />
+                                                       <img loading="lazy" src="assets/images/portfolio/laptop.png" class="img-fluid" alt="Laptop" />
                                                   </div>
                                                   <div class="portfolio-screens portfolio-ipad-screen">
                                                        <div class="portfolio-image-ipad">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" class="img-fluid" alt="Desktop" />
+                                                            <picture>
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                                 <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" class="img-fluid" alt="Desktop">
+                                                            </picture>
                                                        </div>
-                                                       <img src="assets/images/portfolio/ipad.png" class="img-fluid" alt="Ipad" />
+                                                       <img loading="lazy" src="assets/images/portfolio/ipad.png" class="img-fluid" alt="Ipad" />
                                                   </div>
                                                   <div class="portfolio-screens portfolio-mobile-screen">
                                                        <div class="portfolio-image-mobile">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-mobile.png" class="img-fluid" alt="Desktop" />
+                                                            <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-mobile.png" class="img-fluid" alt="Desktop" />
                                                        </div>
-                                                       <img src="assets/images/portfolio/mobile.png" class="img-fluid" alt="mobile" />
+                                                       <img loading="lazy" src="assets/images/portfolio/mobile.png" class="img-fluid" alt="mobile" />
                                                   </div>
 
                                              </div>
@@ -1143,7 +1379,11 @@ include('header.php');
                                                             <div class="row">
                                                                  <div class="col-3">
                                                                       <div class="home-blog-author">
-                                                                           <img src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                           <picture>
+                                                                                <source srcset="assets/images/blog/avatar.webp" type="image/webp" class="img-fluid" alt="Avatar">
+                                                                                <source srcset="assets/images/blog/avatar.png" type="image/png" class="img-fluid" alt="Avatar">
+                                                                                <img loading="lazy" src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                           </picture>
                                                                       </div>
                                                                  </div>
                                                                  <div class="col-9 align-self-center ps-0">
@@ -1155,7 +1395,7 @@ include('header.php');
                                                        </div>
 
                                                        <div class="col-4 text-center align-self-center">
-                                                            <a href="#" class="home-blog-btn">
+                                                            <a href="portfolio-inner.php" class="home-blog-btn">
                                                                  <i class="fas fa-plus-circle"></i>
                                                             </a>
                                                        </div>
@@ -1168,27 +1408,39 @@ include('header.php');
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
                                                        <div class="portfolio-image-desktop">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" class="img-fluid" alt="Desktop" />
+                                                            <picture>
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                                 <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" class="img-fluid" alt="Desktop">
+                                                            </picture>
                                                        </div>
-                                                       <img src="assets/images/portfolio/desktop.png" class="img-fluid" alt="Desktop" />
+                                                       <picture>
+                                                            <source srcset="assets/images/portfolio/desktop.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                            <source srcset="assets/images/portfolio/desktop.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                            <img loading="lazy" src="assets/images/portfolio/desktop.png" class="img-fluid" alt="Desktop">
+                                                       </picture>
                                                   </div>
                                                   <div class="portfolio-screens portfolio-laptop-screen">
                                                        <div class="portfolio-image-laptop">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-laptop.png" class="img-fluid" alt="Desktop" />
+                                                            <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-laptop.png" class="img-fluid" alt="Desktop" />
                                                        </div>
-                                                       <img src="assets/images/portfolio/laptop.png" class="img-fluid" alt="Laptop" />
+                                                       <img loading="lazy" src="assets/images/portfolio/laptop.png" class="img-fluid" alt="Laptop" />
                                                   </div>
                                                   <div class="portfolio-screens portfolio-ipad-screen">
                                                        <div class="portfolio-image-ipad">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" class="img-fluid" alt="Desktop" />
+                                                            <picture>
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                                 <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" class="img-fluid" alt="Desktop">
+                                                            </picture>
                                                        </div>
-                                                       <img src="assets/images/portfolio/ipad.png" class="img-fluid" alt="Ipad" />
+                                                       <img loading="lazy" src="assets/images/portfolio/ipad.png" class="img-fluid" alt="Ipad" />
                                                   </div>
                                                   <div class="portfolio-screens portfolio-mobile-screen">
                                                        <div class="portfolio-image-mobile">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-mobile.png" class="img-fluid" alt="Desktop" />
+                                                            <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-mobile.png" class="img-fluid" alt="Desktop" />
                                                        </div>
-                                                       <img src="assets/images/portfolio/mobile.png" class="img-fluid" alt="mobile" />
+                                                       <img loading="lazy" src="assets/images/portfolio/mobile.png" class="img-fluid" alt="mobile" />
                                                   </div>
 
                                              </div>
@@ -1216,7 +1468,11 @@ include('header.php');
                                                             <div class="row">
                                                                  <div class="col-3">
                                                                       <div class="home-blog-author">
-                                                                           <img src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                           <picture>
+                                                                                <source srcset="assets/images/blog/avatar.webp" type="image/webp" class="img-fluid" alt="Avatar">
+                                                                                <source srcset="assets/images/blog/avatar.png" type="image/png" class="img-fluid" alt="Avatar">
+                                                                                <img loading="lazy" src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                           </picture>
                                                                       </div>
                                                                  </div>
                                                                  <div class="col-9 align-self-center ps-0">
@@ -1228,7 +1484,7 @@ include('header.php');
                                                        </div>
 
                                                        <div class="col-4 text-center align-self-center">
-                                                            <a href="#" class="home-blog-btn">
+                                                            <a href="portfolio-inner.php" class="home-blog-btn">
                                                                  <i class="fas fa-plus-circle"></i>
                                                             </a>
                                                        </div>
@@ -1241,27 +1497,39 @@ include('header.php');
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
                                                        <div class="portfolio-image-desktop">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" class="img-fluid" alt="Desktop" />
+                                                            <picture>
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                                 <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" class="img-fluid" alt="Desktop">
+                                                            </picture>
                                                        </div>
-                                                       <img src="assets/images/portfolio/desktop.png" class="img-fluid" alt="Desktop" />
+                                                       <picture>
+                                                            <source srcset="assets/images/portfolio/desktop.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                            <source srcset="assets/images/portfolio/desktop.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                            <img loading="lazy" src="assets/images/portfolio/desktop.png" class="img-fluid" alt="Desktop">
+                                                       </picture>
                                                   </div>
                                                   <div class="portfolio-screens portfolio-laptop-screen">
                                                        <div class="portfolio-image-laptop">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-laptop.png" class="img-fluid" alt="Desktop" />
+                                                            <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-laptop.png" class="img-fluid" alt="Desktop" />
                                                        </div>
-                                                       <img src="assets/images/portfolio/laptop.png" class="img-fluid" alt="Laptop" />
+                                                       <img loading="lazy" src="assets/images/portfolio/laptop.png" class="img-fluid" alt="Laptop" />
                                                   </div>
                                                   <div class="portfolio-screens portfolio-ipad-screen">
                                                        <div class="portfolio-image-ipad">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" class="img-fluid" alt="Desktop" />
+                                                            <picture>
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                                 <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" class="img-fluid" alt="Desktop">
+                                                            </picture>
                                                        </div>
-                                                       <img src="assets/images/portfolio/ipad.png" class="img-fluid" alt="Ipad" />
+                                                       <img loading="lazy" src="assets/images/portfolio/ipad.png" class="img-fluid" alt="Ipad" />
                                                   </div>
                                                   <div class="portfolio-screens portfolio-mobile-screen">
                                                        <div class="portfolio-image-mobile">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-mobile.png" class="img-fluid" alt="Desktop" />
+                                                            <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-mobile.png" class="img-fluid" alt="Desktop" />
                                                        </div>
-                                                       <img src="assets/images/portfolio/mobile.png" class="img-fluid" alt="mobile" />
+                                                       <img loading="lazy" src="assets/images/portfolio/mobile.png" class="img-fluid" alt="mobile" />
                                                   </div>
 
                                              </div>
@@ -1289,7 +1557,11 @@ include('header.php');
                                                             <div class="row">
                                                                  <div class="col-3">
                                                                       <div class="home-blog-author">
-                                                                           <img src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                           <picture>
+                                                                                <source srcset="assets/images/blog/avatar.webp" type="image/webp" class="img-fluid" alt="Avatar">
+                                                                                <source srcset="assets/images/blog/avatar.png" type="image/png" class="img-fluid" alt="Avatar">
+                                                                                <img loading="lazy" src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                           </picture>
                                                                       </div>
                                                                  </div>
                                                                  <div class="col-9 align-self-center ps-0">
@@ -1301,7 +1573,7 @@ include('header.php');
                                                        </div>
 
                                                        <div class="col-4 text-center align-self-center">
-                                                            <a href="#" class="home-blog-btn">
+                                                            <a href="portfolio-inner.php" class="home-blog-btn">
                                                                  <i class="fas fa-plus-circle"></i>
                                                             </a>
                                                        </div>
@@ -1314,27 +1586,39 @@ include('header.php');
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
                                                        <div class="portfolio-image-desktop">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" class="img-fluid" alt="Desktop" />
+                                                            <picture>
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                                 <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" class="img-fluid" alt="Desktop">
+                                                            </picture>
                                                        </div>
-                                                       <img src="assets/images/portfolio/desktop.png" class="img-fluid" alt="Desktop" />
+                                                       <picture>
+                                                            <source srcset="assets/images/portfolio/desktop.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                            <source srcset="assets/images/portfolio/desktop.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                            <img loading="lazy" src="assets/images/portfolio/desktop.png" class="img-fluid" alt="Desktop">
+                                                       </picture>
                                                   </div>
                                                   <div class="portfolio-screens portfolio-laptop-screen">
                                                        <div class="portfolio-image-laptop">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-laptop.png" class="img-fluid" alt="Desktop" />
+                                                            <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-laptop.png" class="img-fluid" alt="Desktop" />
                                                        </div>
-                                                       <img src="assets/images/portfolio/laptop.png" class="img-fluid" alt="Laptop" />
+                                                       <img loading="lazy" src="assets/images/portfolio/laptop.png" class="img-fluid" alt="Laptop" />
                                                   </div>
                                                   <div class="portfolio-screens portfolio-ipad-screen">
                                                        <div class="portfolio-image-ipad">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" class="img-fluid" alt="Desktop" />
+                                                            <picture>
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                                 <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" class="img-fluid" alt="Desktop">
+                                                            </picture>
                                                        </div>
-                                                       <img src="assets/images/portfolio/ipad.png" class="img-fluid" alt="Ipad" />
+                                                       <img loading="lazy" src="assets/images/portfolio/ipad.png" class="img-fluid" alt="Ipad" />
                                                   </div>
                                                   <div class="portfolio-screens portfolio-mobile-screen">
                                                        <div class="portfolio-image-mobile">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-mobile.png" class="img-fluid" alt="Desktop" />
+                                                            <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-mobile.png" class="img-fluid" alt="Desktop" />
                                                        </div>
-                                                       <img src="assets/images/portfolio/mobile.png" class="img-fluid" alt="mobile" />
+                                                       <img loading="lazy" src="assets/images/portfolio/mobile.png" class="img-fluid" alt="mobile" />
                                                   </div>
 
                                              </div>
@@ -1362,7 +1646,11 @@ include('header.php');
                                                             <div class="row">
                                                                  <div class="col-3">
                                                                       <div class="home-blog-author">
-                                                                           <img src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                           <picture>
+                                                                                <source srcset="assets/images/blog/avatar.webp" type="image/webp" class="img-fluid" alt="Avatar">
+                                                                                <source srcset="assets/images/blog/avatar.png" type="image/png" class="img-fluid" alt="Avatar">
+                                                                                <img loading="lazy" src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                           </picture>
                                                                       </div>
                                                                  </div>
                                                                  <div class="col-9 align-self-center ps-0">
@@ -1374,7 +1662,7 @@ include('header.php');
                                                        </div>
 
                                                        <div class="col-4 text-center align-self-center">
-                                                            <a href="#" class="home-blog-btn">
+                                                            <a href="portfolio-inner.php" class="home-blog-btn">
                                                                  <i class="fas fa-plus-circle"></i>
                                                             </a>
                                                        </div>
@@ -1391,27 +1679,39 @@ include('header.php');
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
                                                        <div class="portfolio-image-desktop">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" class="img-fluid" alt="Desktop" />
+                                                            <picture>
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                                 <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" class="img-fluid" alt="Desktop">
+                                                            </picture>
                                                        </div>
-                                                       <img src="assets/images/portfolio/desktop.png" class="img-fluid" alt="Desktop" />
+                                                       <picture>
+                                                            <source srcset="assets/images/portfolio/desktop.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                            <source srcset="assets/images/portfolio/desktop.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                            <img loading="lazy" src="assets/images/portfolio/desktop.png" class="img-fluid" alt="Desktop">
+                                                       </picture>
                                                   </div>
                                                   <div class="portfolio-screens portfolio-laptop-screen">
                                                        <div class="portfolio-image-laptop">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-laptop.png" class="img-fluid" alt="Desktop" />
+                                                            <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-laptop.png" class="img-fluid" alt="Desktop" />
                                                        </div>
-                                                       <img src="assets/images/portfolio/laptop.png" class="img-fluid" alt="Laptop" />
+                                                       <img loading="lazy" src="assets/images/portfolio/laptop.png" class="img-fluid" alt="Laptop" />
                                                   </div>
                                                   <div class="portfolio-screens portfolio-ipad-screen">
                                                        <div class="portfolio-image-ipad">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" class="img-fluid" alt="Desktop" />
+                                                            <picture>
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                                 <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" class="img-fluid" alt="Desktop">
+                                                            </picture>
                                                        </div>
-                                                       <img src="assets/images/portfolio/ipad.png" class="img-fluid" alt="Ipad" />
+                                                       <img loading="lazy" src="assets/images/portfolio/ipad.png" class="img-fluid" alt="Ipad" />
                                                   </div>
                                                   <div class="portfolio-screens portfolio-mobile-screen">
                                                        <div class="portfolio-image-mobile">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-mobile.png" class="img-fluid" alt="Desktop" />
+                                                            <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-mobile.png" class="img-fluid" alt="Desktop" />
                                                        </div>
-                                                       <img src="assets/images/portfolio/mobile.png" class="img-fluid" alt="mobile" />
+                                                       <img loading="lazy" src="assets/images/portfolio/mobile.png" class="img-fluid" alt="mobile" />
                                                   </div>
 
                                              </div>
@@ -1439,7 +1739,11 @@ include('header.php');
                                                             <div class="row">
                                                                  <div class="col-3">
                                                                       <div class="home-blog-author">
-                                                                           <img src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                           <picture>
+                                                                                <source srcset="assets/images/blog/avatar.webp" type="image/webp" class="img-fluid" alt="Avatar">
+                                                                                <source srcset="assets/images/blog/avatar.png" type="image/png" class="img-fluid" alt="Avatar">
+                                                                                <img loading="lazy" src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                           </picture>
                                                                       </div>
                                                                  </div>
                                                                  <div class="col-9 align-self-center ps-0">
@@ -1451,7 +1755,7 @@ include('header.php');
                                                        </div>
 
                                                        <div class="col-4 text-center align-self-center">
-                                                            <a href="#" class="home-blog-btn">
+                                                            <a href="portfolio-inner.php" class="home-blog-btn">
                                                                  <i class="fas fa-plus-circle"></i>
                                                             </a>
                                                        </div>
@@ -1464,27 +1768,39 @@ include('header.php');
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
                                                        <div class="portfolio-image-desktop">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" class="img-fluid" alt="Desktop" />
+                                                            <picture>
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                                 <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" class="img-fluid" alt="Desktop">
+                                                            </picture>
                                                        </div>
-                                                       <img src="assets/images/portfolio/desktop.png" class="img-fluid" alt="Desktop" />
+                                                       <picture>
+                                                            <source srcset="assets/images/portfolio/desktop.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                            <source srcset="assets/images/portfolio/desktop.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                            <img loading="lazy" src="assets/images/portfolio/desktop.png" class="img-fluid" alt="Desktop">
+                                                       </picture>
                                                   </div>
                                                   <div class="portfolio-screens portfolio-laptop-screen">
                                                        <div class="portfolio-image-laptop">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-laptop.png" class="img-fluid" alt="Desktop" />
+                                                            <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-laptop.png" class="img-fluid" alt="Desktop" />
                                                        </div>
-                                                       <img src="assets/images/portfolio/laptop.png" class="img-fluid" alt="Laptop" />
+                                                       <img loading="lazy" src="assets/images/portfolio/laptop.png" class="img-fluid" alt="Laptop" />
                                                   </div>
                                                   <div class="portfolio-screens portfolio-ipad-screen">
                                                        <div class="portfolio-image-ipad">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" class="img-fluid" alt="Desktop" />
+                                                            <picture>
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                                 <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" class="img-fluid" alt="Desktop">
+                                                            </picture>
                                                        </div>
-                                                       <img src="assets/images/portfolio/ipad.png" class="img-fluid" alt="Ipad" />
+                                                       <img loading="lazy" src="assets/images/portfolio/ipad.png" class="img-fluid" alt="Ipad" />
                                                   </div>
                                                   <div class="portfolio-screens portfolio-mobile-screen">
                                                        <div class="portfolio-image-mobile">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-mobile.png" class="img-fluid" alt="Desktop" />
+                                                            <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-mobile.png" class="img-fluid" alt="Desktop" />
                                                        </div>
-                                                       <img src="assets/images/portfolio/mobile.png" class="img-fluid" alt="mobile" />
+                                                       <img loading="lazy" src="assets/images/portfolio/mobile.png" class="img-fluid" alt="mobile" />
                                                   </div>
 
                                              </div>
@@ -1512,7 +1828,11 @@ include('header.php');
                                                             <div class="row">
                                                                  <div class="col-3">
                                                                       <div class="home-blog-author">
-                                                                           <img src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                           <picture>
+                                                                                <source srcset="assets/images/blog/avatar.webp" type="image/webp" class="img-fluid" alt="Avatar">
+                                                                                <source srcset="assets/images/blog/avatar.png" type="image/png" class="img-fluid" alt="Avatar">
+                                                                                <img loading="lazy" src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                           </picture>
                                                                       </div>
                                                                  </div>
                                                                  <div class="col-9 align-self-center ps-0">
@@ -1524,7 +1844,7 @@ include('header.php');
                                                        </div>
 
                                                        <div class="col-4 text-center align-self-center">
-                                                            <a href="#" class="home-blog-btn">
+                                                            <a href="portfolio-inner.php" class="home-blog-btn">
                                                                  <i class="fas fa-plus-circle"></i>
                                                             </a>
                                                        </div>
@@ -1537,27 +1857,39 @@ include('header.php');
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
                                                        <div class="portfolio-image-desktop">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" class="img-fluid" alt="Desktop" />
+                                                            <picture>
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                                 <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" class="img-fluid" alt="Desktop">
+                                                            </picture>
                                                        </div>
-                                                       <img src="assets/images/portfolio/desktop.png" class="img-fluid" alt="Desktop" />
+                                                       <picture>
+                                                            <source srcset="assets/images/portfolio/desktop.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                            <source srcset="assets/images/portfolio/desktop.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                            <img loading="lazy" src="assets/images/portfolio/desktop.png" class="img-fluid" alt="Desktop">
+                                                       </picture>
                                                   </div>
                                                   <div class="portfolio-screens portfolio-laptop-screen">
                                                        <div class="portfolio-image-laptop">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-laptop.png" class="img-fluid" alt="Desktop" />
+                                                            <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-laptop.png" class="img-fluid" alt="Desktop" />
                                                        </div>
-                                                       <img src="assets/images/portfolio/laptop.png" class="img-fluid" alt="Laptop" />
+                                                       <img loading="lazy" src="assets/images/portfolio/laptop.png" class="img-fluid" alt="Laptop" />
                                                   </div>
                                                   <div class="portfolio-screens portfolio-ipad-screen">
                                                        <div class="portfolio-image-ipad">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" class="img-fluid" alt="Desktop" />
+                                                            <picture>
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                                 <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" class="img-fluid" alt="Desktop">
+                                                            </picture>
                                                        </div>
-                                                       <img src="assets/images/portfolio/ipad.png" class="img-fluid" alt="Ipad" />
+                                                       <img loading="lazy" src="assets/images/portfolio/ipad.png" class="img-fluid" alt="Ipad" />
                                                   </div>
                                                   <div class="portfolio-screens portfolio-mobile-screen">
                                                        <div class="portfolio-image-mobile">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-mobile.png" class="img-fluid" alt="Desktop" />
+                                                            <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-mobile.png" class="img-fluid" alt="Desktop" />
                                                        </div>
-                                                       <img src="assets/images/portfolio/mobile.png" class="img-fluid" alt="mobile" />
+                                                       <img loading="lazy" src="assets/images/portfolio/mobile.png" class="img-fluid" alt="mobile" />
                                                   </div>
 
                                              </div>
@@ -1585,7 +1917,11 @@ include('header.php');
                                                             <div class="row">
                                                                  <div class="col-3">
                                                                       <div class="home-blog-author">
-                                                                           <img src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                           <picture>
+                                                                                <source srcset="assets/images/blog/avatar.webp" type="image/webp" class="img-fluid" alt="Avatar">
+                                                                                <source srcset="assets/images/blog/avatar.png" type="image/png" class="img-fluid" alt="Avatar">
+                                                                                <img loading="lazy" src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                           </picture>
                                                                       </div>
                                                                  </div>
                                                                  <div class="col-9 align-self-center ps-0">
@@ -1597,7 +1933,7 @@ include('header.php');
                                                        </div>
 
                                                        <div class="col-4 text-center align-self-center">
-                                                            <a href="#" class="home-blog-btn">
+                                                            <a href="portfolio-inner.php" class="home-blog-btn">
                                                                  <i class="fas fa-plus-circle"></i>
                                                             </a>
                                                        </div>
@@ -1610,27 +1946,39 @@ include('header.php');
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
                                                        <div class="portfolio-image-desktop">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" class="img-fluid" alt="Desktop" />
+                                                            <picture>
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                                 <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" class="img-fluid" alt="Desktop">
+                                                            </picture>
                                                        </div>
-                                                       <img src="assets/images/portfolio/desktop.png" class="img-fluid" alt="Desktop" />
+                                                       <picture>
+                                                            <source srcset="assets/images/portfolio/desktop.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                            <source srcset="assets/images/portfolio/desktop.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                            <img loading="lazy" src="assets/images/portfolio/desktop.png" class="img-fluid" alt="Desktop">
+                                                       </picture>
                                                   </div>
                                                   <div class="portfolio-screens portfolio-laptop-screen">
                                                        <div class="portfolio-image-laptop">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-laptop.png" class="img-fluid" alt="Desktop" />
+                                                            <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-laptop.png" class="img-fluid" alt="Desktop" />
                                                        </div>
-                                                       <img src="assets/images/portfolio/laptop.png" class="img-fluid" alt="Laptop" />
+                                                       <img loading="lazy" src="assets/images/portfolio/laptop.png" class="img-fluid" alt="Laptop" />
                                                   </div>
                                                   <div class="portfolio-screens portfolio-ipad-screen">
                                                        <div class="portfolio-image-ipad">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" class="img-fluid" alt="Desktop" />
+                                                            <picture>
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                                 <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" class="img-fluid" alt="Desktop">
+                                                            </picture>
                                                        </div>
-                                                       <img src="assets/images/portfolio/ipad.png" class="img-fluid" alt="Ipad" />
+                                                       <img loading="lazy" src="assets/images/portfolio/ipad.png" class="img-fluid" alt="Ipad" />
                                                   </div>
                                                   <div class="portfolio-screens portfolio-mobile-screen">
                                                        <div class="portfolio-image-mobile">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-mobile.png" class="img-fluid" alt="Desktop" />
+                                                            <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-mobile.png" class="img-fluid" alt="Desktop" />
                                                        </div>
-                                                       <img src="assets/images/portfolio/mobile.png" class="img-fluid" alt="mobile" />
+                                                       <img loading="lazy" src="assets/images/portfolio/mobile.png" class="img-fluid" alt="mobile" />
                                                   </div>
 
                                              </div>
@@ -1658,7 +2006,11 @@ include('header.php');
                                                             <div class="row">
                                                                  <div class="col-3">
                                                                       <div class="home-blog-author">
-                                                                           <img src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                           <picture>
+                                                                                <source srcset="assets/images/blog/avatar.webp" type="image/webp" class="img-fluid" alt="Avatar">
+                                                                                <source srcset="assets/images/blog/avatar.png" type="image/png" class="img-fluid" alt="Avatar">
+                                                                                <img loading="lazy" src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                           </picture>
                                                                       </div>
                                                                  </div>
                                                                  <div class="col-9 align-self-center ps-0">
@@ -1670,7 +2022,7 @@ include('header.php');
                                                        </div>
 
                                                        <div class="col-4 text-center align-self-center">
-                                                            <a href="#" class="home-blog-btn">
+                                                            <a href="portfolio-inner.php" class="home-blog-btn">
                                                                  <i class="fas fa-plus-circle"></i>
                                                             </a>
                                                        </div>
@@ -1683,27 +2035,39 @@ include('header.php');
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
                                                        <div class="portfolio-image-desktop">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" class="img-fluid" alt="Desktop" />
+                                                            <picture>
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                                 <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" class="img-fluid" alt="Desktop">
+                                                            </picture>
                                                        </div>
-                                                       <img src="assets/images/portfolio/desktop.png" class="img-fluid" alt="Desktop" />
+                                                       <picture>
+                                                            <source srcset="assets/images/portfolio/desktop.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                            <source srcset="assets/images/portfolio/desktop.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                            <img loading="lazy" src="assets/images/portfolio/desktop.png" class="img-fluid" alt="Desktop">
+                                                       </picture>
                                                   </div>
                                                   <div class="portfolio-screens portfolio-laptop-screen">
                                                        <div class="portfolio-image-laptop">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-laptop.png" class="img-fluid" alt="Desktop" />
+                                                            <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-laptop.png" class="img-fluid" alt="Desktop" />
                                                        </div>
-                                                       <img src="assets/images/portfolio/laptop.png" class="img-fluid" alt="Laptop" />
+                                                       <img loading="lazy" src="assets/images/portfolio/laptop.png" class="img-fluid" alt="Laptop" />
                                                   </div>
                                                   <div class="portfolio-screens portfolio-ipad-screen">
                                                        <div class="portfolio-image-ipad">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" class="img-fluid" alt="Desktop" />
+                                                            <picture>
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                                 <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" class="img-fluid" alt="Desktop">
+                                                            </picture>
                                                        </div>
-                                                       <img src="assets/images/portfolio/ipad.png" class="img-fluid" alt="Ipad" />
+                                                       <img loading="lazy" src="assets/images/portfolio/ipad.png" class="img-fluid" alt="Ipad" />
                                                   </div>
                                                   <div class="portfolio-screens portfolio-mobile-screen">
                                                        <div class="portfolio-image-mobile">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-mobile.png" class="img-fluid" alt="Desktop" />
+                                                            <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-mobile.png" class="img-fluid" alt="Desktop" />
                                                        </div>
-                                                       <img src="assets/images/portfolio/mobile.png" class="img-fluid" alt="mobile" />
+                                                       <img loading="lazy" src="assets/images/portfolio/mobile.png" class="img-fluid" alt="mobile" />
                                                   </div>
 
                                              </div>
@@ -1731,7 +2095,11 @@ include('header.php');
                                                             <div class="row">
                                                                  <div class="col-3">
                                                                       <div class="home-blog-author">
-                                                                           <img src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                           <picture>
+                                                                                <source srcset="assets/images/blog/avatar.webp" type="image/webp" class="img-fluid" alt="Avatar">
+                                                                                <source srcset="assets/images/blog/avatar.png" type="image/png" class="img-fluid" alt="Avatar">
+                                                                                <img loading="lazy" src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                           </picture>
                                                                       </div>
                                                                  </div>
                                                                  <div class="col-9 align-self-center ps-0">
@@ -1743,7 +2111,7 @@ include('header.php');
                                                        </div>
 
                                                        <div class="col-4 text-center align-self-center">
-                                                            <a href="#" class="home-blog-btn">
+                                                            <a href="portfolio-inner.php" class="home-blog-btn">
                                                                  <i class="fas fa-plus-circle"></i>
                                                             </a>
                                                        </div>
@@ -1756,27 +2124,39 @@ include('header.php');
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
                                                        <div class="portfolio-image-desktop">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" class="img-fluid" alt="Desktop" />
+                                                            <picture>
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                                 <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" class="img-fluid" alt="Desktop">
+                                                            </picture>
                                                        </div>
-                                                       <img src="assets/images/portfolio/desktop.png" class="img-fluid" alt="Desktop" />
+                                                       <picture>
+                                                            <source srcset="assets/images/portfolio/desktop.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                            <source srcset="assets/images/portfolio/desktop.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                            <img loading="lazy" src="assets/images/portfolio/desktop.png" class="img-fluid" alt="Desktop">
+                                                       </picture>
                                                   </div>
                                                   <div class="portfolio-screens portfolio-laptop-screen">
                                                        <div class="portfolio-image-laptop">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-laptop.png" class="img-fluid" alt="Desktop" />
+                                                            <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-laptop.png" class="img-fluid" alt="Desktop" />
                                                        </div>
-                                                       <img src="assets/images/portfolio/laptop.png" class="img-fluid" alt="Laptop" />
+                                                       <img loading="lazy" src="assets/images/portfolio/laptop.png" class="img-fluid" alt="Laptop" />
                                                   </div>
                                                   <div class="portfolio-screens portfolio-ipad-screen">
                                                        <div class="portfolio-image-ipad">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" class="img-fluid" alt="Desktop" />
+                                                            <picture>
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                                 <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" class="img-fluid" alt="Desktop">
+                                                            </picture>
                                                        </div>
-                                                       <img src="assets/images/portfolio/ipad.png" class="img-fluid" alt="Ipad" />
+                                                       <img loading="lazy" src="assets/images/portfolio/ipad.png" class="img-fluid" alt="Ipad" />
                                                   </div>
                                                   <div class="portfolio-screens portfolio-mobile-screen">
                                                        <div class="portfolio-image-mobile">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-mobile.png" class="img-fluid" alt="Desktop" />
+                                                            <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-mobile.png" class="img-fluid" alt="Desktop" />
                                                        </div>
-                                                       <img src="assets/images/portfolio/mobile.png" class="img-fluid" alt="mobile" />
+                                                       <img loading="lazy" src="assets/images/portfolio/mobile.png" class="img-fluid" alt="mobile" />
                                                   </div>
 
                                              </div>
@@ -1804,7 +2184,11 @@ include('header.php');
                                                             <div class="row">
                                                                  <div class="col-3">
                                                                       <div class="home-blog-author">
-                                                                           <img src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                           <picture>
+                                                                                <source srcset="assets/images/blog/avatar.webp" type="image/webp" class="img-fluid" alt="Avatar">
+                                                                                <source srcset="assets/images/blog/avatar.png" type="image/png" class="img-fluid" alt="Avatar">
+                                                                                <img loading="lazy" src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                           </picture>
                                                                       </div>
                                                                  </div>
                                                                  <div class="col-9 align-self-center ps-0">
@@ -1816,7 +2200,7 @@ include('header.php');
                                                        </div>
 
                                                        <div class="col-4 text-center align-self-center">
-                                                            <a href="#" class="home-blog-btn">
+                                                            <a href="portfolio-inner.php" class="home-blog-btn">
                                                                  <i class="fas fa-plus-circle"></i>
                                                             </a>
                                                        </div>
@@ -1833,27 +2217,39 @@ include('header.php');
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
                                                        <div class="portfolio-image-desktop">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" class="img-fluid" alt="Desktop" />
+                                                            <picture>
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                                 <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" class="img-fluid" alt="Desktop">
+                                                            </picture>
                                                        </div>
-                                                       <img src="assets/images/portfolio/desktop.png" class="img-fluid" alt="Desktop" />
+                                                       <picture>
+                                                            <source srcset="assets/images/portfolio/desktop.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                            <source srcset="assets/images/portfolio/desktop.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                            <img loading="lazy" src="assets/images/portfolio/desktop.png" class="img-fluid" alt="Desktop">
+                                                       </picture>
                                                   </div>
                                                   <div class="portfolio-screens portfolio-laptop-screen">
                                                        <div class="portfolio-image-laptop">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-laptop.png" class="img-fluid" alt="Desktop" />
+                                                            <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-laptop.png" class="img-fluid" alt="Desktop" />
                                                        </div>
-                                                       <img src="assets/images/portfolio/laptop.png" class="img-fluid" alt="Laptop" />
+                                                       <img loading="lazy" src="assets/images/portfolio/laptop.png" class="img-fluid" alt="Laptop" />
                                                   </div>
                                                   <div class="portfolio-screens portfolio-ipad-screen">
                                                        <div class="portfolio-image-ipad">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" class="img-fluid" alt="Desktop" />
+                                                            <picture>
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                                 <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" class="img-fluid" alt="Desktop">
+                                                            </picture>
                                                        </div>
-                                                       <img src="assets/images/portfolio/ipad.png" class="img-fluid" alt="Ipad" />
+                                                       <img loading="lazy" src="assets/images/portfolio/ipad.png" class="img-fluid" alt="Ipad" />
                                                   </div>
                                                   <div class="portfolio-screens portfolio-mobile-screen">
                                                        <div class="portfolio-image-mobile">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-mobile.png" class="img-fluid" alt="Desktop" />
+                                                            <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-mobile.png" class="img-fluid" alt="Desktop" />
                                                        </div>
-                                                       <img src="assets/images/portfolio/mobile.png" class="img-fluid" alt="mobile" />
+                                                       <img loading="lazy" src="assets/images/portfolio/mobile.png" class="img-fluid" alt="mobile" />
                                                   </div>
 
                                              </div>
@@ -1881,7 +2277,11 @@ include('header.php');
                                                             <div class="row">
                                                                  <div class="col-3">
                                                                       <div class="home-blog-author">
-                                                                           <img src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                           <picture>
+                                                                                <source srcset="assets/images/blog/avatar.webp" type="image/webp" class="img-fluid" alt="Avatar">
+                                                                                <source srcset="assets/images/blog/avatar.png" type="image/png" class="img-fluid" alt="Avatar">
+                                                                                <img loading="lazy" src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                           </picture>
                                                                       </div>
                                                                  </div>
                                                                  <div class="col-9 align-self-center ps-0">
@@ -1893,7 +2293,7 @@ include('header.php');
                                                        </div>
 
                                                        <div class="col-4 text-center align-self-center">
-                                                            <a href="#" class="home-blog-btn">
+                                                            <a href="portfolio-inner.php" class="home-blog-btn">
                                                                  <i class="fas fa-plus-circle"></i>
                                                             </a>
                                                        </div>
@@ -1906,27 +2306,39 @@ include('header.php');
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
                                                        <div class="portfolio-image-desktop">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" class="img-fluid" alt="Desktop" />
+                                                            <picture>
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                                 <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" class="img-fluid" alt="Desktop">
+                                                            </picture>
                                                        </div>
-                                                       <img src="assets/images/portfolio/desktop.png" class="img-fluid" alt="Desktop" />
+                                                       <picture>
+                                                            <source srcset="assets/images/portfolio/desktop.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                            <source srcset="assets/images/portfolio/desktop.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                            <img loading="lazy" src="assets/images/portfolio/desktop.png" class="img-fluid" alt="Desktop">
+                                                       </picture>
                                                   </div>
                                                   <div class="portfolio-screens portfolio-laptop-screen">
                                                        <div class="portfolio-image-laptop">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-laptop.png" class="img-fluid" alt="Desktop" />
+                                                            <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-laptop.png" class="img-fluid" alt="Desktop" />
                                                        </div>
-                                                       <img src="assets/images/portfolio/laptop.png" class="img-fluid" alt="Laptop" />
+                                                       <img loading="lazy" src="assets/images/portfolio/laptop.png" class="img-fluid" alt="Laptop" />
                                                   </div>
                                                   <div class="portfolio-screens portfolio-ipad-screen">
                                                        <div class="portfolio-image-ipad">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" class="img-fluid" alt="Desktop" />
+                                                            <picture>
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                                 <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" class="img-fluid" alt="Desktop">
+                                                            </picture>
                                                        </div>
-                                                       <img src="assets/images/portfolio/ipad.png" class="img-fluid" alt="Ipad" />
+                                                       <img loading="lazy" src="assets/images/portfolio/ipad.png" class="img-fluid" alt="Ipad" />
                                                   </div>
                                                   <div class="portfolio-screens portfolio-mobile-screen">
                                                        <div class="portfolio-image-mobile">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-mobile.png" class="img-fluid" alt="Desktop" />
+                                                            <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-mobile.png" class="img-fluid" alt="Desktop" />
                                                        </div>
-                                                       <img src="assets/images/portfolio/mobile.png" class="img-fluid" alt="mobile" />
+                                                       <img loading="lazy" src="assets/images/portfolio/mobile.png" class="img-fluid" alt="mobile" />
                                                   </div>
 
                                              </div>
@@ -1954,7 +2366,11 @@ include('header.php');
                                                             <div class="row">
                                                                  <div class="col-3">
                                                                       <div class="home-blog-author">
-                                                                           <img src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                           <picture>
+                                                                                <source srcset="assets/images/blog/avatar.webp" type="image/webp" class="img-fluid" alt="Avatar">
+                                                                                <source srcset="assets/images/blog/avatar.png" type="image/png" class="img-fluid" alt="Avatar">
+                                                                                <img loading="lazy" src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                           </picture>
                                                                       </div>
                                                                  </div>
                                                                  <div class="col-9 align-self-center ps-0">
@@ -1966,7 +2382,7 @@ include('header.php');
                                                        </div>
 
                                                        <div class="col-4 text-center align-self-center">
-                                                            <a href="#" class="home-blog-btn">
+                                                            <a href="portfolio-inner.php" class="home-blog-btn">
                                                                  <i class="fas fa-plus-circle"></i>
                                                             </a>
                                                        </div>
@@ -1979,27 +2395,39 @@ include('header.php');
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
                                                        <div class="portfolio-image-desktop">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" class="img-fluid" alt="Desktop" />
+                                                            <picture>
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                                 <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" class="img-fluid" alt="Desktop">
+                                                            </picture>
                                                        </div>
-                                                       <img src="assets/images/portfolio/desktop.png" class="img-fluid" alt="Desktop" />
+                                                       <picture>
+                                                            <source srcset="assets/images/portfolio/desktop.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                            <source srcset="assets/images/portfolio/desktop.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                            <img loading="lazy" src="assets/images/portfolio/desktop.png" class="img-fluid" alt="Desktop">
+                                                       </picture>
                                                   </div>
                                                   <div class="portfolio-screens portfolio-laptop-screen">
                                                        <div class="portfolio-image-laptop">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-laptop.png" class="img-fluid" alt="Desktop" />
+                                                            <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-laptop.png" class="img-fluid" alt="Desktop" />
                                                        </div>
-                                                       <img src="assets/images/portfolio/laptop.png" class="img-fluid" alt="Laptop" />
+                                                       <img loading="lazy" src="assets/images/portfolio/laptop.png" class="img-fluid" alt="Laptop" />
                                                   </div>
                                                   <div class="portfolio-screens portfolio-ipad-screen">
                                                        <div class="portfolio-image-ipad">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" class="img-fluid" alt="Desktop" />
+                                                            <picture>
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                                 <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" class="img-fluid" alt="Desktop">
+                                                            </picture>
                                                        </div>
-                                                       <img src="assets/images/portfolio/ipad.png" class="img-fluid" alt="Ipad" />
+                                                       <img loading="lazy" src="assets/images/portfolio/ipad.png" class="img-fluid" alt="Ipad" />
                                                   </div>
                                                   <div class="portfolio-screens portfolio-mobile-screen">
                                                        <div class="portfolio-image-mobile">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-mobile.png" class="img-fluid" alt="Desktop" />
+                                                            <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-mobile.png" class="img-fluid" alt="Desktop" />
                                                        </div>
-                                                       <img src="assets/images/portfolio/mobile.png" class="img-fluid" alt="mobile" />
+                                                       <img loading="lazy" src="assets/images/portfolio/mobile.png" class="img-fluid" alt="mobile" />
                                                   </div>
 
                                              </div>
@@ -2027,7 +2455,11 @@ include('header.php');
                                                             <div class="row">
                                                                  <div class="col-3">
                                                                       <div class="home-blog-author">
-                                                                           <img src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                           <picture>
+                                                                                <source srcset="assets/images/blog/avatar.webp" type="image/webp" class="img-fluid" alt="Avatar">
+                                                                                <source srcset="assets/images/blog/avatar.png" type="image/png" class="img-fluid" alt="Avatar">
+                                                                                <img loading="lazy" src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                           </picture>
                                                                       </div>
                                                                  </div>
                                                                  <div class="col-9 align-self-center ps-0">
@@ -2039,7 +2471,7 @@ include('header.php');
                                                        </div>
 
                                                        <div class="col-4 text-center align-self-center">
-                                                            <a href="#" class="home-blog-btn">
+                                                            <a href="portfolio-inner.php" class="home-blog-btn">
                                                                  <i class="fas fa-plus-circle"></i>
                                                             </a>
                                                        </div>
@@ -2052,27 +2484,39 @@ include('header.php');
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
                                                        <div class="portfolio-image-desktop">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" class="img-fluid" alt="Desktop" />
+                                                            <picture>
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                                 <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" class="img-fluid" alt="Desktop">
+                                                            </picture>
                                                        </div>
-                                                       <img src="assets/images/portfolio/desktop.png" class="img-fluid" alt="Desktop" />
+                                                       <picture>
+                                                            <source srcset="assets/images/portfolio/desktop.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                            <source srcset="assets/images/portfolio/desktop.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                            <img loading="lazy" src="assets/images/portfolio/desktop.png" class="img-fluid" alt="Desktop">
+                                                       </picture>
                                                   </div>
                                                   <div class="portfolio-screens portfolio-laptop-screen">
                                                        <div class="portfolio-image-laptop">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-laptop.png" class="img-fluid" alt="Desktop" />
+                                                            <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-laptop.png" class="img-fluid" alt="Desktop" />
                                                        </div>
-                                                       <img src="assets/images/portfolio/laptop.png" class="img-fluid" alt="Laptop" />
+                                                       <img loading="lazy" src="assets/images/portfolio/laptop.png" class="img-fluid" alt="Laptop" />
                                                   </div>
                                                   <div class="portfolio-screens portfolio-ipad-screen">
                                                        <div class="portfolio-image-ipad">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" class="img-fluid" alt="Desktop" />
+                                                            <picture>
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                                 <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" class="img-fluid" alt="Desktop">
+                                                            </picture>
                                                        </div>
-                                                       <img src="assets/images/portfolio/ipad.png" class="img-fluid" alt="Ipad" />
+                                                       <img loading="lazy" src="assets/images/portfolio/ipad.png" class="img-fluid" alt="Ipad" />
                                                   </div>
                                                   <div class="portfolio-screens portfolio-mobile-screen">
                                                        <div class="portfolio-image-mobile">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-mobile.png" class="img-fluid" alt="Desktop" />
+                                                            <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-mobile.png" class="img-fluid" alt="Desktop" />
                                                        </div>
-                                                       <img src="assets/images/portfolio/mobile.png" class="img-fluid" alt="mobile" />
+                                                       <img loading="lazy" src="assets/images/portfolio/mobile.png" class="img-fluid" alt="mobile" />
                                                   </div>
 
                                              </div>
@@ -2100,7 +2544,11 @@ include('header.php');
                                                             <div class="row">
                                                                  <div class="col-3">
                                                                       <div class="home-blog-author">
-                                                                           <img src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                           <picture>
+                                                                                <source srcset="assets/images/blog/avatar.webp" type="image/webp" class="img-fluid" alt="Avatar">
+                                                                                <source srcset="assets/images/blog/avatar.png" type="image/png" class="img-fluid" alt="Avatar">
+                                                                                <img loading="lazy" src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                           </picture>
                                                                       </div>
                                                                  </div>
                                                                  <div class="col-9 align-self-center ps-0">
@@ -2112,7 +2560,7 @@ include('header.php');
                                                        </div>
 
                                                        <div class="col-4 text-center align-self-center">
-                                                            <a href="#" class="home-blog-btn">
+                                                            <a href="portfolio-inner.php" class="home-blog-btn">
                                                                  <i class="fas fa-plus-circle"></i>
                                                             </a>
                                                        </div>
@@ -2125,27 +2573,39 @@ include('header.php');
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
                                                        <div class="portfolio-image-desktop">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" class="img-fluid" alt="Desktop" />
+                                                            <picture>
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                                 <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" class="img-fluid" alt="Desktop">
+                                                            </picture>
                                                        </div>
-                                                       <img src="assets/images/portfolio/desktop.png" class="img-fluid" alt="Desktop" />
+                                                       <picture>
+                                                            <source srcset="assets/images/portfolio/desktop.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                            <source srcset="assets/images/portfolio/desktop.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                            <img loading="lazy" src="assets/images/portfolio/desktop.png" class="img-fluid" alt="Desktop">
+                                                       </picture>
                                                   </div>
                                                   <div class="portfolio-screens portfolio-laptop-screen">
                                                        <div class="portfolio-image-laptop">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-laptop.png" class="img-fluid" alt="Desktop" />
+                                                            <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-laptop.png" class="img-fluid" alt="Desktop" />
                                                        </div>
-                                                       <img src="assets/images/portfolio/laptop.png" class="img-fluid" alt="Laptop" />
+                                                       <img loading="lazy" src="assets/images/portfolio/laptop.png" class="img-fluid" alt="Laptop" />
                                                   </div>
                                                   <div class="portfolio-screens portfolio-ipad-screen">
                                                        <div class="portfolio-image-ipad">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" class="img-fluid" alt="Desktop" />
+                                                            <picture>
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                                 <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" class="img-fluid" alt="Desktop">
+                                                            </picture>
                                                        </div>
-                                                       <img src="assets/images/portfolio/ipad.png" class="img-fluid" alt="Ipad" />
+                                                       <img loading="lazy" src="assets/images/portfolio/ipad.png" class="img-fluid" alt="Ipad" />
                                                   </div>
                                                   <div class="portfolio-screens portfolio-mobile-screen">
                                                        <div class="portfolio-image-mobile">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-mobile.png" class="img-fluid" alt="Desktop" />
+                                                            <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-mobile.png" class="img-fluid" alt="Desktop" />
                                                        </div>
-                                                       <img src="assets/images/portfolio/mobile.png" class="img-fluid" alt="mobile" />
+                                                       <img loading="lazy" src="assets/images/portfolio/mobile.png" class="img-fluid" alt="mobile" />
                                                   </div>
 
                                              </div>
@@ -2173,7 +2633,11 @@ include('header.php');
                                                             <div class="row">
                                                                  <div class="col-3">
                                                                       <div class="home-blog-author">
-                                                                           <img src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                           <picture>
+                                                                                <source srcset="assets/images/blog/avatar.webp" type="image/webp" class="img-fluid" alt="Avatar">
+                                                                                <source srcset="assets/images/blog/avatar.png" type="image/png" class="img-fluid" alt="Avatar">
+                                                                                <img loading="lazy" src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                           </picture>
                                                                       </div>
                                                                  </div>
                                                                  <div class="col-9 align-self-center ps-0">
@@ -2185,7 +2649,7 @@ include('header.php');
                                                        </div>
 
                                                        <div class="col-4 text-center align-self-center">
-                                                            <a href="#" class="home-blog-btn">
+                                                            <a href="portfolio-inner.php" class="home-blog-btn">
                                                                  <i class="fas fa-plus-circle"></i>
                                                             </a>
                                                        </div>
@@ -2198,27 +2662,39 @@ include('header.php');
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
                                                        <div class="portfolio-image-desktop">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" class="img-fluid" alt="Desktop" />
+                                                            <picture>
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                                 <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" class="img-fluid" alt="Desktop">
+                                                            </picture>
                                                        </div>
-                                                       <img src="assets/images/portfolio/desktop.png" class="img-fluid" alt="Desktop" />
+                                                       <picture>
+                                                            <source srcset="assets/images/portfolio/desktop.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                            <source srcset="assets/images/portfolio/desktop.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                            <img loading="lazy" src="assets/images/portfolio/desktop.png" class="img-fluid" alt="Desktop">
+                                                       </picture>
                                                   </div>
                                                   <div class="portfolio-screens portfolio-laptop-screen">
                                                        <div class="portfolio-image-laptop">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-laptop.png" class="img-fluid" alt="Desktop" />
+                                                            <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-laptop.png" class="img-fluid" alt="Desktop" />
                                                        </div>
-                                                       <img src="assets/images/portfolio/laptop.png" class="img-fluid" alt="Laptop" />
+                                                       <img loading="lazy" src="assets/images/portfolio/laptop.png" class="img-fluid" alt="Laptop" />
                                                   </div>
                                                   <div class="portfolio-screens portfolio-ipad-screen">
                                                        <div class="portfolio-image-ipad">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" class="img-fluid" alt="Desktop" />
+                                                            <picture>
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                                 <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" class="img-fluid" alt="Desktop">
+                                                            </picture>
                                                        </div>
-                                                       <img src="assets/images/portfolio/ipad.png" class="img-fluid" alt="Ipad" />
+                                                       <img loading="lazy" src="assets/images/portfolio/ipad.png" class="img-fluid" alt="Ipad" />
                                                   </div>
                                                   <div class="portfolio-screens portfolio-mobile-screen">
                                                        <div class="portfolio-image-mobile">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-mobile.png" class="img-fluid" alt="Desktop" />
+                                                            <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-mobile.png" class="img-fluid" alt="Desktop" />
                                                        </div>
-                                                       <img src="assets/images/portfolio/mobile.png" class="img-fluid" alt="mobile" />
+                                                       <img loading="lazy" src="assets/images/portfolio/mobile.png" class="img-fluid" alt="mobile" />
                                                   </div>
 
                                              </div>
@@ -2246,7 +2722,11 @@ include('header.php');
                                                             <div class="row">
                                                                  <div class="col-3">
                                                                       <div class="home-blog-author">
-                                                                           <img src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                           <picture>
+                                                                                <source srcset="assets/images/blog/avatar.webp" type="image/webp" class="img-fluid" alt="Avatar">
+                                                                                <source srcset="assets/images/blog/avatar.png" type="image/png" class="img-fluid" alt="Avatar">
+                                                                                <img loading="lazy" src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                           </picture>
                                                                       </div>
                                                                  </div>
                                                                  <div class="col-9 align-self-center ps-0">
@@ -2258,7 +2738,7 @@ include('header.php');
                                                        </div>
 
                                                        <div class="col-4 text-center align-self-center">
-                                                            <a href="#" class="home-blog-btn">
+                                                            <a href="portfolio-inner.php" class="home-blog-btn">
                                                                  <i class="fas fa-plus-circle"></i>
                                                             </a>
                                                        </div>
@@ -2275,27 +2755,39 @@ include('header.php');
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
                                                        <div class="portfolio-image-desktop">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" class="img-fluid" alt="Desktop" />
+                                                            <picture>
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                                 <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" class="img-fluid" alt="Desktop">
+                                                            </picture>
                                                        </div>
-                                                       <img src="assets/images/portfolio/desktop.png" class="img-fluid" alt="Desktop" />
+                                                       <picture>
+                                                            <source srcset="assets/images/portfolio/desktop.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                            <source srcset="assets/images/portfolio/desktop.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                            <img loading="lazy" src="assets/images/portfolio/desktop.png" class="img-fluid" alt="Desktop">
+                                                       </picture>
                                                   </div>
                                                   <div class="portfolio-screens portfolio-laptop-screen">
                                                        <div class="portfolio-image-laptop">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-laptop.png" class="img-fluid" alt="Desktop" />
+                                                            <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-laptop.png" class="img-fluid" alt="Desktop" />
                                                        </div>
-                                                       <img src="assets/images/portfolio/laptop.png" class="img-fluid" alt="Laptop" />
+                                                       <img loading="lazy" src="assets/images/portfolio/laptop.png" class="img-fluid" alt="Laptop" />
                                                   </div>
                                                   <div class="portfolio-screens portfolio-ipad-screen">
                                                        <div class="portfolio-image-ipad">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" class="img-fluid" alt="Desktop" />
+                                                            <picture>
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                                 <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" class="img-fluid" alt="Desktop">
+                                                            </picture>
                                                        </div>
-                                                       <img src="assets/images/portfolio/ipad.png" class="img-fluid" alt="Ipad" />
+                                                       <img loading="lazy" src="assets/images/portfolio/ipad.png" class="img-fluid" alt="Ipad" />
                                                   </div>
                                                   <div class="portfolio-screens portfolio-mobile-screen">
                                                        <div class="portfolio-image-mobile">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-mobile.png" class="img-fluid" alt="Desktop" />
+                                                            <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-mobile.png" class="img-fluid" alt="Desktop" />
                                                        </div>
-                                                       <img src="assets/images/portfolio/mobile.png" class="img-fluid" alt="mobile" />
+                                                       <img loading="lazy" src="assets/images/portfolio/mobile.png" class="img-fluid" alt="mobile" />
                                                   </div>
 
                                              </div>
@@ -2323,7 +2815,11 @@ include('header.php');
                                                             <div class="row">
                                                                  <div class="col-3">
                                                                       <div class="home-blog-author">
-                                                                           <img src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                           <picture>
+                                                                                <source srcset="assets/images/blog/avatar.webp" type="image/webp" class="img-fluid" alt="Avatar">
+                                                                                <source srcset="assets/images/blog/avatar.png" type="image/png" class="img-fluid" alt="Avatar">
+                                                                                <img loading="lazy" src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                           </picture>
                                                                       </div>
                                                                  </div>
                                                                  <div class="col-9 align-self-center ps-0">
@@ -2335,7 +2831,7 @@ include('header.php');
                                                        </div>
 
                                                        <div class="col-4 text-center align-self-center">
-                                                            <a href="#" class="home-blog-btn">
+                                                            <a href="portfolio-inner.php" class="home-blog-btn">
                                                                  <i class="fas fa-plus-circle"></i>
                                                             </a>
                                                        </div>
@@ -2348,27 +2844,39 @@ include('header.php');
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
                                                        <div class="portfolio-image-desktop">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" class="img-fluid" alt="Desktop" />
+                                                            <picture>
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                                 <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" class="img-fluid" alt="Desktop">
+                                                            </picture>
                                                        </div>
-                                                       <img src="assets/images/portfolio/desktop.png" class="img-fluid" alt="Desktop" />
+                                                       <picture>
+                                                            <source srcset="assets/images/portfolio/desktop.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                            <source srcset="assets/images/portfolio/desktop.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                            <img loading="lazy" src="assets/images/portfolio/desktop.png" class="img-fluid" alt="Desktop">
+                                                       </picture>
                                                   </div>
                                                   <div class="portfolio-screens portfolio-laptop-screen">
                                                        <div class="portfolio-image-laptop">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-laptop.png" class="img-fluid" alt="Desktop" />
+                                                            <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-laptop.png" class="img-fluid" alt="Desktop" />
                                                        </div>
-                                                       <img src="assets/images/portfolio/laptop.png" class="img-fluid" alt="Laptop" />
+                                                       <img loading="lazy" src="assets/images/portfolio/laptop.png" class="img-fluid" alt="Laptop" />
                                                   </div>
                                                   <div class="portfolio-screens portfolio-ipad-screen">
                                                        <div class="portfolio-image-ipad">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" class="img-fluid" alt="Desktop" />
+                                                            <picture>
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                                 <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" class="img-fluid" alt="Desktop">
+                                                            </picture>
                                                        </div>
-                                                       <img src="assets/images/portfolio/ipad.png" class="img-fluid" alt="Ipad" />
+                                                       <img loading="lazy" src="assets/images/portfolio/ipad.png" class="img-fluid" alt="Ipad" />
                                                   </div>
                                                   <div class="portfolio-screens portfolio-mobile-screen">
                                                        <div class="portfolio-image-mobile">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-mobile.png" class="img-fluid" alt="Desktop" />
+                                                            <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-mobile.png" class="img-fluid" alt="Desktop" />
                                                        </div>
-                                                       <img src="assets/images/portfolio/mobile.png" class="img-fluid" alt="mobile" />
+                                                       <img loading="lazy" src="assets/images/portfolio/mobile.png" class="img-fluid" alt="mobile" />
                                                   </div>
 
                                              </div>
@@ -2396,7 +2904,11 @@ include('header.php');
                                                             <div class="row">
                                                                  <div class="col-3">
                                                                       <div class="home-blog-author">
-                                                                           <img src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                           <picture>
+                                                                                <source srcset="assets/images/blog/avatar.webp" type="image/webp" class="img-fluid" alt="Avatar">
+                                                                                <source srcset="assets/images/blog/avatar.png" type="image/png" class="img-fluid" alt="Avatar">
+                                                                                <img loading="lazy" src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                           </picture>
                                                                       </div>
                                                                  </div>
                                                                  <div class="col-9 align-self-center ps-0">
@@ -2408,7 +2920,7 @@ include('header.php');
                                                        </div>
 
                                                        <div class="col-4 text-center align-self-center">
-                                                            <a href="#" class="home-blog-btn">
+                                                            <a href="portfolio-inner.php" class="home-blog-btn">
                                                                  <i class="fas fa-plus-circle"></i>
                                                             </a>
                                                        </div>
@@ -2421,27 +2933,39 @@ include('header.php');
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
                                                        <div class="portfolio-image-desktop">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" class="img-fluid" alt="Desktop" />
+                                                            <picture>
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                                 <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" class="img-fluid" alt="Desktop">
+                                                            </picture>
                                                        </div>
-                                                       <img src="assets/images/portfolio/desktop.png" class="img-fluid" alt="Desktop" />
+                                                       <picture>
+                                                            <source srcset="assets/images/portfolio/desktop.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                            <source srcset="assets/images/portfolio/desktop.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                            <img loading="lazy" src="assets/images/portfolio/desktop.png" class="img-fluid" alt="Desktop">
+                                                       </picture>
                                                   </div>
                                                   <div class="portfolio-screens portfolio-laptop-screen">
                                                        <div class="portfolio-image-laptop">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-laptop.png" class="img-fluid" alt="Desktop" />
+                                                            <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-laptop.png" class="img-fluid" alt="Desktop" />
                                                        </div>
-                                                       <img src="assets/images/portfolio/laptop.png" class="img-fluid" alt="Laptop" />
+                                                       <img loading="lazy" src="assets/images/portfolio/laptop.png" class="img-fluid" alt="Laptop" />
                                                   </div>
                                                   <div class="portfolio-screens portfolio-ipad-screen">
                                                        <div class="portfolio-image-ipad">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" class="img-fluid" alt="Desktop" />
+                                                            <picture>
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                                 <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" class="img-fluid" alt="Desktop">
+                                                            </picture>
                                                        </div>
-                                                       <img src="assets/images/portfolio/ipad.png" class="img-fluid" alt="Ipad" />
+                                                       <img loading="lazy" src="assets/images/portfolio/ipad.png" class="img-fluid" alt="Ipad" />
                                                   </div>
                                                   <div class="portfolio-screens portfolio-mobile-screen">
                                                        <div class="portfolio-image-mobile">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-mobile.png" class="img-fluid" alt="Desktop" />
+                                                            <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-mobile.png" class="img-fluid" alt="Desktop" />
                                                        </div>
-                                                       <img src="assets/images/portfolio/mobile.png" class="img-fluid" alt="mobile" />
+                                                       <img loading="lazy" src="assets/images/portfolio/mobile.png" class="img-fluid" alt="mobile" />
                                                   </div>
 
                                              </div>
@@ -2469,7 +2993,11 @@ include('header.php');
                                                             <div class="row">
                                                                  <div class="col-3">
                                                                       <div class="home-blog-author">
-                                                                           <img src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                           <picture>
+                                                                                <source srcset="assets/images/blog/avatar.webp" type="image/webp" class="img-fluid" alt="Avatar">
+                                                                                <source srcset="assets/images/blog/avatar.png" type="image/png" class="img-fluid" alt="Avatar">
+                                                                                <img loading="lazy" src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                           </picture>
                                                                       </div>
                                                                  </div>
                                                                  <div class="col-9 align-self-center ps-0">
@@ -2481,7 +3009,7 @@ include('header.php');
                                                        </div>
 
                                                        <div class="col-4 text-center align-self-center">
-                                                            <a href="#" class="home-blog-btn">
+                                                            <a href="portfolio-inner.php" class="home-blog-btn">
                                                                  <i class="fas fa-plus-circle"></i>
                                                             </a>
                                                        </div>
@@ -2494,27 +3022,39 @@ include('header.php');
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
                                                        <div class="portfolio-image-desktop">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" class="img-fluid" alt="Desktop" />
+                                                            <picture>
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                                 <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" class="img-fluid" alt="Desktop">
+                                                            </picture>
                                                        </div>
-                                                       <img src="assets/images/portfolio/desktop.png" class="img-fluid" alt="Desktop" />
+                                                       <picture>
+                                                            <source srcset="assets/images/portfolio/desktop.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                            <source srcset="assets/images/portfolio/desktop.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                            <img loading="lazy" src="assets/images/portfolio/desktop.png" class="img-fluid" alt="Desktop">
+                                                       </picture>
                                                   </div>
                                                   <div class="portfolio-screens portfolio-laptop-screen">
                                                        <div class="portfolio-image-laptop">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-laptop.png" class="img-fluid" alt="Desktop" />
+                                                            <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-laptop.png" class="img-fluid" alt="Desktop" />
                                                        </div>
-                                                       <img src="assets/images/portfolio/laptop.png" class="img-fluid" alt="Laptop" />
+                                                       <img loading="lazy" src="assets/images/portfolio/laptop.png" class="img-fluid" alt="Laptop" />
                                                   </div>
                                                   <div class="portfolio-screens portfolio-ipad-screen">
                                                        <div class="portfolio-image-ipad">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" class="img-fluid" alt="Desktop" />
+                                                            <picture>
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                                 <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" class="img-fluid" alt="Desktop">
+                                                            </picture>
                                                        </div>
-                                                       <img src="assets/images/portfolio/ipad.png" class="img-fluid" alt="Ipad" />
+                                                       <img loading="lazy" src="assets/images/portfolio/ipad.png" class="img-fluid" alt="Ipad" />
                                                   </div>
                                                   <div class="portfolio-screens portfolio-mobile-screen">
                                                        <div class="portfolio-image-mobile">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-mobile.png" class="img-fluid" alt="Desktop" />
+                                                            <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-mobile.png" class="img-fluid" alt="Desktop" />
                                                        </div>
-                                                       <img src="assets/images/portfolio/mobile.png" class="img-fluid" alt="mobile" />
+                                                       <img loading="lazy" src="assets/images/portfolio/mobile.png" class="img-fluid" alt="mobile" />
                                                   </div>
 
                                              </div>
@@ -2542,7 +3082,11 @@ include('header.php');
                                                             <div class="row">
                                                                  <div class="col-3">
                                                                       <div class="home-blog-author">
-                                                                           <img src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                           <picture>
+                                                                                <source srcset="assets/images/blog/avatar.webp" type="image/webp" class="img-fluid" alt="Avatar">
+                                                                                <source srcset="assets/images/blog/avatar.png" type="image/png" class="img-fluid" alt="Avatar">
+                                                                                <img loading="lazy" src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                           </picture>
                                                                       </div>
                                                                  </div>
                                                                  <div class="col-9 align-self-center ps-0">
@@ -2554,7 +3098,7 @@ include('header.php');
                                                        </div>
 
                                                        <div class="col-4 text-center align-self-center">
-                                                            <a href="#" class="home-blog-btn">
+                                                            <a href="portfolio-inner.php" class="home-blog-btn">
                                                                  <i class="fas fa-plus-circle"></i>
                                                             </a>
                                                        </div>
@@ -2567,27 +3111,39 @@ include('header.php');
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
                                                        <div class="portfolio-image-desktop">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" class="img-fluid" alt="Desktop" />
+                                                            <picture>
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                                 <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" class="img-fluid" alt="Desktop">
+                                                            </picture>
                                                        </div>
-                                                       <img src="assets/images/portfolio/desktop.png" class="img-fluid" alt="Desktop" />
+                                                       <picture>
+                                                            <source srcset="assets/images/portfolio/desktop.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                            <source srcset="assets/images/portfolio/desktop.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                            <img loading="lazy" src="assets/images/portfolio/desktop.png" class="img-fluid" alt="Desktop">
+                                                       </picture>
                                                   </div>
                                                   <div class="portfolio-screens portfolio-laptop-screen">
                                                        <div class="portfolio-image-laptop">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-laptop.png" class="img-fluid" alt="Desktop" />
+                                                            <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-laptop.png" class="img-fluid" alt="Desktop" />
                                                        </div>
-                                                       <img src="assets/images/portfolio/laptop.png" class="img-fluid" alt="Laptop" />
+                                                       <img loading="lazy" src="assets/images/portfolio/laptop.png" class="img-fluid" alt="Laptop" />
                                                   </div>
                                                   <div class="portfolio-screens portfolio-ipad-screen">
                                                        <div class="portfolio-image-ipad">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" class="img-fluid" alt="Desktop" />
+                                                            <picture>
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                                 <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" class="img-fluid" alt="Desktop">
+                                                            </picture>
                                                        </div>
-                                                       <img src="assets/images/portfolio/ipad.png" class="img-fluid" alt="Ipad" />
+                                                       <img loading="lazy" src="assets/images/portfolio/ipad.png" class="img-fluid" alt="Ipad" />
                                                   </div>
                                                   <div class="portfolio-screens portfolio-mobile-screen">
                                                        <div class="portfolio-image-mobile">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-mobile.png" class="img-fluid" alt="Desktop" />
+                                                            <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-mobile.png" class="img-fluid" alt="Desktop" />
                                                        </div>
-                                                       <img src="assets/images/portfolio/mobile.png" class="img-fluid" alt="mobile" />
+                                                       <img loading="lazy" src="assets/images/portfolio/mobile.png" class="img-fluid" alt="mobile" />
                                                   </div>
 
                                              </div>
@@ -2615,7 +3171,11 @@ include('header.php');
                                                             <div class="row">
                                                                  <div class="col-3">
                                                                       <div class="home-blog-author">
-                                                                           <img src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                           <picture>
+                                                                                <source srcset="assets/images/blog/avatar.webp" type="image/webp" class="img-fluid" alt="Avatar">
+                                                                                <source srcset="assets/images/blog/avatar.png" type="image/png" class="img-fluid" alt="Avatar">
+                                                                                <img loading="lazy" src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                           </picture>
                                                                       </div>
                                                                  </div>
                                                                  <div class="col-9 align-self-center ps-0">
@@ -2627,7 +3187,7 @@ include('header.php');
                                                        </div>
 
                                                        <div class="col-4 text-center align-self-center">
-                                                            <a href="#" class="home-blog-btn">
+                                                            <a href="portfolio-inner.php" class="home-blog-btn">
                                                                  <i class="fas fa-plus-circle"></i>
                                                             </a>
                                                        </div>
@@ -2640,27 +3200,39 @@ include('header.php');
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
                                                        <div class="portfolio-image-desktop">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" class="img-fluid" alt="Desktop" />
+                                                            <picture>
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                                 <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-desktop.png" class="img-fluid" alt="Desktop">
+                                                            </picture>
                                                        </div>
-                                                       <img src="assets/images/portfolio/desktop.png" class="img-fluid" alt="Desktop" />
+                                                       <picture>
+                                                            <source srcset="assets/images/portfolio/desktop.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                            <source srcset="assets/images/portfolio/desktop.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                            <img loading="lazy" src="assets/images/portfolio/desktop.png" class="img-fluid" alt="Desktop">
+                                                       </picture>
                                                   </div>
                                                   <div class="portfolio-screens portfolio-laptop-screen">
                                                        <div class="portfolio-image-laptop">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-laptop.png" class="img-fluid" alt="Desktop" />
+                                                            <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-laptop.png" class="img-fluid" alt="Desktop" />
                                                        </div>
-                                                       <img src="assets/images/portfolio/laptop.png" class="img-fluid" alt="Laptop" />
+                                                       <img loading="lazy" src="assets/images/portfolio/laptop.png" class="img-fluid" alt="Laptop" />
                                                   </div>
                                                   <div class="portfolio-screens portfolio-ipad-screen">
                                                        <div class="portfolio-image-ipad">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" class="img-fluid" alt="Desktop" />
+                                                            <picture>
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.webp" type="image/webp" class="img-fluid" alt="Desktop">
+                                                                 <source srcset="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" type="image/png" class="img-fluid" alt="Desktop">
+                                                                 <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-ipad.png" class="img-fluid" alt="Desktop">
+                                                            </picture>
                                                        </div>
-                                                       <img src="assets/images/portfolio/ipad.png" class="img-fluid" alt="Ipad" />
+                                                       <img loading="lazy" src="assets/images/portfolio/ipad.png" class="img-fluid" alt="Ipad" />
                                                   </div>
                                                   <div class="portfolio-screens portfolio-mobile-screen">
                                                        <div class="portfolio-image-mobile">
-                                                            <img src="assets/images/portfolio//mahindra/mahindra.com.bd-mobile.png" class="img-fluid" alt="Desktop" />
+                                                            <img loading="lazy" src="assets/images/portfolio//mahindra/mahindra.com.bd-mobile.png" class="img-fluid" alt="Desktop" />
                                                        </div>
-                                                       <img src="assets/images/portfolio/mobile.png" class="img-fluid" alt="mobile" />
+                                                       <img loading="lazy" src="assets/images/portfolio/mobile.png" class="img-fluid" alt="mobile" />
                                                   </div>
 
                                              </div>
@@ -2688,7 +3260,11 @@ include('header.php');
                                                             <div class="row">
                                                                  <div class="col-3">
                                                                       <div class="home-blog-author">
-                                                                           <img src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                           <picture>
+                                                                                <source srcset="assets/images/blog/avatar.webp" type="image/webp" class="img-fluid" alt="Avatar">
+                                                                                <source srcset="assets/images/blog/avatar.png" type="image/png" class="img-fluid" alt="Avatar">
+                                                                                <img loading="lazy" src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                           </picture>
                                                                       </div>
                                                                  </div>
                                                                  <div class="col-9 align-self-center ps-0">
@@ -2700,7 +3276,7 @@ include('header.php');
                                                        </div>
 
                                                        <div class="col-4 text-center align-self-center">
-                                                            <a href="#" class="home-blog-btn">
+                                                            <a href="portfolio-inner.php" class="home-blog-btn">
                                                                  <i class="fas fa-plus-circle"></i>
                                                             </a>
                                                        </div>
@@ -2718,7 +3294,8 @@ include('header.php');
 <!-- 2.Portfolio Section End Here -->
 
 <!-- 3.CTA Section Start Here -->
-<section class="home-cta cta-bg" style="background-image:url('assets/images/common/cta-bg.png')">
+<section class="home-cta cta-bg" style="background-image:url('assets/images/common/cta-bg.png');
+background-image:url('assets/images/common/cta-bg.webp')">
      <div class="container">
           <div class="row">
                <div class="col-lg-8" data-aos="fade-right" data-aos-easing="linear" data-aos-duration="1600">
@@ -2754,56 +3331,56 @@ include('header.php');
                          <div class="portfolio-client-items">
                               <div class="card h-100">
                                    <div class="card-body">
-                                        <img src="assets/images/common/logo.png" class="img-fluid" alt="Logo">
+                                        <img loading="lazy" src="assets/images/common/logo.png" class="img-fluid" alt="Logo">
                                    </div>
                               </div>
                          </div>
                          <div class="portfolio-client-items">
                               <div class="card h-100">
                                    <div class="card-body">
-                                        <img src="assets/images/common/logo.png" class="img-fluid" alt="Logo">
+                                        <img loading="lazy" src="assets/images/common/logo.png" class="img-fluid" alt="Logo">
                                    </div>
                               </div>
                          </div>
                          <div class="portfolio-client-items">
                               <div class="card h-100">
                                    <div class="card-body">
-                                        <img src="assets/images/common/logo.png" class="img-fluid" alt="Logo">
+                                        <img loading="lazy" src="assets/images/common/logo.png" class="img-fluid" alt="Logo">
                                    </div>
                               </div>
                          </div>
                          <div class="portfolio-client-items">
                               <div class="card h-100">
                                    <div class="card-body">
-                                        <img src="assets/images/common/logo.png" class="img-fluid" alt="Logo">
+                                        <img loading="lazy" src="assets/images/common/logo.png" class="img-fluid" alt="Logo">
                                    </div>
                               </div>
                          </div>
                          <div class="portfolio-client-items">
                               <div class="card h-100">
                                    <div class="card-body">
-                                        <img src="assets/images/common/logo.png" class="img-fluid" alt="Logo">
+                                        <img loading="lazy" src="assets/images/common/logo.png" class="img-fluid" alt="Logo">
                                    </div>
                               </div>
                          </div>
                          <div class="portfolio-client-items">
                               <div class="card h-100">
                                    <div class="card-body">
-                                        <img src="assets/images/common/logo.png" class="img-fluid" alt="Logo">
+                                        <img loading="lazy" src="assets/images/common/logo.png" class="img-fluid" alt="Logo">
                                    </div>
                               </div>
                          </div>
                          <div class="portfolio-client-items">
                               <div class="card h-100">
                                    <div class="card-body">
-                                        <img src="assets/images/common/logo.png" class="img-fluid" alt="Logo">
+                                        <img loading="lazy" src="assets/images/common/logo.png" class="img-fluid" alt="Logo">
                                    </div>
                               </div>
                          </div>
                          <div class="portfolio-client-items">
                               <div class="card h-100">
                                    <div class="card-body">
-                                        <img src="assets/images/common/logo.png" class="img-fluid" alt="Logo">
+                                        <img loading="lazy" src="assets/images/common/logo.png" class="img-fluid" alt="Logo">
                                    </div>
                               </div>
                          </div>

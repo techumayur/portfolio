@@ -1,4 +1,4 @@
-<!-- Modal -->
+<!-- 1. Contact Form Modal  Start Here-->
 <div class="modal fade" id="contact-form-popup" tabindex="-1" aria-labelledby="contact-form-popupLabel" aria-hidden="true">
      <div class="modal-dialog modal-lg">
           <div class="modal-content">
@@ -8,7 +8,11 @@
                <div class="modal-body">
                     <div class="row">
                          <div class="col-lg-6">
-                              <img src="assets/images/banners/home-banner-01.png" class="img-fluid" alt="Popup Image" />
+                              <picture>
+                                   <source srcset="assets/images/banners/home-banner-01.webp" type="image/webp" class="img-fluid" alt="Popup Image">
+                                   <source srcset="assets/banners/home-banner-01.png" type="image/png" class="img-fluid" alt="Popup Image">
+                                   <img loading="lazy" src="assets/banners/home-banner-01.png" class="img-fluid" alt="Popup Image">
+                              </picture>
                               <div class="social-icon">
                                    <div class="modal-header border-0 justify-content-center">
                                         <h5>Foll Me On</h5>
@@ -74,3 +78,4 @@
           </div>
      </div>
 </div>
+<!-- 1. Contact Form Modal  End Here-->

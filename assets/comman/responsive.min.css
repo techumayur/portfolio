@@ -69,6 +69,7 @@
                   left: 4rem;
             }
 
+
             /* 3. Home CSS End Here */
       }
 
@@ -130,6 +131,20 @@
 
             .backto-top {
                   display: none !important;
+            }
+
+            .blog .form-select,
+            .blog-inner .search input,
+            .blog .search input {
+                  width: 23.7rem;
+            }
+
+            .blog-inner .search button {
+                  right: 13.8rem;
+            }
+
+            .comments textarea.form-control {
+                  width: 100%;
             }
 
             /* 19. Footer CSS Start Here */
@@ -275,9 +290,27 @@
                   height: 11rem;
             }
 
+            .blog .form-select,
+            .blog-inner .search input,
+            .blog .search input {
+                  margin: 1rem 0;
+                  width: 32.5rem;
+            }
+
+            .blog-inner .search button,
+            .blog .search button {
+                  right: -0.2rem;
+            }
+
+            .blog-inner .input-group span,
+            .blog .input-group span {
+                  top: 1rem;
+            }
+
             /* 3. Home CSS End Here */
-
-
+            .blog-inner-sidebar {
+                  display: none;
+            }
 
             /* 19. Footer CSS Start Here */
             footer a {
@@ -366,6 +399,12 @@
 
             .portfolio-inner-content .portfolio-image-mobile img {
                   height: 9rem;
+            }
+
+            .blog .form-select,
+            .blog-inner .search input,
+            .blog .search input {
+                  width: 28.9rem;
             }
       }
 

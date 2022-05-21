@@ -34,7 +34,7 @@
           <nav class="navbar navbar-expand-lg fixed-top">
                <div class="container">
                     <a class="navbar-brand" href="index.php">
-                         <img src="assets/images/common/logo.png" class="img-fluid" alt="Logo">
+                         <img loading="lazy" src="assets/images/common/logo.png" class="img-fluid" alt="Logo">
                     </a>
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                          <i class="fas fa-stream navbar-toggler-icon"></i>

@@ -112,7 +112,8 @@ include('header.php');
 <!-- 2.Contact Form End Here -->
 
 <!-- 3.CTA Section Start Here -->
-<section class="home-cta cta-bg" style="background-image:url('assets/images/common/cta-bg.png')">
+<section class="home-cta cta-bg" style="background-image:url('assets/images/common/cta-bg.png');
+background-image:url('assets/images/common/cta-bg.webp')">
      <div class="container">
           <div class="row">
                <div class="col-lg-8" data-aos="fade-right" data-aos-easing="linear" data-aos-duration="1600">

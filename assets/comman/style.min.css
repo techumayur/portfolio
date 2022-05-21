@@ -309,6 +309,57 @@
             color: var(--text-black);
       }
 
+      .four-zero-four,
+      .five-hundred {
+            text-align: center;
+            margin-bottom: 4rem;
+      }
+
+      .four-zero-four h1 {
+            margin-bottom: 4.3rem;
+      }
+
+      .four-zero-four span {
+            font-size: 3.5rem;
+            font-weight: 700;
+            line-height: 1.2;
+      }
+
+      .four-zero-four .main-btn {
+            margin: 2rem 0;
+      }
+
+      .coming-soon {
+            padding: 10rem 0;
+      }
+
+      .coming-soon h1 {
+            font-size: 4rem;
+            color: var(--primary-text);
+            margin-bottom: 1.2rem;
+      }
+
+      .coming-soon input {
+            border: 1px solid var(--primary-color);
+      }
+
+      .coming-soon .input-group {
+            margin: 2rem 0;
+      }
+
+      .coming-soon-icons .social-icon a {
+            background-color: var(--primary-color);
+            color: var(--text-white);
+            padding: 1rem;
+            align-items: center;
+            display: grid;
+      }
+
+      .coming-soon-icons .social-icon i {
+            color: var(--text-white);
+            font-size: 1.5rem;
+      }
+
       /* Form CSS */
       button:focus,
       a:focus,
@@ -416,7 +467,7 @@
 
       .home-banner-slider .slick-dots li button:before {
             color: var(--primary-color);
-            font-size: 0.9rem;
+            font-size: 2.9rem;
             opacity: unset;
       }
 
@@ -1754,12 +1805,14 @@
             padding: 5rem 0;
       }
 
+      .blog-inner .search,
       .blog .search {
             position: relative;
             box-shadow: 0 0 40px rgba(51, 51, 51, .1);
       }
 
       .blog .form-select,
+      .blog-inner .search input,
       .blog .search input {
             text-indent: 30px;
             border: 2px solid var(--primary-color);
@@ -1767,6 +1820,7 @@
             height: 3rem;
       }
 
+      .blog-inner .search .fa-search,
       .blog .search .fa-search {
             position: absolute;
             top: 1rem;
@@ -1774,6 +1828,7 @@
             color: var(--primary-color);
       }
 
+      .blog-inner .search button,
       .blog .search button {
             position: absolute;
             top: 0;
@@ -1784,11 +1839,13 @@
       }
 
       .blog .form-select:focus,
+      .blog-inner .search button:focus input,
       .blog .search button:focus input {
             outline: 0;
             box-shadow: none;
       }
 
+      .blog-inner .input-group span,
       .blog .input-group span {
             background: var(--primary-color);
             color: var(--text-white);
@@ -1826,6 +1883,149 @@
       /* 9. Blog CSS End Here */
 
       /* 10. Blog Inner CSS Start Here */
+
+      .blog-inner {
+            margin: 3rem 0;
+      }
+
+      .blog-inner .blog-inner-heading h2 {
+            color: var(--primary-text);
+            padding: 1rem 0rem 0.8rem;
+      }
+
+      .blog-inner-content h2 {
+            color: var(--text-black);
+            padding: 1rem 0 0.5rem;
+            font-size: 2rem;
+      }
+
+      .blog-inner-content ol,
+      .blog-inner-content ul {
+            margin: 0;
+            padding: 0 1.9rem;
+      }
+
+      .blog-inner-content li {
+            margin: 1.2rem 0;
+      }
+
+
+      .blog-inner-content h3,
+      .blog-inner-content ol li::marker {
+            color: var(--text-black);
+            padding: 0.5rem 0;
+            font-size: 1.5rem;
+            font-weight: 500;
+            line-height: 1.0;
+            margin-bottom: 0;
+      }
+
+      .blog-inner-sidebar {
+            border: 1px solid #ccc;
+            margin: 0 0 0 2rem;
+            padding: 2rem;
+      }
+
+      .blog-inner-sidebar .search {
+            margin: 1.5rem 0 3rem;
+      }
+
+      .blog-inner .search button {
+            right: 1rem;
+      }
+
+      .blog-inner .search input {
+            width: 21.2rem;
+      }
+
+      .blog-inner-recent-post h3 {
+            margin-bottom: 2.5rem;
+      }
+
+      .blog-inner-recent-post-content {
+            margin: 1.2rem 0 1.9rem;
+      }
+
+      .blog-inner-recent-post .blog-inner-recent-post-content h3 {
+            font-size: 1.8rem;
+            margin-bottom: 0.9rem;
+      }
+
+      .blog-inner-recent-post .blog-inner-recent-post-content p {
+            overflow: hidden;
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical;
+            max-width: 90%;
+            line-height: 1.5;
+            font-size: 1rem;
+      }
+
+      .blog-inner-categories .input-group span {
+            height: 2.4rem;
+      }
+
+      .blog-inner-categories .form-select {
+            text-indent: 50px;
+      }
+
+      .blog-inner-categories .form-select:focus {
+            outline: 0;
+            box-shadow: unset;
+      }
+
+      .blog-inner-categories .input-group {
+            margin: 2rem 0;
+      }
+
+      .blog-inner-categories ul li {
+            margin: 1rem 0 0;
+            list-style: circle;
+      }
+
+      .blog-inner-categories ul li a {
+            font-size: 1.2rem;
+      }
+
+      .blog-inner-categories ul {
+            margin-top: 2rem;
+            margin-left: 1rem;
+      }
+
+      .blog-inner-categories ul li::marker {
+            color: var(--primary-text);
+
+      }
+
+      .blog-inner-archives {
+            margin: 4rem 0;
+      }
+
+      .comments .form-label {
+            font-size: 1.5rem;
+            font-weight: 600;
+      }
+
+      .comments .form-control {
+            margin-bottom: 2rem;
+            border-color: var(--text-black);
+            height: 2.5rem;
+            width: 20rem;
+      }
+
+      .comments textarea.form-control {
+            width: 50rem;
+            height: 8rem;
+      }
+
+      .comments .main-btn {
+            border: 0;
+            padding: 0.875rem 2.135rem;
+      }
+
+      .comments {
+            margin: 2rem 0;
+      }
 
       /* 10. Blog Inner CSS End Here */
 

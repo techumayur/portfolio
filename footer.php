@@ -1,9 +1,10 @@
+<!-- 1. Footer  Start Here -->
 <footer>
      <div class="container">
           <div class="row pb-5">
                <div class="col-md-4 col-lg-3 text-center">
                     <a href="index.php">
-                         <img src="assets/images/common/logo.png" class="img-fluid" alt="Footer Logo" title="Footer Logo">
+                         <img loading="lazy" src="assets/images/common/logo.png" class="img-fluid" alt="Footer Logo" title="Footer Logo">
                     </a>
                     <div class="social-icon">
                          <ul class="list-unstyled d-flex ">
@@ -136,10 +137,5 @@
           </div>
      </div>
 </footer>
+<!-- 2. Footer  End Here -->
 
-
-
-
-</body>
-
-</html>

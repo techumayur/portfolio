@@ -37,7 +37,7 @@ include('header.php');
                                    Some Of The Latest Blogs
                               </h2>
                          </div>
-                         <div class="col-lg-4 position-relative">
+                         <div class="col-md-6 col-lg-4 position-relative">
                               <div class="input-group">
                                    <span class="input-group-text" id="basic-addon1">
                                         <i class="fas fa-sort-amount-down"></i>
@@ -53,7 +53,7 @@ include('header.php');
                                    </select>
                               </div>
                          </div>
-                         <div class="col-lg-4">
+                         <div class="col-md-6 col-lg-4">
                               <div class="search">
                                    <i class="fa fa-search"></i>
                                    <input type="text" class="form-control" placeholder="Search Blog">
@@ -63,7 +63,7 @@ include('header.php');
                     </div>
                     <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-5  my-2 py-5 justify-content-center">
                          <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="1600">
-                              <div class="card h-100 home-blog-bg" style="background-image:url('assets/images/blog/blog-bg.jpg')">
+                              <div class="card h-100 home-blog-bg" style="background-image:url('assets/images/blog/blog-bg.jpg');  background-image:url('assets/images/blog/blog-bg.webp')">
                                    <div class="home-blog-content">
                                         <div class="card-body">
                                              <span class="badge rounded-pill bg-primary">Categories</span>
@@ -80,7 +80,11 @@ include('header.php');
                                                        <div class="row">
                                                             <div class="col-3">
                                                                  <div class="home-blog-author">
-                                                                      <img src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                      <picture>
+                                                                           <source srcset="assets/images/blog/avatar.webp" type="image/webp" class="img-fluid" alt="Avatar">
+                                                                           <source srcset="assets/images/blog/avatar.png" type="image/png" class="img-fluid" alt="Avatar">
+                                                                           <img loading="lazy" src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                      </picture>
                                                                  </div>
                                                             </div>
                                                             <div class="col-9 align-self-center ps-0">
@@ -101,7 +105,7 @@ include('header.php');
                               </div>
                          </div>
                          <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="1600">
-                              <div class="card h-100 home-blog-bg" style="background-image:url('assets/images/blog/blog-bg.jpg')">
+                              <div class="card h-100 home-blog-bg" style="background-image:url('assets/images/blog/blog-bg.jpg');  background-image:url('assets/images/blog/blog-bg.webp')">
                                    <div class="home-blog-content">
                                         <div class="card-body">
                                              <span class="badge rounded-pill bg-primary">Categories</span>
@@ -118,7 +122,11 @@ include('header.php');
                                                        <div class="row">
                                                             <div class="col-3">
                                                                  <div class="home-blog-author">
-                                                                      <img src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                      <picture>
+                                                                           <source srcset="assets/images/blog/avatar.webp" type="image/webp" class="img-fluid" alt="Avatar">
+                                                                           <source srcset="assets/images/blog/avatar.png" type="image/png" class="img-fluid" alt="Avatar">
+                                                                           <img loading="lazy" src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                      </picture>
                                                                  </div>
                                                             </div>
                                                             <div class="col-9 align-self-center ps-0">
@@ -139,7 +147,7 @@ include('header.php');
                               </div>
                          </div>
                          <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="1600">
-                              <div class="card h-100 home-blog-bg" style="background-image:url('assets/images/blog/blog-bg.jpg')">
+                              <div class="card h-100 home-blog-bg" style="background-image:url('assets/images/blog/blog-bg.jpg');  background-image:url('assets/images/blog/blog-bg.webp')">
                                    <div class="home-blog-content">
                                         <div class="card-body">
                                              <span class="badge rounded-pill bg-primary">Categories</span>
@@ -156,7 +164,11 @@ include('header.php');
                                                        <div class="row">
                                                             <div class="col-3">
                                                                  <div class="home-blog-author">
-                                                                      <img src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                      <picture>
+                                                                           <source srcset="assets/images/blog/avatar.webp" type="image/webp" class="img-fluid" alt="Avatar">
+                                                                           <source srcset="assets/images/blog/avatar.png" type="image/png" class="img-fluid" alt="Avatar">
+                                                                           <img loading="lazy" src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                      </picture>
                                                                  </div>
                                                             </div>
                                                             <div class="col-9 align-self-center ps-0">
@@ -177,7 +189,7 @@ include('header.php');
                               </div>
                          </div>
                          <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="1600">
-                              <div class="card h-100 home-blog-bg" style="background-image:url('assets/images/blog/blog-bg.jpg')">
+                              <div class="card h-100 home-blog-bg" style="background-image:url('assets/images/blog/blog-bg.jpg');  background-image:url('assets/images/blog/blog-bg.webp')">
                                    <div class="home-blog-content">
                                         <div class="card-body">
                                              <span class="badge rounded-pill bg-primary">Categories</span>
@@ -194,7 +206,11 @@ include('header.php');
                                                        <div class="row">
                                                             <div class="col-3">
                                                                  <div class="home-blog-author">
-                                                                      <img src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                      <picture>
+                                                                           <source srcset="assets/images/blog/avatar.webp" type="image/webp" class="img-fluid" alt="Avatar">
+                                                                           <source srcset="assets/images/blog/avatar.png" type="image/png" class="img-fluid" alt="Avatar">
+                                                                           <img loading="lazy" src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                      </picture>
                                                                  </div>
                                                             </div>
                                                             <div class="col-9 align-self-center ps-0">
@@ -215,7 +231,7 @@ include('header.php');
                               </div>
                          </div>
                          <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="1600">
-                              <div class="card h-100 home-blog-bg" style="background-image:url('assets/images/blog/blog-bg.jpg')">
+                              <div class="card h-100 home-blog-bg" style="background-image:url('assets/images/blog/blog-bg.jpg');  background-image:url('assets/images/blog/blog-bg.webp')">
                                    <div class="home-blog-content">
                                         <div class="card-body">
                                              <span class="badge rounded-pill bg-primary">Categories</span>
@@ -232,7 +248,11 @@ include('header.php');
                                                        <div class="row">
                                                             <div class="col-3">
                                                                  <div class="home-blog-author">
-                                                                      <img src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                      <picture>
+                                                                           <source srcset="assets/images/blog/avatar.webp" type="image/webp" class="img-fluid" alt="Avatar">
+                                                                           <source srcset="assets/images/blog/avatar.png" type="image/png" class="img-fluid" alt="Avatar">
+                                                                           <img loading="lazy" src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                      </picture>
                                                                  </div>
                                                             </div>
                                                             <div class="col-9 align-self-center ps-0">
@@ -253,7 +273,7 @@ include('header.php');
                               </div>
                          </div>
                          <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="1600">
-                              <div class="card h-100 home-blog-bg" style="background-image:url('assets/images/blog/blog-bg.jpg')">
+                              <div class="card h-100 home-blog-bg" style="background-image:url('assets/images/blog/blog-bg.jpg');  background-image:url('assets/images/blog/blog-bg.webp')">
                                    <div class="home-blog-content">
                                         <div class="card-body">
                                              <span class="badge rounded-pill bg-primary">Categories</span>
@@ -270,7 +290,11 @@ include('header.php');
                                                        <div class="row">
                                                             <div class="col-3">
                                                                  <div class="home-blog-author">
-                                                                      <img src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                      <picture>
+                                                                           <source srcset="assets/images/blog/avatar.webp" type="image/webp" class="img-fluid" alt="Avatar">
+                                                                           <source srcset="assets/images/blog/avatar.png" type="image/png" class="img-fluid" alt="Avatar">
+                                                                           <img loading="lazy" src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                      </picture>
                                                                  </div>
                                                             </div>
                                                             <div class="col-9 align-self-center ps-0">
@@ -291,7 +315,7 @@ include('header.php');
                               </div>
                          </div>
                          <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="1600">
-                              <div class="card h-100 home-blog-bg" style="background-image:url('assets/images/blog/blog-bg.jpg')">
+                              <div class="card h-100 home-blog-bg" style="background-image:url('assets/images/blog/blog-bg.jpg');  background-image:url('assets/images/blog/blog-bg.webp')">
                                    <div class="home-blog-content">
                                         <div class="card-body">
                                              <span class="badge rounded-pill bg-primary">Categories</span>
@@ -308,7 +332,11 @@ include('header.php');
                                                        <div class="row">
                                                             <div class="col-3">
                                                                  <div class="home-blog-author">
-                                                                      <img src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                      <picture>
+                                                                           <source srcset="assets/images/blog/avatar.webp" type="image/webp" class="img-fluid" alt="Avatar">
+                                                                           <source srcset="assets/images/blog/avatar.png" type="image/png" class="img-fluid" alt="Avatar">
+                                                                           <img loading="lazy" src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                      </picture>
                                                                  </div>
                                                             </div>
                                                             <div class="col-9 align-self-center ps-0">
@@ -329,7 +357,7 @@ include('header.php');
                               </div>
                          </div>
                          <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="1600">
-                              <div class="card h-100 home-blog-bg" style="background-image:url('assets/images/blog/blog-bg.jpg')">
+                              <div class="card h-100 home-blog-bg" style="background-image:url('assets/images/blog/blog-bg.jpg');  background-image:url('assets/images/blog/blog-bg.webp')">
                                    <div class="home-blog-content">
                                         <div class="card-body">
                                              <span class="badge rounded-pill bg-primary">Categories</span>
@@ -346,7 +374,11 @@ include('header.php');
                                                        <div class="row">
                                                             <div class="col-3">
                                                                  <div class="home-blog-author">
-                                                                      <img src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                      <picture>
+                                                                           <source srcset="assets/images/blog/avatar.webp" type="image/webp" class="img-fluid" alt="Avatar">
+                                                                           <source srcset="assets/images/blog/avatar.png" type="image/png" class="img-fluid" alt="Avatar">
+                                                                           <img loading="lazy" src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                      </picture>
                                                                  </div>
                                                             </div>
                                                             <div class="col-9 align-self-center ps-0">
@@ -367,7 +399,7 @@ include('header.php');
                               </div>
                          </div>
                          <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="1600">
-                              <div class="card h-100 home-blog-bg" style="background-image:url('assets/images/blog/blog-bg.jpg')">
+                              <div class="card h-100 home-blog-bg" style="background-image:url('assets/images/blog/blog-bg.jpg');  background-image:url('assets/images/blog/blog-bg.webp')">
                                    <div class="home-blog-content">
                                         <div class="card-body">
                                              <span class="badge rounded-pill bg-primary">Categories</span>
@@ -384,7 +416,11 @@ include('header.php');
                                                        <div class="row">
                                                             <div class="col-3">
                                                                  <div class="home-blog-author">
-                                                                      <img src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                      <picture>
+                                                                           <source srcset="assets/images/blog/avatar.webp" type="image/webp" class="img-fluid" alt="Avatar">
+                                                                           <source srcset="assets/images/blog/avatar.png" type="image/png" class="img-fluid" alt="Avatar">
+                                                                           <img loading="lazy" src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                      </picture>
                                                                  </div>
                                                             </div>
                                                             <div class="col-9 align-self-center ps-0">
@@ -405,7 +441,7 @@ include('header.php');
                               </div>
                          </div>
                          <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="1600">
-                              <div class="card h-100 home-blog-bg" style="background-image:url('assets/images/blog/blog-bg.jpg')">
+                              <div class="card h-100 home-blog-bg" style="background-image:url('assets/images/blog/blog-bg.jpg');  background-image:url('assets/images/blog/blog-bg.webp')">
                                    <div class="home-blog-content">
                                         <div class="card-body">
                                              <span class="badge rounded-pill bg-primary">Categories</span>
@@ -422,7 +458,11 @@ include('header.php');
                                                        <div class="row">
                                                             <div class="col-3">
                                                                  <div class="home-blog-author">
-                                                                      <img src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                      <picture>
+                                                                           <source srcset="assets/images/blog/avatar.webp" type="image/webp" class="img-fluid" alt="Avatar">
+                                                                           <source srcset="assets/images/blog/avatar.png" type="image/png" class="img-fluid" alt="Avatar">
+                                                                           <img loading="lazy" src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                      </picture>
                                                                  </div>
                                                             </div>
                                                             <div class="col-9 align-self-center ps-0">
@@ -443,7 +483,7 @@ include('header.php');
                               </div>
                          </div>
                          <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="1600">
-                              <div class="card h-100 home-blog-bg" style="background-image:url('assets/images/blog/blog-bg.jpg')">
+                              <div class="card h-100 home-blog-bg" style="background-image:url('assets/images/blog/blog-bg.jpg');  background-image:url('assets/images/blog/blog-bg.webp')">
                                    <div class="home-blog-content">
                                         <div class="card-body">
                                              <span class="badge rounded-pill bg-primary">Categories</span>
@@ -460,7 +500,11 @@ include('header.php');
                                                        <div class="row">
                                                             <div class="col-3">
                                                                  <div class="home-blog-author">
-                                                                      <img src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                      <picture>
+                                                                           <source srcset="assets/images/blog/avatar.webp" type="image/webp" class="img-fluid" alt="Avatar">
+                                                                           <source srcset="assets/images/blog/avatar.png" type="image/png" class="img-fluid" alt="Avatar">
+                                                                           <img loading="lazy" src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                      </picture>
                                                                  </div>
                                                             </div>
                                                             <div class="col-9 align-self-center ps-0">
@@ -481,7 +525,7 @@ include('header.php');
                               </div>
                          </div>
                          <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="1600">
-                              <div class="card h-100 home-blog-bg" style="background-image:url('assets/images/blog/blog-bg.jpg')">
+                              <div class="card h-100 home-blog-bg" style="background-image:url('assets/images/blog/blog-bg.jpg');  background-image:url('assets/images/blog/blog-bg.webp')">
                                    <div class="home-blog-content">
                                         <div class="card-body">
                                              <span class="badge rounded-pill bg-primary">Categories</span>
@@ -498,7 +542,11 @@ include('header.php');
                                                        <div class="row">
                                                             <div class="col-3">
                                                                  <div class="home-blog-author">
-                                                                      <img src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                      <picture>
+                                                                           <source srcset="assets/images/blog/avatar.webp" type="image/webp" class="img-fluid" alt="Avatar">
+                                                                           <source srcset="assets/images/blog/avatar.png" type="image/png" class="img-fluid" alt="Avatar">
+                                                                           <img loading="lazy" src="assets/images/blog/avatar.png" class="img-fluid" alt="Avatar">
+                                                                      </picture>
                                                                  </div>
                                                             </div>
                                                             <div class="col-9 align-self-center ps-0">
@@ -541,10 +589,6 @@ include('header.php');
      </div>
 </section>
 <!-- 2.Blogs Section End Here -->
-
-<!-- 3.CTA Section Start Here -->
-<!-- 3.CTA Section End Here -->
-
 <?php
 include('contact-form.php');
 include('footer.php');

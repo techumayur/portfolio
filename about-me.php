@@ -28,7 +28,11 @@ include('header.php');
      <div class="container">
           <div class="row">
                <div class="col-lg-6" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1600">
-                    <img src="assets/images/about/about-me.png" class="img-fluid" alt="About Me">
+                    <picture>
+                         <source srcset="assets/images/about/about-me.webp" type="image/webp" class="img-fluid" alt="About Me">
+                         <source srcset="assets/images/about/about-me.jpg" type="image/png" class="img-fluid" alt="About Me">
+                         <img loading="lazy" src="assets/images/about/about-me.jpg" class="img-fluid" alt="About Me">
+                    </picture>
                </div>
                <div class="col-lg-6 align-self-center " data-aos="fade-right" data-aos-easing="linear" data-aos-duration="1500">
                     <h3 class="sub-title">Who Am I?</h3>
@@ -48,7 +52,8 @@ include('header.php');
 <!-- 2.About Me Section End Here -->
 
 <!-- 3.CTA Section Start Here -->
-<section class="home-cta cta-bg" style="background-image:url('assets/images/common/cta-bg.png')">
+<section class="home-cta cta-bg" style="background-image:url('assets/images/common/cta-bg.png');
+background-image:url('assets/images/common/cta-bg.webp')">
      <div class="container">
           <div class="row">
                <div class="col-lg-8" data-aos="fade-right" data-aos-easing="linear" data-aos-duration="1600">
@@ -96,7 +101,7 @@ include('header.php');
                                              <div class="tooltip">
                                                   HTML & HTML5
                                              </div>
-                                             <img src="assets/images/about/html.png" class="img-fluid" alt="HTML & HTM5">
+                                             <img loading="lazy" src="assets/images/about/html.png" class="img-fluid" alt="HTML & HTM5">
                                         </div>
                                    </div>
                                    <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="1900">
@@ -104,7 +109,7 @@ include('header.php');
                                              <div class="tooltip">
                                                   CSS & CSS3
                                              </div>
-                                             <img src="assets/images/about/css.png" class="img-fluid" alt="CSS & CSS">
+                                             <img loading="lazy" src="assets/images/about/css.png" class="img-fluid" alt="CSS & CSS">
                                         </div>
                                    </div>
                                    <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="1900">
@@ -112,7 +117,7 @@ include('header.php');
                                              <div class="tooltip">
                                                   Bootstrap 3/4/5
                                              </div>
-                                             <img src="assets/images/about/bootstrap.png" class="img-fluid" alt="Bootstrap">
+                                             <img loading="lazy" src="assets/images/about/bootstrap.png" class="img-fluid" alt="Bootstrap">
                                         </div>
                                    </div>
                                    <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="1900">
@@ -120,7 +125,7 @@ include('header.php');
                                              <div class="tooltip">
                                                   Javascript
                                              </div>
-                                             <img src="assets/images/about/js.png" class="img-fluid" alt="Javascript">
+                                             <img loading="lazy" src="assets/images/about/js.png" class="img-fluid" alt="Javascript">
                                         </div>
                                    </div>
                                    <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="1900">
@@ -128,7 +133,7 @@ include('header.php');
                                              <div class="tooltip">
                                                   Jquery
                                              </div>
-                                             <img src="assets/images/about/jquery.png" class="img-fluid" alt="Jquery">
+                                             <img loading="lazy" src="assets/images/about/jquery.png" class="img-fluid" alt="Jquery">
                                         </div>
                                    </div>
                                    <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="1900">
@@ -136,7 +141,7 @@ include('header.php');
                                              <div class="tooltip">
                                                   PHP
                                              </div>
-                                             <img src="assets/images/about/php.png" class="img-fluid" alt="PHP">
+                                             <img loading="lazy" src="assets/images/about/php.png" class="img-fluid" alt="PHP">
                                         </div>
                                    </div>
                                    <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="1900">
@@ -144,7 +149,7 @@ include('header.php');
                                              <div class="tooltip">
                                                   WordPress
                                              </div>
-                                             <img src="assets/images/about/wordpress.png" class="img-fluid" alt="WordPress">
+                                             <img loading="lazy" src="assets/images/about/wordpress.png" class="img-fluid" alt="WordPress">
                                         </div>
                                    </div>
                                    <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="1900">
@@ -152,7 +157,7 @@ include('header.php');
                                              <div class="tooltip">
                                                   Shopify
                                              </div>
-                                             <img src="assets/images/about/shopify.png" class="img-fluid" alt="Shopify">
+                                             <img loading="lazy" src="assets/images/about/shopify.png" class="img-fluid" alt="Shopify">
                                         </div>
                                    </div>
                                    <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="1900">
@@ -160,7 +165,7 @@ include('header.php');
                                              <div class="tooltip">
                                                   Adobe Photoshop
                                              </div>
-                                             <img src="assets/images/about/photoshop.png" class="img-fluid" alt="Adobe Photoshop">
+                                             <img loading="lazy" src="assets/images/about/photoshop.png" class="img-fluid" alt="Adobe Photoshop">
                                         </div>
                                    </div>
                                    <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="1900">
@@ -168,7 +173,7 @@ include('header.php');
                                              <div class="tooltip">
                                                   Adobe XD
                                              </div>
-                                             <img src="assets/images/about/xd.png" class="img-fluid" alt="Adobe XD">
+                                             <img loading="lazy" src="assets/images/about/xd.png" class="img-fluid" alt="Adobe XD">
                                         </div>
                                    </div>
                                    <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="1900">
@@ -176,7 +181,7 @@ include('header.php');
                                              <div class="tooltip">
                                                   Figma
                                              </div>
-                                             <img src="assets/images/about/figma.png" class="img-fluid" alt="Figma">
+                                             <img loading="lazy" src="assets/images/about/figma.png" class="img-fluid" alt="Figma">
                                         </div>
                                    </div>
                                    <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="1900">
@@ -184,7 +189,7 @@ include('header.php');
                                              <div class="tooltip">
                                                   Emailer
                                              </div>
-                                             <img src="assets/images/about/gmail.png" class="img-fluid" alt="Emailer">
+                                             <img loading="lazy" src="assets/images/about/gmail.png" class="img-fluid" alt="Emailer">
                                         </div>
                                    </div>
                                    <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="1900">
@@ -192,7 +197,7 @@ include('header.php');
                                              <div class="tooltip">
                                                   Seo
                                              </div>
-                                             <img src="assets/images/about/pagespeed.png" class="img-fluid" alt="Pagespeed">
+                                             <img loading="lazy" src="assets/images/about/pagespeed.png" class="img-fluid" alt="Pagespeed">
                                         </div>
                                    </div>
                               </div>
@@ -204,7 +209,7 @@ include('header.php');
                                              <div class="tooltip">
                                                   Time Management
                                              </div>
-                                             <img src="assets/images/about/time-management.png" class="img-fluid" alt="Time Management">
+                                             <img loading="lazy" src="assets/images/about/time-management.png" class="img-fluid" alt="Time Management">
                                         </div>
                                    </div>
                                    <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="1900">
@@ -212,7 +217,7 @@ include('header.php');
                                              <div class="tooltip">
                                                   Efficiency
                                              </div>
-                                             <img src="assets/images/about/efficiency.png" class="img-fluid" alt="Efficiency">
+                                             <img loading="lazy" src="assets/images/about/efficiency.png" class="img-fluid" alt="Efficiency">
                                         </div>
                                    </div>
                                    <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="1900">
@@ -220,7 +225,7 @@ include('header.php');
                                              <div class="tooltip">
                                                   Integrity
                                              </div>
-                                             <img src="assets/images/about/integrity.png" class="img-fluid" alt="Integrity">
+                                             <img loading="lazy" src="assets/images/about/integrity.png" class="img-fluid" alt="Integrity">
                                         </div>
                                    </div>
                               </div>
@@ -273,7 +278,8 @@ include('header.php');
 <!-- 5.Fun Fatcs Section End Here -->
 
 <!-- 6.CTA Section Start Here -->
-<section class="home-cta cta-bg" style="background-image:url('assets/images/common/cta-bg.png')">
+<section class="home-cta cta-bg" style="background-image:url('assets/images/common/cta-bg.png');
+background-image:url('assets/images/common/cta-bg.webp')">
      <div class="container">
           <div class="row">
                <div class="col-lg-8" data-aos="fade-right" data-aos-easing="linear" data-aos-duration="1600">
