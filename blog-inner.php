@@ -27,11 +27,11 @@ include('header.php');
 <section class="blog-inner">
      <div class="container">
           <div class="row">
-               <div class="col-lg-7" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1600">
-                    <div class="blog-inner-image" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1600">
+               <div class="col-lg-7" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="2500">
+                    <div class="blog-inner-image" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="2500">
                          <img loading="lazy" src="assets/images/blog/blog-bg.jpg" class="img-fluid" alt=" Blog Inner">
                     </div>
-                    <div class="blog-inner-heading" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1600">
+                    <div class="blog-inner-heading" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="2500">
                          <div class="portfolio-inner-author">
                               <ul class="list-unstyled">
                                    <li>
@@ -46,7 +46,7 @@ include('header.php');
                          </div>
                          <h2>Blog Title</h2>
                     </div>
-                    <div class="blog-inner-content" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1600">
+                    <div class="blog-inner-content" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="2500">
                          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit voluptates quam blanditiis accusamus necessitatibus alias officiis fugiat corporis ad nam doloremque quae, cupiditate repudiandae nihil porro voluptate impedit tempore numquam.Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit voluptates quam blanditiis accusamus necessitatibus alias officiis fugiat corporis ad nam doloremque quae, cupiditate repudiandae nihil porro voluptate impedit tempore numquam.Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit voluptates quam blanditiis accusamus necessitatibus alias officiis fugiat corporis ad nam doloremque quae, cupiditate repudiandae nihil porro voluptate impedit tempore numquam.</p>
                          <h2>Heading</h2>
                          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil fugit doloribus sed. Consequuntur iusto porro numquam reprehenderit, voluptas rem nesciunt temporibus autem quia sint dignissimos, error dolores saepe totam dolorem!</p>
@@ -80,8 +80,8 @@ include('header.php');
                          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit voluptates quam blanditiis accusamus necessitatibus alias officiis fugiat corporis ad nam doloremque quae, cupiditate repudiandae nihil porro voluptate impedit tempore numquam.Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit voluptates quam blanditiis accusamus necessitatibus alias officiis fugiat corporis ad nam doloremque quae, cupiditate repudiandae nihil porro voluptate impedit tempore numquam.Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit voluptates quam blanditiis accusamus necessitatibus alias officiis fugiat corporis ad nam doloremque quae, cupiditate repudiandae nihil porro voluptate impedit tempore numquam.</p>
                     </div>
                     <!-- Comments Section Start Here  -->
-                    <div class="row" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1600">
-                         <div class="col-lg-6 portfolio-inner-tag" data-aos="fade-right" data-aos-easing="linear" data-aos-duration="1900">
+                    <div class="row" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="2500">
+                         <div class="col-lg-6 portfolio-inner-tag" data-aos="fade-right" data-aos-easing="linear" data-aos-duration="2500">
                               <span>Tags:</span>
                               <ul class="list-unstyled">
                                    <li>
@@ -110,7 +110,7 @@ include('header.php');
                                    </li>
                               </ul>
                          </div>
-                         <div class="col-lg-6 mt-2" data-aos="fade-left" data-aos-easing="linear" data-aos-duration="1900">
+                         <div class="col-lg-6 mt-2" data-aos="fade-left" data-aos-easing="linear" data-aos-duration="2500">
                               <div class="portfolio-inner-social-share">
                                    <span>Share:</span>
                                    <ul class="list-unstyled">
@@ -164,7 +164,7 @@ include('header.php');
                     </div>
                     <!-- Comments Section End Here  -->
                </div>
-               <div class="col-lg-5" data-aos="fade-right" data-aos-easing="linear" data-aos-duration="1500">
+               <div class="col-lg-5" data-aos="fade-right" data-aos-easing="linear" data-aos-duration="2500">
                     <div class="blog-inner-sidebar">
                          <div class="blog-inner-search">
                               <div class="search">
@@ -270,5 +270,4 @@ include('header.php');
 <?php
 include('contact-form.php');
 include('footer.php');
-include('files-link.php');
 ?>

@@ -27,14 +27,14 @@ include('header.php');
 <section class="about-me">
      <div class="container">
           <div class="row">
-               <div class="col-lg-6" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1600">
+               <div class="col-lg-6" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="2500">
                     <picture>
                          <source srcset="assets/images/about/about-me.webp" type="image/webp" class="img-fluid" alt="About Me">
                          <source srcset="assets/images/about/about-me.jpg" type="image/png" class="img-fluid" alt="About Me">
                          <img loading="lazy" src="assets/images/about/about-me.jpg" class="img-fluid" alt="About Me">
                     </picture>
                </div>
-               <div class="col-lg-6 align-self-center " data-aos="fade-right" data-aos-easing="linear" data-aos-duration="1500">
+               <div class="col-lg-6 align-self-center " data-aos="fade-right" data-aos-easing="linear" data-aos-duration="2500">
                     <h3 class="sub-title">Who Am I?</h3>
                     <h2 class="title">
                          I'm Mayur Galaiya,<br>
@@ -56,13 +56,13 @@ include('header.php');
 background-image:url('assets/images/common/cta-bg.webp')">
      <div class="container">
           <div class="row">
-               <div class="col-lg-8" data-aos="fade-right" data-aos-easing="linear" data-aos-duration="1600">
+               <div class="col-lg-8" data-aos="fade-right" data-aos-easing="linear" data-aos-duration="2500">
                     <h2>
                          Want To Improve<br>
                          Your Skills?
                     </h2>
                </div>
-               <div class="col-lg-4 align-self-center pt-4 pt-lg-0" data-aos="fade-left" data-aos-easing="linear" data-aos-duration="1600">
+               <div class="col-lg-4 align-self-center pt-4 pt-lg-0" data-aos="fade-left" data-aos-easing="linear" data-aos-duration="2500">
                     <a href="tech.php" class="main-btn cta-btn">
                          Know More
                     </a>
@@ -77,11 +77,11 @@ background-image:url('assets/images/common/cta-bg.webp')">
      <div class="container">
           <div class="row">
                <div class="col-lg-6">
-                    <div data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1600">
+                    <div data-aos="fade-up" data-aos-easing="linear" data-aos-duration="2500">
                          <h3 class="sub-title">My Level Of Knowledge In Some Tools</h3>
                          <h2>My creative skills & experiences.</h2>
                     </div>
-                    <div class="aboutme-skills-tabs" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1600">
+                    <div class="aboutme-skills-tabs" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="2500">
                          <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
                               <li class="nav-item" role="presentation">
                                    <button class="nav-link active" id="pills-software-tab" data-bs-toggle="pill" data-bs-target="#pills-software" type="button" role="tab" aria-controls="pills-software" aria-selected="false">Software </button>
@@ -96,7 +96,7 @@ background-image:url('assets/images/common/cta-bg.webp')">
                     <div class="tab-content" id="pills-tabContent">
                          <div class="tab-pane fade  show active" id="pills-software" role="tabpanel" aria-labelledby="pills-software-tab">
                               <div class="row rows-cols-2 row-cols-lg-5 justify-content-center g-5 gy-5">
-                                   <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="aboutme-skill-card">
                                              <div class="tooltip">
                                                   HTML & HTML5
@@ -104,7 +104,7 @@ background-image:url('assets/images/common/cta-bg.webp')">
                                              <img loading="lazy" src="assets/images/about/html.png" class="img-fluid" alt="HTML & HTM5">
                                         </div>
                                    </div>
-                                   <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="aboutme-skill-card">
                                              <div class="tooltip">
                                                   CSS & CSS3
@@ -112,7 +112,7 @@ background-image:url('assets/images/common/cta-bg.webp')">
                                              <img loading="lazy" src="assets/images/about/css.png" class="img-fluid" alt="CSS & CSS">
                                         </div>
                                    </div>
-                                   <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="aboutme-skill-card">
                                              <div class="tooltip">
                                                   Bootstrap 3/4/5
@@ -120,7 +120,7 @@ background-image:url('assets/images/common/cta-bg.webp')">
                                              <img loading="lazy" src="assets/images/about/bootstrap.png" class="img-fluid" alt="Bootstrap">
                                         </div>
                                    </div>
-                                   <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="aboutme-skill-card">
                                              <div class="tooltip">
                                                   Javascript
@@ -128,7 +128,7 @@ background-image:url('assets/images/common/cta-bg.webp')">
                                              <img loading="lazy" src="assets/images/about/js.png" class="img-fluid" alt="Javascript">
                                         </div>
                                    </div>
-                                   <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="aboutme-skill-card">
                                              <div class="tooltip">
                                                   Jquery
@@ -136,7 +136,7 @@ background-image:url('assets/images/common/cta-bg.webp')">
                                              <img loading="lazy" src="assets/images/about/jquery.png" class="img-fluid" alt="Jquery">
                                         </div>
                                    </div>
-                                   <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="aboutme-skill-card">
                                              <div class="tooltip">
                                                   PHP
@@ -144,7 +144,7 @@ background-image:url('assets/images/common/cta-bg.webp')">
                                              <img loading="lazy" src="assets/images/about/php.png" class="img-fluid" alt="PHP">
                                         </div>
                                    </div>
-                                   <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="aboutme-skill-card">
                                              <div class="tooltip">
                                                   WordPress
@@ -152,7 +152,7 @@ background-image:url('assets/images/common/cta-bg.webp')">
                                              <img loading="lazy" src="assets/images/about/wordpress.png" class="img-fluid" alt="WordPress">
                                         </div>
                                    </div>
-                                   <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="aboutme-skill-card">
                                              <div class="tooltip">
                                                   Shopify
@@ -160,7 +160,7 @@ background-image:url('assets/images/common/cta-bg.webp')">
                                              <img loading="lazy" src="assets/images/about/shopify.png" class="img-fluid" alt="Shopify">
                                         </div>
                                    </div>
-                                   <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="aboutme-skill-card">
                                              <div class="tooltip">
                                                   Adobe Photoshop
@@ -168,7 +168,7 @@ background-image:url('assets/images/common/cta-bg.webp')">
                                              <img loading="lazy" src="assets/images/about/photoshop.png" class="img-fluid" alt="Adobe Photoshop">
                                         </div>
                                    </div>
-                                   <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="aboutme-skill-card">
                                              <div class="tooltip">
                                                   Adobe XD
@@ -176,7 +176,7 @@ background-image:url('assets/images/common/cta-bg.webp')">
                                              <img loading="lazy" src="assets/images/about/xd.png" class="img-fluid" alt="Adobe XD">
                                         </div>
                                    </div>
-                                   <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="aboutme-skill-card">
                                              <div class="tooltip">
                                                   Figma
@@ -184,7 +184,7 @@ background-image:url('assets/images/common/cta-bg.webp')">
                                              <img loading="lazy" src="assets/images/about/figma.png" class="img-fluid" alt="Figma">
                                         </div>
                                    </div>
-                                   <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="aboutme-skill-card">
                                              <div class="tooltip">
                                                   Emailer
@@ -192,7 +192,7 @@ background-image:url('assets/images/common/cta-bg.webp')">
                                              <img loading="lazy" src="assets/images/about/gmail.png" class="img-fluid" alt="Emailer">
                                         </div>
                                    </div>
-                                   <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="aboutme-skill-card">
                                              <div class="tooltip">
                                                   Seo
@@ -204,7 +204,7 @@ background-image:url('assets/images/common/cta-bg.webp')">
                          </div>
                          <div class="tab-pane fade" id="pills-personal" role="tabpanel" aria-labelledby="pills-personal-tab">
                               <div class="row rows-cols-2 row-cols-lg-3 justify-content-center g-5 gy-5">
-                                   <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="aboutme-skill-card">
                                              <div class="tooltip">
                                                   Time Management
@@ -212,7 +212,7 @@ background-image:url('assets/images/common/cta-bg.webp')">
                                              <img loading="lazy" src="assets/images/about/time-management.png" class="img-fluid" alt="Time Management">
                                         </div>
                                    </div>
-                                   <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="aboutme-skill-card">
                                              <div class="tooltip">
                                                   Efficiency
@@ -220,7 +220,7 @@ background-image:url('assets/images/common/cta-bg.webp')">
                                              <img loading="lazy" src="assets/images/about/efficiency.png" class="img-fluid" alt="Efficiency">
                                         </div>
                                    </div>
-                                   <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="aboutme-skill-card">
                                              <div class="tooltip">
                                                   Integrity
@@ -242,31 +242,31 @@ background-image:url('assets/images/common/cta-bg.webp')">
 <section class="home-counter">
      <div class="container">
           <div class="row home-counter-wrapper g-4">
-               <div class="col-12" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1600">
+               <div class="col-12" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="2500">
                     <h3 class="sub-title">This Are My Strongest Sides</h3>
                     <h2 class="title title-center">
                          Fun Facts
                     </h2>
                </div>
-               <div class="col-6 col-lg-3" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="1900">
+               <div class="col-6 col-lg-3" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="2500">
                     <div class="card h-100 home-counter-content">
                          <span>50+</span>
                          <h5>Projects Completed</h5>
                     </div>
                </div>
-               <div class="col-6 col-lg-3" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="1900">
+               <div class="col-6 col-lg-3" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="2500">
                     <div class="card h-100 home-counter-content">
                          <span>3+</span>
                          <h5>Years Of Experience</h5>
                     </div>
                </div>
-               <div class="col-6 col-lg-3" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="1900">
+               <div class="col-6 col-lg-3" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="2500">
                     <div class="card h-100 home-counter-content">
                          <span>50+</span>
                          <h5>Client Served</h5>
                     </div>
                </div>
-               <div class="col-6 col-lg-3" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="1900">
+               <div class="col-6 col-lg-3" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="2500">
                     <div class="card h-100 home-counter-content">
                          <span>2+</span>
                          <h5>Achievements</h5>
@@ -282,12 +282,12 @@ background-image:url('assets/images/common/cta-bg.webp')">
 background-image:url('assets/images/common/cta-bg.webp')">
      <div class="container">
           <div class="row">
-               <div class="col-lg-8" data-aos="fade-right" data-aos-easing="linear" data-aos-duration="1600">
+               <div class="col-lg-8" data-aos="fade-right" data-aos-easing="linear" data-aos-duration="2500">
                     <h2>
                          Want Some Kickass<br>
                          Tips and Tricks? </h2>
                </div>
-               <div class="col-lg-4 align-self-center pt-4 pt-lg-0" data-aos="fade-left" data-aos-easing="linear" data-aos-duration="1600">
+               <div class="col-lg-4 align-self-center pt-4 pt-lg-0" data-aos="fade-left" data-aos-easing="linear" data-aos-duration="2500">
                     <a href="tips-tricks.php" class="main-btn cta-btn">
                          Know More
                     </a>
@@ -302,11 +302,11 @@ background-image:url('assets/images/common/cta-bg.webp')">
      <div class="container">
           <div class="row ">
                <div class="col-12 text-center ">
-                    <div data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1600">
+                    <div data-aos="fade-up" data-aos-easing="linear" data-aos-duration="2500">
                          <h3 class="sub-title">View My history</h3>
                          <h2 class="title title-center">My Journey</h2>
                     </div>
-                    <div data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1600">
+                    <div data-aos="fade-up" data-aos-easing="linear" data-aos-duration="2500">
                          <p>My core objective is to work in an environment where ‘learning’ is a continuous process and where there would be ample of scope to grow and enhance my knowledge. I seek challenging opportunities in the Digital Industry wherein my skills and ability can be effectively utilized to achieve the desired goal of the organization.
                          </p>
                     </div>
@@ -314,7 +314,7 @@ background-image:url('assets/images/common/cta-bg.webp')">
                <div class="col-12">
                     <div class="aboutme-journey-content">
                          <ul class="aboutme-timeline">
-                              <li data-aos="fade-left" data-aos-easing="linear" data-aos-duration="1000">
+                              <li data-aos="fade-left" data-aos-easing="linear" data-aos-duration="2500">
                                    <div class="aboutme-timeline-badge">2019-20</div>
                                    <div class="aboutme-timeline-panel">
                                         <div class="aboutme-timeline-heading">
@@ -333,7 +333,7 @@ background-image:url('assets/images/common/cta-bg.webp')">
                                         </div>
                                    </div>
                               </li>
-                              <li class="aboutme-timeline-inverted" data-aos="fade-right" data-aos-easing="linear" data-aos-duration="2000">
+                              <li class="aboutme-timeline-inverted" data-aos="fade-right" data-aos-easing="linear" data-aos-duration="2500">
                                    <div class="aboutme-timeline-badge warning">
                                         2020-21
                                    </div>
@@ -352,7 +352,7 @@ background-image:url('assets/images/common/cta-bg.webp')">
                                         </div>
                                    </div>
                               </li>
-                              <li data-aos="fade-left" data-aos-easing="linear" data-aos-duration="1000">
+                              <li data-aos="fade-left" data-aos-easing="linear" data-aos-duration="2500">
                                    <div class="aboutme-timeline-badge danger">2021-22</div>
                                    <div class="aboutme-timeline-panel">
                                         <div class="aboutme-timeline-heading">
@@ -371,7 +371,7 @@ background-image:url('assets/images/common/cta-bg.webp')">
                                         </div>
                                    </div>
                               </li>
-                              <li class="aboutme-timeline-inverted" data-aos="fade-right" data-aos-easing="linear" data-aos-duration="2000">
+                              <li class="aboutme-timeline-inverted" data-aos="fade-right" data-aos-easing="linear" data-aos-duration="2500">
                                    <div class="aboutme-timeline-badge success">
                                         2021-22
                                    </div>
@@ -403,5 +403,4 @@ background-image:url('assets/images/common/cta-bg.webp')">
 <?php
 include('contact-form.php');
 include('footer.php');
-include('files-link.php');
 ?>

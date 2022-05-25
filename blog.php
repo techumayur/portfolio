@@ -62,7 +62,7 @@ include('header.php');
                          </div>
                     </div>
                     <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-5  my-2 py-5 justify-content-center">
-                         <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="1600">
+                         <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="2500">
                               <div class="card h-100 home-blog-bg" style="background-image:url('assets/images/blog/blog-bg.jpg');  background-image:url('assets/images/blog/blog-bg.webp')">
                                    <div class="home-blog-content">
                                         <div class="card-body">
@@ -104,7 +104,7 @@ include('header.php');
                                    </div>
                               </div>
                          </div>
-                         <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="1600">
+                         <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="2500">
                               <div class="card h-100 home-blog-bg" style="background-image:url('assets/images/blog/blog-bg.jpg');  background-image:url('assets/images/blog/blog-bg.webp')">
                                    <div class="home-blog-content">
                                         <div class="card-body">
@@ -146,7 +146,7 @@ include('header.php');
                                    </div>
                               </div>
                          </div>
-                         <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="1600">
+                         <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="2500">
                               <div class="card h-100 home-blog-bg" style="background-image:url('assets/images/blog/blog-bg.jpg');  background-image:url('assets/images/blog/blog-bg.webp')">
                                    <div class="home-blog-content">
                                         <div class="card-body">
@@ -188,7 +188,7 @@ include('header.php');
                                    </div>
                               </div>
                          </div>
-                         <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="1600">
+                         <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="2500">
                               <div class="card h-100 home-blog-bg" style="background-image:url('assets/images/blog/blog-bg.jpg');  background-image:url('assets/images/blog/blog-bg.webp')">
                                    <div class="home-blog-content">
                                         <div class="card-body">
@@ -230,7 +230,7 @@ include('header.php');
                                    </div>
                               </div>
                          </div>
-                         <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="1600">
+                         <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="2500">
                               <div class="card h-100 home-blog-bg" style="background-image:url('assets/images/blog/blog-bg.jpg');  background-image:url('assets/images/blog/blog-bg.webp')">
                                    <div class="home-blog-content">
                                         <div class="card-body">
@@ -272,7 +272,7 @@ include('header.php');
                                    </div>
                               </div>
                          </div>
-                         <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="1600">
+                         <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="2500">
                               <div class="card h-100 home-blog-bg" style="background-image:url('assets/images/blog/blog-bg.jpg');  background-image:url('assets/images/blog/blog-bg.webp')">
                                    <div class="home-blog-content">
                                         <div class="card-body">
@@ -314,7 +314,7 @@ include('header.php');
                                    </div>
                               </div>
                          </div>
-                         <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="1600">
+                         <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="2500">
                               <div class="card h-100 home-blog-bg" style="background-image:url('assets/images/blog/blog-bg.jpg');  background-image:url('assets/images/blog/blog-bg.webp')">
                                    <div class="home-blog-content">
                                         <div class="card-body">
@@ -356,7 +356,7 @@ include('header.php');
                                    </div>
                               </div>
                          </div>
-                         <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="1600">
+                         <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="2500">
                               <div class="card h-100 home-blog-bg" style="background-image:url('assets/images/blog/blog-bg.jpg');  background-image:url('assets/images/blog/blog-bg.webp')">
                                    <div class="home-blog-content">
                                         <div class="card-body">
@@ -398,7 +398,7 @@ include('header.php');
                                    </div>
                               </div>
                          </div>
-                         <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="1600">
+                         <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="2500">
                               <div class="card h-100 home-blog-bg" style="background-image:url('assets/images/blog/blog-bg.jpg');  background-image:url('assets/images/blog/blog-bg.webp')">
                                    <div class="home-blog-content">
                                         <div class="card-body">
@@ -440,7 +440,7 @@ include('header.php');
                                    </div>
                               </div>
                          </div>
-                         <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="1600">
+                         <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="2500">
                               <div class="card h-100 home-blog-bg" style="background-image:url('assets/images/blog/blog-bg.jpg');  background-image:url('assets/images/blog/blog-bg.webp')">
                                    <div class="home-blog-content">
                                         <div class="card-body">
@@ -482,7 +482,7 @@ include('header.php');
                                    </div>
                               </div>
                          </div>
-                         <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="1600">
+                         <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="2500">
                               <div class="card h-100 home-blog-bg" style="background-image:url('assets/images/blog/blog-bg.jpg');  background-image:url('assets/images/blog/blog-bg.webp')">
                                    <div class="home-blog-content">
                                         <div class="card-body">
@@ -524,7 +524,7 @@ include('header.php');
                                    </div>
                               </div>
                          </div>
-                         <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="1600">
+                         <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="2500">
                               <div class="card h-100 home-blog-bg" style="background-image:url('assets/images/blog/blog-bg.jpg');  background-image:url('assets/images/blog/blog-bg.webp')">
                                    <div class="home-blog-content">
                                         <div class="card-body">
@@ -592,5 +592,4 @@ include('header.php');
 <?php
 include('contact-form.php');
 include('footer.php');
-include('files-link.php');
 ?>

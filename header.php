@@ -26,6 +26,22 @@
      <link rel="dns-prefetch" href="https://www.google-analytics.com" crossorigin>
      <link rel="preconnect" href="https://www.google.com" crossorigin>
      <link rel="dns-prefetch" href="https://www.google.com" crossorigin>
+     <!-- All CSS FILES -->
+     <!-- Bootstrap Css File Link Here -->
+     <link href="assets/bootstrap/bootstrap.min.css" rel="stylesheet" />
+     <!--  Fancybox Css File Link Here -->
+     <link href="assets/fancybox/fancybox.css" rel="stylesheet" />
+     <!-- Fontawesome Css File Link Here -->
+     <link href="assets/font-awesome/all.min.css" rel="stylesheet" />
+     <!-- Slick Slider Css File Link Here -->
+     <link href="assets/slick-slider/slick.css" rel="stylesheet" />
+     <link href="assets/slick-slider/slick-theme.css" rel="stylesheet" />
+     <!-- Animation Css File Link Here -->
+     <link rel="stylesheet" href="assets/animation/aos.css" />
+     <!-- Comman Css File Link Here -->
+     <link href="assets/comman/style.min.css" rel="stylesheet" />
+     <!-- Responsive Css File Link Here -->
+     <link href="assets/comman/responsive.min.css" rel="stylesheet" />
 </head>
 
 <body>

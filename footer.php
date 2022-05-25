@@ -98,7 +98,7 @@
                          </li>
                     </ul>
                </div>
-               <div class="col-4 col-sm-5 col-md-4 col-lg-3">
+               <div class="col-4 col-sm-5 col-md-4 col-lg-3 text-lg-center">
                     <ul class="list-unstyled">
                          <li>
                               <a href="privacy-policy.php">
@@ -107,7 +107,7 @@
                          </li>
                     </ul>
                </div>
-               <div class="col-3 col-sm-2 col-md-2 col-lg-3">
+               <div class="col-3 col-sm-2 col-md-2 col-lg-3 text-lg-end">
                     <ul class="list-unstyled">
                          <li>
                               <a href="sitemap.php">
@@ -139,3 +139,21 @@
 </footer>
 <!-- 2. Footer  End Here -->
 
+
+<!-- All JS FILES -->
+<!-- Jquery File Link Here -->
+<script rel="text/javascript" src="assets/comman/jquery.min.js" defer></script>
+<!-- Bootstrap Js File Link Here -->
+<script rel="text/javascript" src="assets/bootstrap/bootstrap.bundle.min.js" defer></script>
+<!--  Fancybox Js File Link Here -->
+<script rel="text/javascript" src="assets/fancybox/fancybox.js" defer></script>
+<!-- Slick Slider Js File Link Here -->
+<script rel="text/javascript" src="assets/slick-slider/slick.min.js" defer></script>
+<!-- Animation Js File Link Here -->
+<script rel="text/javascript" src="assets/animation/aos.js" defer></script>
+<!-- Comman Js File Link Here -->
+<script rel="text/javascript" src="assets/comman/init.min.js" defer></script>
+
+</body>
+
+</html>

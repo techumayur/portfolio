@@ -9,9 +9,8 @@ include('header.php');
           <div class="row">
                <div class="col-12 home-banner-slider">
                     <div class="row home-banner-items">
-                         <div class="col-lg-6 align-self-center order-2 order-lg-1" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="2000">
-                              <h3>Welcome To The World Of Coding
-                              </h3>
+                         <div class="col-lg-6 align-self-center order-2 order-lg-1" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="2500">
+                              <h3>Welcome To The World Of Coding</h3>
                               <h1 class="home-banner-text-animation">
                                    Hi, I’m<br>
                                    <span class="text-highlight txt-type" data-wait="2500" data-words='["Techu Mayur"]'></span> <i class="fas fas-home fa-pencil-alt"></i> <br>
@@ -24,7 +23,7 @@ include('header.php');
                               </p>
                               <a href="#" class="main-btn" data-bs-toggle="modal" data-bs-target="#contact-form-popup">Hire Me</a>
                          </div>
-                         <div class="col-lg-6 order-1 order-lg-2" data-aos="fade-right" data-aos-easing="linear" data-aos-duration="1000">
+                         <div class="col-lg-6 order-1 order-lg-2" data-aos="fade-right" data-aos-easing="linear" data-aos-duration="2500">
                               <picture>
                                    <source srcset="assets/images/banners/home-banner-01.webp" type="image/webp" class="img-fluid" alt="Home Banner 01">
                                    <source srcset="assets/banners/home-banner-01.png" type="image/png" class="img-fluid" alt="Home Banner 01">
@@ -33,7 +32,7 @@ include('header.php');
                          </div>
                     </div>
                     <div class="row home-banner-items">
-                         <div class="col-lg-6 align-self-center order-2 order-lg-1" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1000">
+                         <div class="col-lg-6 align-self-center order-2 order-lg-1" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="2500">
                               <h3>
                                    What Techu Mayur Thinks
                               </h3>
@@ -47,7 +46,7 @@ include('header.php');
                               </p>
                               <a href="portfolio.php" class="main-btn">Go To World Of Imagine</a>
                          </div>
-                         <div class="col-lg-6 order-1 order-lg-2" data-aos="fade-right" data-aos-easing="linear" data-aos-duration="2000">
+                         <div class="col-lg-6 order-1 order-lg-2" data-aos="fade-right" data-aos-easing="linear" data-aos-duration="2500">
                               <picture>
                                    <source srcset="assets/images/banners/home-banner-02.webp" type="image/webp" class="img-fluid" alt="Home Banner 02">
                                    <source srcset="assets/banners/home-banner-02.png" type="image/png" class="img-fluid" alt="Home Banner 02">
@@ -65,14 +64,14 @@ include('header.php');
 <section class="about-me home-about-me">
      <div class="container">
           <div class="row">
-               <div class="col-lg-6" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1900">
+               <div class="col-lg-6" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="2500">
                     <picture>
                          <source srcset="assets/images/about/about-me.webp" type="image/webp" class="img-fluid" alt="About Me">
                          <source srcset="assets/images/about/about-me.jpg" type="image/png" class="img-fluid" alt="About Me">
                          <img loading="lazy" src="assets/images/about/about-me.jpg" class="img-fluid" alt="About Me">
                     </picture>
                </div>
-               <div class="col-lg-6 align-self-center " data-aos="fade-right" data-aos-easing="linear" data-aos-duration="2000">
+               <div class="col-lg-6 align-self-center " data-aos="fade-right" data-aos-easing="linear" data-aos-duration="2500">
                     <h2 class="title">
                          About Me
                     </h2>
@@ -96,31 +95,31 @@ include('header.php');
 <section class="home-counter">
      <div class="container">
           <div class="row home-counter-wrapper g-4">
-               <div class="col-12" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1600">
+               <div class="col-12" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="2500">
                     <h3 class="sub-title">This Are My Strongest Sides</h3>
                     <h2 class="title title-center">
                          Fun Facts
                     </h2>
                </div>
-               <div class="col-6 col-lg-3" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="1900">
+               <div class="col-6 col-lg-3" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="2500">
                     <div class="card h-100 home-counter-content">
                          <span>50+</span>
                          <h5>Projects Completed</h5>
                     </div>
                </div>
-               <div class="col-6 col-lg-3" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="1900">
+               <div class="col-6 col-lg-3" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="2500">
                     <div class="card h-100 home-counter-content">
                          <span>3+</span>
                          <h5>Years Of Experience</h5>
                     </div>
                </div>
-               <div class="col-6 col-lg-3" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="1900">
+               <div class="col-6 col-lg-3" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="2500">
                     <div class="card h-100 home-counter-content">
                          <span>50+</span>
                          <h5>Client Served</h5>
                     </div>
                </div>
-               <div class="col-6 col-lg-3" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="1900">
+               <div class="col-6 col-lg-3" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="2500">
                     <div class="card h-100 home-counter-content">
                          <span>2+</span>
                          <h5>Achievements</h5>
@@ -136,12 +135,12 @@ include('header.php');
 background-image:url('assets/images/common/cta-bg.webp')">
      <div class="container">
           <div class="row">
-               <div class="col-lg-8" data-aos="fade-right" data-aos-easing="linear" data-aos-duration="1600">
+               <div class="col-lg-8" data-aos="fade-right" data-aos-easing="linear" data-aos-duration="2500">
                     <h2>
                          Want Some Kickass<br>
                          Tips and Tricks? </h2>
                </div>
-               <div class="col-lg-4 align-self-center pt-4 pt-lg-0" data-aos="fade-left" data-aos-easing="linear" data-aos-duration="1600">
+               <div class="col-lg-4 align-self-center pt-4 pt-lg-0" data-aos="fade-left" data-aos-easing="linear" data-aos-duration="2500">
                     <a href="tips-tricks.php" class="main-btn cta-btn">
                          Know More
                     </a>
@@ -155,7 +154,7 @@ background-image:url('assets/images/common/cta-bg.webp')">
 <section class="portfolio">
      <div class="container">
           <div class="row">
-               <div class="col-12 text-center" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1600">
+               <div class="col-12 text-center" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="2500">
                     <h3 class="sub-title">
                          Showcasing Some Of My Best Work
                     </h3>
@@ -164,7 +163,7 @@ background-image:url('assets/images/common/cta-bg.webp')">
                     </h2>
                </div>
                <div class="col-12 portfolio-content">
-                    <ul class="nav nav-pills mb-3 justify-content-center" id="pills-tab" role="tablist" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1900">
+                    <ul class="nav nav-pills mb-3 justify-content-center" id="pills-tab" role="tablist" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="2500">
                          <li class="nav-item" role="presentation">
                               <button class="nav-link active" id="pills-all-tab" data-bs-toggle="pill" data-bs-target="#pills-all" type="button" role="tab" aria-controls="pills-all" aria-selected="true">All</button>
                          </li>
@@ -188,7 +187,7 @@ background-image:url('assets/images/common/cta-bg.webp')">
                          <div class="tab-pane fade show active" id="pills-all" role="tabpanel" aria-labelledby="pills-all-tab">
                               <!-- All Portfolio -->
                               <div class="row row-cols-1 row-cols-md-2 row-cols-xl-3 g-5  justify-content-center">
-                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="card h-100">
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
@@ -253,7 +252,7 @@ background-image:url('assets/images/common/cta-bg.webp')">
                                              </div>
                                         </div>
                                    </div>
-                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="card h-100">
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
@@ -318,7 +317,7 @@ background-image:url('assets/images/common/cta-bg.webp')">
                                              </div>
                                         </div>
                                    </div>
-                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="card h-100">
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
@@ -383,7 +382,7 @@ background-image:url('assets/images/common/cta-bg.webp')">
                                              </div>
                                         </div>
                                    </div>
-                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="card h-100">
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
@@ -448,7 +447,7 @@ background-image:url('assets/images/common/cta-bg.webp')">
                                              </div>
                                         </div>
                                    </div>
-                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="card h-100">
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
@@ -513,7 +512,7 @@ background-image:url('assets/images/common/cta-bg.webp')">
                                              </div>
                                         </div>
                                    </div>
-                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="card h-100">
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
@@ -579,7 +578,7 @@ background-image:url('assets/images/common/cta-bg.webp')">
                                         </div>
                                    </div>
 
-                                   <div class="col-12 text-center pt-5" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col-12 text-center pt-5" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="2500">
                                         <a href="portfolio.php" class="main-btn">
                                              View All
                                         </a>
@@ -588,7 +587,7 @@ background-image:url('assets/images/common/cta-bg.webp')">
                          </div>
                          <div class="tab-pane fade" id="pills-html" role="tabpanel" aria-labelledby="pills-html-tab">
                               <div class="row row-cols-1 row-cols-md-2 row-cols-xl-3 g-5  justify-content-center">
-                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="card h-100">
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
@@ -653,7 +652,7 @@ background-image:url('assets/images/common/cta-bg.webp')">
                                              </div>
                                         </div>
                                    </div>
-                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="card h-100">
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
@@ -718,7 +717,7 @@ background-image:url('assets/images/common/cta-bg.webp')">
                                              </div>
                                         </div>
                                    </div>
-                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="card h-100">
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
@@ -783,7 +782,7 @@ background-image:url('assets/images/common/cta-bg.webp')">
                                              </div>
                                         </div>
                                    </div>
-                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="card h-100">
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
@@ -848,7 +847,7 @@ background-image:url('assets/images/common/cta-bg.webp')">
                                              </div>
                                         </div>
                                    </div>
-                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="card h-100">
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
@@ -913,7 +912,7 @@ background-image:url('assets/images/common/cta-bg.webp')">
                                              </div>
                                         </div>
                                    </div>
-                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="card h-100">
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
@@ -979,7 +978,7 @@ background-image:url('assets/images/common/cta-bg.webp')">
                                         </div>
                                    </div>
 
-                                   <div class="col-12 text-center pt-5" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col-12 text-center pt-5" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="2500">
                                         <a href="portfolio.php" class="main-btn">
                                              View All
                                         </a>
@@ -988,7 +987,7 @@ background-image:url('assets/images/common/cta-bg.webp')">
                          </div>
                          <div class="tab-pane fade" id="pills-bootstrap" role="tabpanel" aria-labelledby="pills-bootstrap-tab">
                               <div class="row row-cols-1 row-cols-md-2 row-cols-xl-3 g-5  justify-content-center">
-                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="card h-100">
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
@@ -1053,7 +1052,7 @@ background-image:url('assets/images/common/cta-bg.webp')">
                                              </div>
                                         </div>
                                    </div>
-                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="card h-100">
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
@@ -1118,7 +1117,7 @@ background-image:url('assets/images/common/cta-bg.webp')">
                                              </div>
                                         </div>
                                    </div>
-                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="card h-100">
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
@@ -1183,7 +1182,7 @@ background-image:url('assets/images/common/cta-bg.webp')">
                                              </div>
                                         </div>
                                    </div>
-                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="card h-100">
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
@@ -1248,7 +1247,7 @@ background-image:url('assets/images/common/cta-bg.webp')">
                                              </div>
                                         </div>
                                    </div>
-                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="card h-100">
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
@@ -1313,7 +1312,7 @@ background-image:url('assets/images/common/cta-bg.webp')">
                                              </div>
                                         </div>
                                    </div>
-                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="card h-100">
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
@@ -1379,7 +1378,7 @@ background-image:url('assets/images/common/cta-bg.webp')">
                                         </div>
                                    </div>
 
-                                   <div class="col-12 text-center pt-5" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col-12 text-center pt-5" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="2500">
                                         <a href="portfolio.php" class="main-btn">
                                              View All
                                         </a>
@@ -1388,7 +1387,7 @@ background-image:url('assets/images/common/cta-bg.webp')">
                          </div>
                          <div class="tab-pane fade" id="pills-php" role="tabpanel" aria-labelledby="pills-php-tab">
                               <div class="row row-cols-1 row-cols-md-2 row-cols-xl-3 g-5  justify-content-center">
-                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="card h-100">
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
@@ -1453,7 +1452,7 @@ background-image:url('assets/images/common/cta-bg.webp')">
                                              </div>
                                         </div>
                                    </div>
-                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="card h-100">
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
@@ -1518,7 +1517,7 @@ background-image:url('assets/images/common/cta-bg.webp')">
                                              </div>
                                         </div>
                                    </div>
-                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="card h-100">
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
@@ -1583,7 +1582,7 @@ background-image:url('assets/images/common/cta-bg.webp')">
                                              </div>
                                         </div>
                                    </div>
-                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="card h-100">
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
@@ -1648,7 +1647,7 @@ background-image:url('assets/images/common/cta-bg.webp')">
                                              </div>
                                         </div>
                                    </div>
-                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="card h-100">
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
@@ -1713,7 +1712,7 @@ background-image:url('assets/images/common/cta-bg.webp')">
                                              </div>
                                         </div>
                                    </div>
-                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="card h-100">
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
@@ -1779,7 +1778,7 @@ background-image:url('assets/images/common/cta-bg.webp')">
                                         </div>
                                    </div>
 
-                                   <div class="col-12 text-center pt-5" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col-12 text-center pt-5" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="2500">
                                         <a href="portfolio.php" class="main-btn">
                                              View All
                                         </a>
@@ -1788,7 +1787,7 @@ background-image:url('assets/images/common/cta-bg.webp')">
                          </div>
                          <div class="tab-pane fade" id="pills-wordpress" role="tabpanel" aria-labelledby="pills-wordpress-tab">
                               <div class="row row-cols-1 row-cols-md-2 row-cols-xl-3 g-5  justify-content-center">
-                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="card h-100">
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
@@ -1853,7 +1852,7 @@ background-image:url('assets/images/common/cta-bg.webp')">
                                              </div>
                                         </div>
                                    </div>
-                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="card h-100">
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
@@ -1918,7 +1917,7 @@ background-image:url('assets/images/common/cta-bg.webp')">
                                              </div>
                                         </div>
                                    </div>
-                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="card h-100">
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
@@ -1983,7 +1982,7 @@ background-image:url('assets/images/common/cta-bg.webp')">
                                              </div>
                                         </div>
                                    </div>
-                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="card h-100">
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
@@ -2048,7 +2047,7 @@ background-image:url('assets/images/common/cta-bg.webp')">
                                              </div>
                                         </div>
                                    </div>
-                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="card h-100">
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
@@ -2113,7 +2112,7 @@ background-image:url('assets/images/common/cta-bg.webp')">
                                              </div>
                                         </div>
                                    </div>
-                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="card h-100">
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
@@ -2179,7 +2178,7 @@ background-image:url('assets/images/common/cta-bg.webp')">
                                         </div>
                                    </div>
 
-                                   <div class="col-12 text-center pt-5" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col-12 text-center pt-5" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="2500">
                                         <a href="portfolio.php" class="main-btn">
                                              View All
                                         </a>
@@ -2188,7 +2187,7 @@ background-image:url('assets/images/common/cta-bg.webp')">
                          </div>
                          <div class="tab-pane fade" id="pills-shopify" role="tabpanel" aria-labelledby="pills-shopify-tab">
                               <div class="row row-cols-1 row-cols-md-2 row-cols-xl-3 g-5  justify-content-center">
-                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="card h-100">
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
@@ -2253,7 +2252,7 @@ background-image:url('assets/images/common/cta-bg.webp')">
                                              </div>
                                         </div>
                                    </div>
-                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="card h-100">
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
@@ -2318,7 +2317,7 @@ background-image:url('assets/images/common/cta-bg.webp')">
                                              </div>
                                         </div>
                                    </div>
-                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="card h-100">
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
@@ -2383,7 +2382,7 @@ background-image:url('assets/images/common/cta-bg.webp')">
                                              </div>
                                         </div>
                                    </div>
-                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="card h-100">
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
@@ -2448,7 +2447,7 @@ background-image:url('assets/images/common/cta-bg.webp')">
                                              </div>
                                         </div>
                                    </div>
-                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="card h-100">
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
@@ -2513,7 +2512,7 @@ background-image:url('assets/images/common/cta-bg.webp')">
                                              </div>
                                         </div>
                                    </div>
-                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="card h-100">
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
@@ -2579,7 +2578,7 @@ background-image:url('assets/images/common/cta-bg.webp')">
                                         </div>
                                    </div>
 
-                                   <div class="col-12 text-center pt-5" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col-12 text-center pt-5" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="2500">
                                         <a href="portfolio.php" class="main-btn">
                                              View All
                                         </a>
@@ -2597,7 +2596,7 @@ background-image:url('assets/images/common/cta-bg.webp')">
 <section class="home-blogs">
      <div class="container">
           <div class="row">
-               <div class="col-12 text-center" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1600">
+               <div class="col-12 text-center" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="2500">
                     <h3 class="sub-title">
                          Would You Like To Get Some Knowledge
                     </h3>
@@ -2607,7 +2606,7 @@ background-image:url('assets/images/common/cta-bg.webp')">
                </div>
           </div>
           <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4 py-5 justify-content-center">
-               <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="1600">
+               <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="2500">
                     <div class="card h-100 home-blog-bg" style="background-image:url('assets/images/blog/blog-bg.webp'); background-image:url('assets/images/blog/blog-bg.jpg')">
                          <div class="home-blog-content">
                               <div class="card-body">
@@ -2651,7 +2650,7 @@ background-image:url('assets/images/common/cta-bg.webp')">
                          </div>
                     </div>
                </div>
-               <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="1600">
+               <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="2500">
                     <div class="card h-100 home-blog-bg" style="background-image:url('assets/images/blog/blog-bg.jpg');  background-image:url('assets/images/blog/blog-bg.webp')">
                          <div class="home-blog-content">
                               <div class="card-body">
@@ -2695,7 +2694,7 @@ background-image:url('assets/images/common/cta-bg.webp')">
                          </div>
                     </div>
                </div>
-               <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="1600">
+               <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="2500">
                     <div class="card h-100 home-blog-bg" style="background-image:url('assets/images/blog/blog-bg.jpg');  background-image:url('assets/images/blog/blog-bg.webp')">
                          <div class="home-blog-content">
                               <div class="card-body">
@@ -2739,7 +2738,7 @@ background-image:url('assets/images/common/cta-bg.webp')">
                          </div>
                     </div>
                </div>
-               <div class="col-12 text-center pt-5" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1600">
+               <div class="col-12 text-center pt-5" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="2500">
                     <a href="blog.php" class="main-btn">
                          View All
                     </a>
@@ -2754,12 +2753,12 @@ background-image:url('assets/images/common/cta-bg.webp')">
 background-image:url('assets/images/common/cta-bg.webp')">
      <div class="container">
           <div class="row">
-               <div class="col-lg-8" data-aos="fade-right" data-aos-easing="linear" data-aos-duration="1600">
+               <div class="col-lg-8" data-aos="fade-right" data-aos-easing="linear" data-aos-duration="2500">
                     <h2>
                          Want to<br>
                          Boost Knowledge? </h2>
                </div>
-               <div class="col-lg-4 align-self-center pt-4 pt-lg-0" data-aos="fade-left" data-aos-easing="linear" data-aos-duration="1600">
+               <div class="col-lg-4 align-self-center pt-4 pt-lg-0" data-aos="fade-left" data-aos-easing="linear" data-aos-duration="2500">
                     <a href="tech.php" class="main-btn cta-btn">
                          Know More
                     </a>
@@ -2773,7 +2772,7 @@ background-image:url('assets/images/common/cta-bg.webp')">
 <section class="home-tech">
      <div class="container">
           <div class="row">
-               <div class="col-12 text-center" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1600">
+               <div class="col-12 text-center" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="2500">
                     <h3 class="sub-title">
                          Level Up Some Knowledge
                     </h3>
@@ -2783,7 +2782,7 @@ background-image:url('assets/images/common/cta-bg.webp')">
                </div>
           </div>
           <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4 py-5 justify-content-center home-tech-content home-tech-mobile-slider">
-               <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="1600">
+               <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="2500">
                     <div class="card h-100">
                          <picture>
                               <source srcset="assets/images/tech/tech.webp" type="image/webp" class="card-img-top img-fluid" alt="Tech">
@@ -2816,7 +2815,7 @@ background-image:url('assets/images/common/cta-bg.webp')">
                          </div>
                     </div>
                </div>
-               <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="1600">
+               <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="2500">
                     <div class="card h-100">
                          <picture>
                               <source srcset="assets/images/tech/tech.webp" type="image/webp" class="card-img-top img-fluid" alt="Tech">
@@ -2849,7 +2848,7 @@ background-image:url('assets/images/common/cta-bg.webp')">
                          </div>
                     </div>
                </div>
-               <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="1600">
+               <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="2500">
                     <div class="card h-100">
                          <picture>
                               <source srcset="assets/images/tech/tech.webp" type="image/webp" class="card-img-top img-fluid" alt="Tech">
@@ -2882,7 +2881,7 @@ background-image:url('assets/images/common/cta-bg.webp')">
                          </div>
                     </div>
                </div>
-               <div class="col-12 text-center pt-5" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1600">
+               <div class="col-12 text-center pt-5" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="2500">
                     <a href="#" class="main-btn">
                          View All
                     </a>
@@ -2895,5 +2894,4 @@ background-image:url('assets/images/common/cta-bg.webp')">
 <?php
 include('contact-form.php');
 include('footer.php');
-include('files-link.php');
 ?>

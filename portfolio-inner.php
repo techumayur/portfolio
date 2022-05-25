@@ -28,7 +28,7 @@ include('header.php');
 <section class="portfolio-inner">
      <div class="container">
           <div class="row">
-               <div class="col-12 portfolio-inner-content " data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1600">
+               <div class="col-12 portfolio-inner-content " data-aos="fade-up" data-aos-easing="linear" data-aos-duration="2500">
                     . <div class="portfolio-images">
                          <div class="portfolio-screens">
                               <div class="portfolio-image-desktop">
@@ -69,7 +69,7 @@ include('header.php');
                     </div>
                </div>
                <div class="col-12 portfolio-inner-wrapper">
-                    <div class="portfolio-inner-author" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1700">
+                    <div class="portfolio-inner-author" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="2500">
                          <ul class="list-unstyled">
                               <li>
                                    <img loading="lazy" src="assets/images/blog/avatar.png" class="img-fluid" alt="Author">
@@ -81,12 +81,12 @@ include('header.php');
                               </li>
                          </ul>
                     </div>
-                    <h1 data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1800">Mahindra Bangladesh</h1>
-                    <p data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1900">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+                    <h1 data-aos="fade-up" data-aos-easing="linear" data-aos-duration="2500">Mahindra Bangladesh</h1>
+                    <p data-aos="fade-up" data-aos-easing="linear" data-aos-duration="2500">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
                     </p>
 
                     <div class="row">
-                         <div class="col-lg-7 portfolio-inner-tag" data-aos="fade-right" data-aos-easing="linear" data-aos-duration="1900">
+                         <div class="col-lg-7 portfolio-inner-tag" data-aos="fade-right" data-aos-easing="linear" data-aos-duration="2500">
                               <span>Tags:</span>
                               <ul class="list-unstyled">
                                    <li>
@@ -115,7 +115,7 @@ include('header.php');
                                    </li>
                               </ul>
                          </div>
-                         <div class="col-lg-5" data-aos="fade-left" data-aos-easing="linear" data-aos-duration="1900">
+                         <div class="col-lg-5" data-aos="fade-left" data-aos-easing="linear" data-aos-duration="2500">
                               <div class="portfolio-inner-social-share">
                                    <span>Share:</span>
                                    <ul class="list-unstyled">
@@ -153,13 +153,13 @@ include('header.php');
 background-image:url('assets/images/common/cta-bg.webp')">
      <div class="container">
           <div class="row">
-               <div class="col-lg-8" data-aos="fade-right" data-aos-easing="linear" data-aos-duration="1600">
+               <div class="col-lg-8" data-aos="fade-right" data-aos-easing="linear" data-aos-duration="2500">
                     <h2>
                          Want To Improve<br>
                          Your Skills?
                     </h2>
                </div>
-               <div class="col-lg-4 align-self-center pt-4 pt-lg-0" data-aos="fade-left" data-aos-easing="linear" data-aos-duration="1600">
+               <div class="col-lg-4 align-self-center pt-4 pt-lg-0" data-aos="fade-left" data-aos-easing="linear" data-aos-duration="2500">
                     <a href="source-code.php" class="main-btn cta-btn">
                          Know More
                     </a>
@@ -173,7 +173,7 @@ background-image:url('assets/images/common/cta-bg.webp')">
 <section class="portfolio">
      <div class="container">
           <div class="row">
-               <div class="col-12 text-center" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1600">
+               <div class="col-12 text-center" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="2500">
                     <h3 class="sub-title">
                          Showcasing Some Of My Best Work
                     </h3>
@@ -183,7 +183,7 @@ background-image:url('assets/images/common/cta-bg.webp')">
                </div>
                <div class="col-12 portfolio-content">
                     <div class="row row-cols-1 row-cols-md-2 row-cols-xl-3 g-5  justify-content-center">
-                         <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1900">
+                         <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="2500">
                               <div class="card h-100">
                                    <div class="portfolio-images">
                                         <div class="portfolio-screens">
@@ -240,7 +240,7 @@ background-image:url('assets/images/common/cta-bg.webp')">
                                    </div>
                               </div>
                          </div>
-                         <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1900">
+                         <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="2500">
                               <div class="card h-100">
                                    <div class="portfolio-images">
                                         <div class="portfolio-screens">
@@ -297,7 +297,7 @@ background-image:url('assets/images/common/cta-bg.webp')">
                                    </div>
                               </div>
                          </div>
-                         <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1900">
+                         <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="2500">
                               <div class="card h-100">
                                    <div class="portfolio-images">
                                         <div class="portfolio-screens">
@@ -354,7 +354,7 @@ background-image:url('assets/images/common/cta-bg.webp')">
                                    </div>
                               </div>
                          </div>
-                         <div class="col-12 text-center pt-5" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1900">
+                         <div class="col-12 text-center pt-5" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="2500">
                               <a href="#" class="main-btn">
                                    View All
                               </a>
@@ -370,5 +370,4 @@ background-image:url('assets/images/common/cta-bg.webp')">
 <?php
 include('contact-form.php');
 include('footer.php');
-include('files-link.php');
 ?>

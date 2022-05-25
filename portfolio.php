@@ -27,7 +27,7 @@ include('header.php');
 <section class="portfolio">
      <div class="container">
           <div class="row">
-               <div class="col-12 text-center" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1600">
+               <div class="col-12 text-center" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="2500">
                     <h3 class="sub-title">
                          Showcasing Some Of My Best Work
                     </h3>
@@ -36,7 +36,7 @@ include('header.php');
                     </h2>
                </div>
                <div class="col-12 portfolio-content">
-                    <ul class="nav nav-pills mb-3 justify-content-center" id="pills-tab" role="tablist" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1900">
+                    <ul class="nav nav-pills mb-3 justify-content-center" id="pills-tab" role="tablist" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="2500">
                          <li class="nav-item" role="presentation">
                               <button class="nav-link active" id="pills-all-tab" data-bs-toggle="pill" data-bs-target="#pills-all" type="button" role="tab" aria-controls="pills-all" aria-selected="true">All</button>
                          </li>
@@ -60,7 +60,7 @@ include('header.php');
                          <div class="tab-pane fade show active" id="pills-all" role="tabpanel" aria-labelledby="pills-all-tab">
                               <!-- All Portfolio -->
                               <div class="row row-cols-1 row-cols-md-2 row-cols-xl-3 g-5  justify-content-center">
-                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="card h-100">
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
@@ -149,7 +149,7 @@ include('header.php');
                                              </div>
                                         </div>
                                    </div>
-                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="card h-100">
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
@@ -238,7 +238,7 @@ include('header.php');
                                              </div>
                                         </div>
                                    </div>
-                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="card h-100">
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
@@ -327,7 +327,7 @@ include('header.php');
                                              </div>
                                         </div>
                                    </div>
-                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="card h-100">
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
@@ -416,7 +416,7 @@ include('header.php');
                                              </div>
                                         </div>
                                    </div>
-                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="card h-100">
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
@@ -505,7 +505,7 @@ include('header.php');
                                              </div>
                                         </div>
                                    </div>
-                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="card h-100">
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
@@ -598,7 +598,7 @@ include('header.php');
                          </div>
                          <div class="tab-pane fade" id="pills-html" role="tabpanel" aria-labelledby="pills-html-tab">
                               <div class="row row-cols-1 row-cols-md-2 row-cols-xl-3 g-5  justify-content-center">
-                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="card h-100">
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
@@ -687,7 +687,7 @@ include('header.php');
                                              </div>
                                         </div>
                                    </div>
-                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="card h-100">
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
@@ -776,7 +776,7 @@ include('header.php');
                                              </div>
                                         </div>
                                    </div>
-                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="card h-100">
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
@@ -865,7 +865,7 @@ include('header.php');
                                              </div>
                                         </div>
                                    </div>
-                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="card h-100">
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
@@ -954,7 +954,7 @@ include('header.php');
                                              </div>
                                         </div>
                                    </div>
-                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="card h-100">
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
@@ -1043,7 +1043,7 @@ include('header.php');
                                              </div>
                                         </div>
                                    </div>
-                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="card h-100">
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
@@ -1136,7 +1136,7 @@ include('header.php');
                          </div>
                          <div class="tab-pane fade" id="pills-bootstrap" role="tabpanel" aria-labelledby="pills-bootstrap-tab">
                               <div class="row row-cols-1 row-cols-md-2 row-cols-xl-3 g-5  justify-content-center">
-                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="card h-100">
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
@@ -1225,7 +1225,7 @@ include('header.php');
                                              </div>
                                         </div>
                                    </div>
-                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="card h-100">
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
@@ -1314,7 +1314,7 @@ include('header.php');
                                              </div>
                                         </div>
                                    </div>
-                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="card h-100">
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
@@ -1403,7 +1403,7 @@ include('header.php');
                                              </div>
                                         </div>
                                    </div>
-                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="card h-100">
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
@@ -1492,7 +1492,7 @@ include('header.php');
                                              </div>
                                         </div>
                                    </div>
-                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="card h-100">
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
@@ -1581,7 +1581,7 @@ include('header.php');
                                              </div>
                                         </div>
                                    </div>
-                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="card h-100">
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
@@ -1674,7 +1674,7 @@ include('header.php');
                          </div>
                          <div class="tab-pane fade" id="pills-php" role="tabpanel" aria-labelledby="pills-php-tab">
                               <div class="row row-cols-1 row-cols-md-2 row-cols-xl-3 g-5  justify-content-center">
-                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="card h-100">
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
@@ -1763,7 +1763,7 @@ include('header.php');
                                              </div>
                                         </div>
                                    </div>
-                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="card h-100">
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
@@ -1852,7 +1852,7 @@ include('header.php');
                                              </div>
                                         </div>
                                    </div>
-                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="card h-100">
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
@@ -1941,7 +1941,7 @@ include('header.php');
                                              </div>
                                         </div>
                                    </div>
-                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="card h-100">
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
@@ -2030,7 +2030,7 @@ include('header.php');
                                              </div>
                                         </div>
                                    </div>
-                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="card h-100">
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
@@ -2119,7 +2119,7 @@ include('header.php');
                                              </div>
                                         </div>
                                    </div>
-                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="card h-100">
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
@@ -2212,7 +2212,7 @@ include('header.php');
                          </div>
                          <div class="tab-pane fade" id="pills-wordpress" role="tabpanel" aria-labelledby="pills-wordpress-tab">
                               <div class="row row-cols-1 row-cols-md-2 row-cols-xl-3 g-5  justify-content-center">
-                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="card h-100">
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
@@ -2301,7 +2301,7 @@ include('header.php');
                                              </div>
                                         </div>
                                    </div>
-                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="card h-100">
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
@@ -2390,7 +2390,7 @@ include('header.php');
                                              </div>
                                         </div>
                                    </div>
-                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="card h-100">
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
@@ -2479,7 +2479,7 @@ include('header.php');
                                              </div>
                                         </div>
                                    </div>
-                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="card h-100">
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
@@ -2568,7 +2568,7 @@ include('header.php');
                                              </div>
                                         </div>
                                    </div>
-                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="card h-100">
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
@@ -2657,7 +2657,7 @@ include('header.php');
                                              </div>
                                         </div>
                                    </div>
-                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="card h-100">
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
@@ -2750,7 +2750,7 @@ include('header.php');
                          </div>
                          <div class="tab-pane fade" id="pills-shopify" role="tabpanel" aria-labelledby="pills-shopify-tab">
                               <div class="row row-cols-1 row-cols-md-2 row-cols-xl-3 g-5  justify-content-center">
-                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="card h-100">
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
@@ -2839,7 +2839,7 @@ include('header.php');
                                              </div>
                                         </div>
                                    </div>
-                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="card h-100">
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
@@ -2928,7 +2928,7 @@ include('header.php');
                                              </div>
                                         </div>
                                    </div>
-                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="card h-100">
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
@@ -3017,7 +3017,7 @@ include('header.php');
                                              </div>
                                         </div>
                                    </div>
-                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="card h-100">
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
@@ -3106,7 +3106,7 @@ include('header.php');
                                              </div>
                                         </div>
                                    </div>
-                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="card h-100">
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
@@ -3195,7 +3195,7 @@ include('header.php');
                                              </div>
                                         </div>
                                    </div>
-                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1900">
+                                   <div class="col" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="card h-100">
                                              <div class="portfolio-images">
                                                   <div class="portfolio-screens">
@@ -3298,13 +3298,13 @@ include('header.php');
 background-image:url('assets/images/common/cta-bg.webp')">
      <div class="container">
           <div class="row">
-               <div class="col-lg-8" data-aos="fade-right" data-aos-easing="linear" data-aos-duration="1600">
+               <div class="col-lg-8" data-aos="fade-right" data-aos-easing="linear" data-aos-duration="2500">
                     <h2>
                          Want A Source Code<br>
                          Of Projects?
                     </h2>
                </div>
-               <div class="col-lg-4 align-self-center pt-4 pt-lg-0" data-aos="fade-left" data-aos-easing="linear" data-aos-duration="1600">
+               <div class="col-lg-4 align-self-center pt-4 pt-lg-0" data-aos="fade-left" data-aos-easing="linear" data-aos-duration="2500">
                     <a href="source-code.php" class="main-btn cta-btn">
                          Get Here
                     </a>
@@ -3402,5 +3402,4 @@ background-image:url('assets/images/common/cta-bg.webp')">
 <?php
 include('contact-form.php');
 include('footer.php');
-include('files-link.php');
 ?>
