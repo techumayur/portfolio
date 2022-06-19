@@ -49,7 +49,7 @@
                          </li>
                          <li><a href="portfolio.php"> Portfolio</a></li>
                          <li><a href="blog.php"> Blog</a></li>
-                         <li><a href="tech.php"> Tech</a></li>
+                         <li><a href="coming-soon.php"> Tech</a></li>
                          <li><a href="contact-me.php"> Contact Me</a></li>
                     </ul>
                </div>

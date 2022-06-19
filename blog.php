@@ -13,7 +13,7 @@ include('header.php');
                <div class="col-12">
                     <nav aria-label="breadcrumb">
                          <ol class="breadcrumb">
-                              <li class="breadcrumb-item"><a href="home.php">Home</a></li>
+                              <li class="breadcrumb-item"><a href="index.php">Home</a></li>
                               <li class="breadcrumb-item active" aria-current="page">Blogs</li>
                          </ol>
                     </nav>
@@ -95,7 +95,7 @@ include('header.php');
                                                        </div>
                                                   </div>
                                                   <div class="col-4 text-center align-self-center">
-                                                       <a href="#" class="home-blog-btn">
+                                                       <a href="blog-inner.php" class="home-blog-btn">
                                                             <i class="fas fa-plus-circle"></i>
                                                        </a>
                                                   </div>
@@ -137,7 +137,7 @@ include('header.php');
                                                        </div>
                                                   </div>
                                                   <div class="col-4 text-center align-self-center">
-                                                       <a href="#" class="home-blog-btn">
+                                                       <a href="blog-inner.php" class="home-blog-btn">
                                                             <i class="fas fa-plus-circle"></i>
                                                        </a>
                                                   </div>
@@ -179,7 +179,7 @@ include('header.php');
                                                        </div>
                                                   </div>
                                                   <div class="col-4 text-center align-self-center">
-                                                       <a href="#" class="home-blog-btn">
+                                                       <a href="blog-inner.php" class="home-blog-btn">
                                                             <i class="fas fa-plus-circle"></i>
                                                        </a>
                                                   </div>
@@ -221,7 +221,7 @@ include('header.php');
                                                        </div>
                                                   </div>
                                                   <div class="col-4 text-center align-self-center">
-                                                       <a href="#" class="home-blog-btn">
+                                                       <a href="blog-inner.php" class="home-blog-btn">
                                                             <i class="fas fa-plus-circle"></i>
                                                        </a>
                                                   </div>
@@ -263,7 +263,7 @@ include('header.php');
                                                        </div>
                                                   </div>
                                                   <div class="col-4 text-center align-self-center">
-                                                       <a href="#" class="home-blog-btn">
+                                                       <a href="blog-inner.php" class="home-blog-btn">
                                                             <i class="fas fa-plus-circle"></i>
                                                        </a>
                                                   </div>
@@ -305,7 +305,7 @@ include('header.php');
                                                        </div>
                                                   </div>
                                                   <div class="col-4 text-center align-self-center">
-                                                       <a href="#" class="home-blog-btn">
+                                                       <a href="blog-inner.php" class="home-blog-btn">
                                                             <i class="fas fa-plus-circle"></i>
                                                        </a>
                                                   </div>
@@ -347,7 +347,7 @@ include('header.php');
                                                        </div>
                                                   </div>
                                                   <div class="col-4 text-center align-self-center">
-                                                       <a href="#" class="home-blog-btn">
+                                                       <a href="blog-inner.php" class="home-blog-btn">
                                                             <i class="fas fa-plus-circle"></i>
                                                        </a>
                                                   </div>
@@ -389,7 +389,7 @@ include('header.php');
                                                        </div>
                                                   </div>
                                                   <div class="col-4 text-center align-self-center">
-                                                       <a href="#" class="home-blog-btn">
+                                                       <a href="blog-inner.php" class="home-blog-btn">
                                                             <i class="fas fa-plus-circle"></i>
                                                        </a>
                                                   </div>
@@ -431,7 +431,7 @@ include('header.php');
                                                        </div>
                                                   </div>
                                                   <div class="col-4 text-center align-self-center">
-                                                       <a href="#" class="home-blog-btn">
+                                                       <a href="blog-inner.php" class="home-blog-btn">
                                                             <i class="fas fa-plus-circle"></i>
                                                        </a>
                                                   </div>
@@ -473,7 +473,7 @@ include('header.php');
                                                        </div>
                                                   </div>
                                                   <div class="col-4 text-center align-self-center">
-                                                       <a href="#" class="home-blog-btn">
+                                                       <a href="blog-inner.php" class="home-blog-btn">
                                                             <i class="fas fa-plus-circle"></i>
                                                        </a>
                                                   </div>
@@ -515,7 +515,7 @@ include('header.php');
                                                        </div>
                                                   </div>
                                                   <div class="col-4 text-center align-self-center">
-                                                       <a href="#" class="home-blog-btn">
+                                                       <a href="blog-inner.php" class="home-blog-btn">
                                                             <i class="fas fa-plus-circle"></i>
                                                        </a>
                                                   </div>
@@ -557,7 +557,7 @@ include('header.php');
                                                        </div>
                                                   </div>
                                                   <div class="col-4 text-center align-self-center">
-                                                       <a href="#" class="home-blog-btn">
+                                                       <a href="blog-inner.php" class="home-blog-btn">
                                                             <i class="fas fa-plus-circle"></i>
                                                        </a>
                                                   </div>

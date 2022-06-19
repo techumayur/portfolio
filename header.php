@@ -28,23 +28,41 @@
      <link rel="dns-prefetch" href="https://www.google.com" crossorigin>
      <!-- All CSS FILES -->
      <!-- Bootstrap Css File Link Here -->
-     <link href="assets/bootstrap/bootstrap.min.css" rel="stylesheet" />
+     <link href="assets/bootstrap/bootstrap.min.css" media="all" rel="preload" as="style" onload="this.rel='stylesheet'" />
      <!--  Fancybox Css File Link Here -->
-     <link href="assets/fancybox/fancybox.css" rel="stylesheet" />
+     <link href="assets/fancybox/fancybox.css" media="all" rel="preload" as="style" onload="this.rel='stylesheet'" />
      <!-- Fontawesome Css File Link Here -->
-     <link href="assets/font-awesome/all.min.css" rel="stylesheet" />
+     <link href="assets/font-awesome/all.min.css" media="all" rel="preload" as="style" onload="this.rel='stylesheet'" />
      <!-- Slick Slider Css File Link Here -->
-     <link href="assets/slick-slider/slick.css" rel="stylesheet" />
-     <link href="assets/slick-slider/slick-theme.css" rel="stylesheet" />
+     <link href="assets/slick-slider/slick.css" media="all" rel="preload" as="style" onload="this.rel='stylesheet'" />
+     <link href="assets/slick-slider/slick-theme.css" media="all" rel="preload" as="style" onload="this.rel='stylesheet'" />
      <!-- Animation Css File Link Here -->
-     <link rel="stylesheet" href="assets/animation/aos.css" />
+     <link media="all" rel="preload" as="style" onload="this.rel='stylesheet'" href="assets/animation/aos.css" />
      <!-- Comman Css File Link Here -->
-     <link href="assets/comman/style.min.css" rel="stylesheet" />
+     <link href="assets/comman/style.min.css" media="all" rel="preload" as="style" onload="this.rel='stylesheet'" />
      <!-- Responsive Css File Link Here -->
-     <link href="assets/comman/responsive.min.css" rel="stylesheet" />
+     <link href="assets/comman/responsive.min.css" media="all" rel="preload" as="style" onload="this.rel='stylesheet'" />
+     <style>
+          .loader {
+               position: fixed;
+               left: 0px;
+               top: 0px;
+               width: 100%;
+               height: 100%;
+               z-index: 9999;
+               background: url('assets/images/common/loader.gif') 50% 50% no-repeat rgb(255, 255, 255);
+          }
+     </style>
 </head>
 
 <body>
+
+     <!-- Loader Start Here -->
+     <div class="loader">
+
+     </div>
+     <!-- Loader End Here -->
+
      <!-- 1. Header Start Here -->
      <header class="header-wrapper">
           <nav class="navbar navbar-expand-lg fixed-top">
@@ -68,22 +86,22 @@
                                         Portfolio</a>
                                    <ul class="dropdown-menu" aria-labelledby="portfoliodropdown">
                                         <li>
-                                             <a class="dropdown-item" href="#">HTML CSS </a>
+                                             <a class="dropdown-item" href="html-css.php">HTML CSS </a>
                                         </li>
                                         <li>
-                                             <a class="dropdown-item" href="#"> Bootstrap </a>
+                                             <a class="dropdown-item" href="bootstrap.php"> Bootstrap </a>
                                         </li>
                                         <li>
-                                             <a class="dropdown-item" href="#">PHP </a>
+                                             <a class="dropdown-item" href="php.php">PHP </a>
                                         </li>
                                         <li>
-                                             <a class="dropdown-item" href="#">Wordpress</a>
+                                             <a class="dropdown-item" href="wordpress.php">Wordpress</a>
                                         </li>
 
                                    </ul>
                               </li>
                               <li class="nav-item">
-                                   <a class="nav-link" href="resume.php">Resume</a>
+                                   <a class="nav-link" href="coming-soon.php">Resume</a>
                               </li>
                               <li class="nav-item">
                                    <a class="nav-link" href="contact-me.php">Contact Me</a>
@@ -92,12 +110,12 @@
                                    <a class="nav-link" href="blog.php">Blog</a>
                               </li>
                               <li class="nav-item dropdown">
-                                   <a class="nav-link dropdown-toggle" href="tech.php" id="techdropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                   <a class="nav-link dropdown-toggle" href="coming-soon.php" id="techdropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                                         Tech</a>
                                    <ul class="dropdown-menu" aria-labelledby="techdropdown">
-                                        <li><a class="dropdown-item" href="tips-tricks.php">Tips and tricks</a></li>
-                                        <li><a class="dropdown-item" href="tutorials.php">Tutorials</a></li>
-                                        <li><a class="dropdown-item" href="source-code.php">Source Code</a></li>
+                                        <li><a class="dropdown-item" href="coming-soon.php">Tips and tricks</a></li>
+                                        <li><a class="dropdown-item" href="coming-soon.php">Tutorials</a></li>
+                                        <li><a class="dropdown-item" href="coming-soon.php">Source Code</a></li>
                                    </ul>
                               </li>
                               <!-- Hire Me Button -->

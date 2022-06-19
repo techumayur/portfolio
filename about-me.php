@@ -13,7 +13,7 @@ include('header.php');
                <div class="col-12">
                     <nav aria-label="breadcrumb">
                          <ol class="breadcrumb">
-                              <li class="breadcrumb-item"><a href="home.php">Home</a></li>
+                              <li class="breadcrumb-item"><a href="index.php">Home</a></li>
                               <li class="breadcrumb-item active" aria-current="page">About Me</li>
                          </ol>
                     </nav>
@@ -203,7 +203,7 @@ background-image:url('assets/images/common/cta-bg.webp')">
                               </div>
                          </div>
                          <div class="tab-pane fade" id="pills-personal" role="tabpanel" aria-labelledby="pills-personal-tab">
-                              <div class="row rows-cols-2 row-cols-lg-3 justify-content-center g-5 gy-5">
+                              <div class="row rows-cols-2 row-cols-lg-5 justify-content-center g-5 gy-5">
                                    <div class="col" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="2500">
                                         <div class="aboutme-skill-card">
                                              <div class="tooltip">
@@ -250,25 +250,25 @@ background-image:url('assets/images/common/cta-bg.webp')">
                </div>
                <div class="col-6 col-lg-3" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="2500">
                     <div class="card h-100 home-counter-content">
-                         <span>50+</span>
+                         <span><span class="counter" data-count="50">0</span>+</span>
                          <h5>Projects Completed</h5>
                     </div>
                </div>
                <div class="col-6 col-lg-3" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="2500">
                     <div class="card h-100 home-counter-content">
-                         <span>3+</span>
+                         <span><span class="counter" data-count="3">0</span>+</span>
                          <h5>Years Of Experience</h5>
                     </div>
                </div>
                <div class="col-6 col-lg-3" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="2500">
                     <div class="card h-100 home-counter-content">
-                         <span>50+</span>
+                         <span><span class="counter" data-count="50">0</span>+</span>
                          <h5>Client Served</h5>
                     </div>
                </div>
                <div class="col-6 col-lg-3" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="2500">
                     <div class="card h-100 home-counter-content">
-                         <span>2+</span>
+                         <span><span class="counter" data-count="2">0</span>+</span>
                          <h5>Achievements</h5>
                     </div>
                </div>

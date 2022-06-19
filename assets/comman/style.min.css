@@ -18,7 +18,10 @@
 16. Tutorials Inner
 17. Source Code
 18. Source Code Inner
-19. Footer 
+19. Privacy Policy
+20. Terms and Conditions
+21. Sitemap
+22. Footer 
 -------------------- */
 
       /* 1. General CSS Start here */
@@ -350,9 +353,11 @@
       .coming-soon-icons .social-icon a {
             background-color: var(--primary-color);
             color: var(--text-white);
-            padding: 1rem;
             align-items: center;
             display: grid;
+            height: 3rem;
+            width: 3rem;
+            text-align: center;
       }
 
       .coming-soon-icons .social-icon i {
@@ -381,6 +386,8 @@
             color: var(--text-white);
       }
 
+
+
       /* 1. General CSS End here */
 
       /* 2. Header CSS Start Here */
@@ -403,11 +410,6 @@
 
       .header-wrapper .nav-link:hover {
             color: var(--secondary-color);
-      }
-
-      .dropdown:hover .dropdown-menu {
-            display: block;
-            margin-top: 0;
       }
 
       .dropdown-item:hover,
@@ -1743,6 +1745,9 @@
             padding: 1rem;
             border-radius: 100%;
             color: var(--text-white);
+            height: 3rem;
+            width: 3rem;
+            text-align: center;
       }
 
       .contact-me-info i.fas.fa-mobile-android {
@@ -1780,7 +1785,12 @@
 
       .social-buzz .social-icon a {
             background: var(--primary-color);
-            padding: 1.0rem 1.0rem 0.8rem;
+            /* padding: 1.0rem 1.0rem 0.8rem; */
+            display: grid;
+            height: 3rem;
+            width: 3rem;
+            align-items: center;
+            text-align: center;
       }
 
       .social-post {
@@ -2061,7 +2071,64 @@
 
       /* 18. Source Code Inner CSS End Here */
 
-      /* 19. Footer CSS Start Here */
+      /* 19.Privacy Policy CSS Start Here */
+
+      .privacy-policy-section {
+            padding: 5rem 0;
+      }
+
+      .privacy-policy-section h2 {
+            font-size: 1.5rem;
+            margin: 2rem 0 0.8rem;
+      }
+
+      .privacy-policy-section li {
+            font-size: 1.1rem;
+            margin-bottom: 1rem;
+      }
+
+      /* 19.Privacy Policy CSS End Here */
+
+      /* 20. Sitemap CSS Start Here */
+
+      .sitemap-section {
+            padding: 5rem 0;
+      }
+
+      .sitemap-content {
+            padding: 2rem 0;
+      }
+
+      .sitemap-content .card {
+            height: 20rem;
+      }
+
+      .sitemap-content .card-img-overlay {
+            background-blend-mode: overlay;
+            background-color: rgba(0, 0, 0, 0.8);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+      }
+
+      .sitemap-content img {
+            width: 100%;
+            -o-object-fit: cover;
+            object-fit: cover;
+            -o-object-position: top;
+            object-position: top;
+            height: 19.9rem;
+            transition: 5s all ease;
+      }
+
+      .sitemap-content img:hover {
+            -o-object-position: bottom;
+            object-position: bottom;
+      }
+
+      /* 20. Sitemap CSS End Here */
+
+      /* 21. Footer CSS Start Here */
       footer {
             background: var(--primary-color);
             color: var(--text-white);
@@ -2081,6 +2148,11 @@
             border-radius: 100%;
             background-color: var(--bg-white);
             padding: 0.2rem 0.5rem;
+            display: grid;
+            height: 2rem;
+            width: 2rem;
+            align-items: center;
+            text-align: center;
       }
 
       .social-icon a:hover {
@@ -2169,4 +2241,4 @@
             cursor: default;
       }
 
-      /* 19. Footer CSS End Here */
+      /* 21. Footer CSS End Here */
